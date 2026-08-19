@@ -1,6 +1,13 @@
 awesome-stars
 =============
+
 reStructuredText lists from GitHub stars
+
+Lists
+-----
+
+* `Language <language.rst>`_
+* `Topic <topic.rst>`_
 
 Credits
 -------
@@ -11,4 +18,4 @@ Credits
 License
 -------
 
-See `COPYING <COPYING>`_.
+See `COPYING <COPYING>`_. Generated for `iantsysog <https://github.com/iantsysog>`_.
