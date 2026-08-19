@@ -1,0 +1,52 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    name: Package
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.14"]
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: astral-sh/setup-uv@v10.0.1
+        with:
+          enable-cache: true
+      - run: uv python install ${{ matrix.python-version }}
+      - run: uv python pin ${{ matrix.python-version }}
+      - run: uv sync --locked --dev
+      # - run: uv run ruff format --check .
+      # - run: uv run ruff check .
+      # - run: uv run ty check --error all --error-on-warning src
+      - if: matrix.python-version == '3.14'
+        run: uv build && uv run twine check dist/*
+
+  list:
+    name: List
+    needs: package
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: astral-sh/setup-uv@v10.0.1
+        with:
+          enable-cache: true
+      - run: uv python install 3.14
+      - run: uv sync --locked
+      - env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: uv run stars
+      - run: |
+          git add README.rst language.rst topic.rst
+          git diff --cached --quiet && exit 0
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git commit -m "feat: bump [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
+          git push

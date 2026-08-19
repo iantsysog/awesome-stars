@@ -1,0 +1,55 @@
+[project]
+name = "stars"
+version = "0.1.0"
+description = "reStructuredText lists from GitHub stars"
+readme = {file = "README.rst", content-type = "text/x-rst"}
+authors = [
+    { name = "iantsysog", email = "264805063+iantsysog@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+license = "AGPL-3.0-or-later"
+license-files = ["COPYING"]
+dependencies = [
+    "dulwich==1.2.12",
+    "githubkit==0.16.1",
+    "pydantic==2.13.4",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.14",
+    "Typing :: Typed",
+]
+
+[project.scripts]
+stars = "stars.main:run"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.3",
+    "ty>=0.0.73",
+    "twine>=7.0.0",
+]
+
+[tool.uv]
+default-groups = ["dev"]
+
+[tool.ruff]
+preview = true
+target-version = "py314"
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    "D",
+    "line-too-long",
+    "missing-trailing-comma",
+    "missing-copyright-notice",
+]
+
+[tool.ty.environment]
+python-version = "3.14"
