@@ -9,6 +9,8 @@ Topic
 Others
 ^^^^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
+* `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
@@ -820,25 +822,18 @@ await
 awesome
 ^^^^^^^
 
-* `maguowei/starred <https://github.com/maguowei/starred>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 
 awesome-list
 ^^^^^^^^^^^^
 
-* `maguowei/starred <https://github.com/maguowei/starred>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 awesome-resources
 ^^^^^^^^^^^^^^^^^
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-
-awesome-stars
-^^^^^^^^^^^^^
-
-* `maguowei/starred <https://github.com/maguowei/starred>`_
 
 aws-lambda
 ^^^^^^^^^^
@@ -6732,16 +6727,6 @@ standard-schema
 ^^^^^^^^^^^^^^^
 
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
-
-star
-^^^^
-
-* `maguowei/starred <https://github.com/maguowei/starred>`_
-
-starred
-^^^^^^^
-
-* `maguowei/starred <https://github.com/maguowei/starred>`_
 
 starship
 ^^^^^^^^

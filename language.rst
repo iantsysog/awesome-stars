@@ -251,6 +251,11 @@ Perl
 
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
 
+PowerShell
+^^^^^^^^^^
+
+* `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
+
 Python
 ^^^^^^
 
@@ -258,7 +263,6 @@ Python
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
-* `maguowei/starred <https://github.com/maguowei/starred>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
@@ -608,6 +612,7 @@ TeX
 TypeScript
 ^^^^^^^^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
