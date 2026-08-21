@@ -43,7 +43,7 @@ type Output = dict[str, str]
 class Categories(Mapping[str, list[Entry]]):
     def __init__(self, groups: Mapping[str, Sequence[Entry]]) -> None:
         self._groups: dict[str, list[Entry]] = {
-            category: list(items) for category, items in sorted(groups.items())
+            category: sorted(items) for category, items in sorted(groups.items())
         }
 
     @override
