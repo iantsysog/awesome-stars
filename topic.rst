@@ -9,7 +9,7 @@ Topic
 Others
 ^^^^^^
 
-* `apache/maka <https://github.com/apache/maka>`_
+* `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
@@ -279,6 +279,11 @@ agent-gui
 
 * `arcboxlabs/linkcode <https://github.com/arcboxlabs/linkcode>`_
 
+agent-runtime
+^^^^^^^^^^^^^
+
+* `apache/maka <https://github.com/apache/maka>`_
+
 agent-security
 ^^^^^^^^^^^^^^
 
@@ -297,12 +302,14 @@ agentic-ai
 ai
 ^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
 ai-agent
 ^^^^^^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 
 ai-agents
@@ -557,6 +564,11 @@ aot
 ^^^
 
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
+
+apache
+^^^^^^
+
+* `apache/maka <https://github.com/apache/maka>`_
 
 apatch
 ^^^^^^
@@ -1251,7 +1263,7 @@ cdp
 censorship-circumvention
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 certificates
 ^^^^^^^^^^^^
@@ -1405,6 +1417,7 @@ cleaner-script
 cli
 ^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
@@ -2126,6 +2139,7 @@ design-system
 desktop
 ^^^^^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
@@ -2444,6 +2458,7 @@ elearning
 electron
 ^^^^^^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 
 eleventy
@@ -2542,6 +2557,11 @@ event-driven
 ^^^^^^^^^^^^
 
 * `apple/swift-nio <https://github.com/apple/swift-nio>`_
+
+event-sourcing
+^^^^^^^^^^^^^^
+
+* `apache/maka <https://github.com/apache/maka>`_
 
 everything
 ^^^^^^^^^^
@@ -3002,7 +3022,7 @@ golang
 ^^^^^^
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
@@ -3303,7 +3323,7 @@ http-client
 http-proxy
 ^^^^^^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 http-server
 ^^^^^^^^^^^
@@ -3370,7 +3390,7 @@ hybrid
 hysteria
 ^^^^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 i18n
 ^^^^
@@ -4079,6 +4099,7 @@ llama-cpp
 llm
 ^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
@@ -4097,6 +4118,11 @@ local-development
 ^^^^^^^^^^^^^^^^^
 
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
+
+local-first
+^^^^^^^^^^^
+
+* `apache/maka <https://github.com/apache/maka>`_
 
 local-llm
 ^^^^^^^^^
@@ -4384,6 +4410,11 @@ maintainer-wanted
 ^^^^^^^^^^^^^^^^^
 
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+
+maka
+^^^^
+
+* `apache/maka <https://github.com/apache/maka>`_
 
 make
 ^^^^
@@ -5715,7 +5746,7 @@ provider-management
 proxy
 ^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 ptp
 ^^^
@@ -5803,7 +5834,7 @@ queue
 quic
 ^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 quickcheck
 ^^^^^^^^^^
@@ -5956,12 +5987,12 @@ regexp
 relay
 ^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 reliable-udp
 ^^^^^^^^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 remote-control
 ^^^^^^^^^^^^^^
@@ -6612,7 +6643,7 @@ snapshot-testing
 socks5
 ^^^^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 software-architecture
 ^^^^^^^^^^^^^^^^^^^^^
@@ -7505,6 +7536,11 @@ tool
 
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 
+tool-use
+^^^^^^^^
+
+* `apache/maka <https://github.com/apache/maka>`_
+
 tools
 ^^^^^
 
@@ -7614,7 +7650,7 @@ tui
 tun
 ^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
 turso
 ^^^^^
@@ -7717,6 +7753,7 @@ types
 typescript
 ^^^^^^^^^^
 
+* `apache/maka <https://github.com/apache/maka>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
@@ -8095,7 +8132,7 @@ volume-mixer
 vpn
 ^^^
 
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_

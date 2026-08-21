@@ -82,7 +82,7 @@ Go
 
 * `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
-* `apernet/hysteria <https://github.com/apernet/hysteria>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
@@ -670,6 +670,7 @@ XML
 Zig
 ^^^
 
+* `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
