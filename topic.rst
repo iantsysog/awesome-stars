@@ -146,6 +146,7 @@ Others
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `p-x9/ObfuscateMacro <https://github.com/p-x9/ObfuscateMacro>`_
 * `p-x9/swift-asm-macro <https://github.com/p-x9/swift-asm-macro>`_
+* `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 * `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
 * `pointfreeco/composable-core-motion <https://github.com/pointfreeco/composable-core-motion>`_
@@ -272,11 +273,6 @@ agent
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
-agent-runtime
-^^^^^^^^^^^^^
-
-* `apache/maka <https://github.com/apache/maka>`_
-
 agent-security
 ^^^^^^^^^^^^^^
 
@@ -295,14 +291,12 @@ agentic-ai
 ai
 ^^
 
-* `apache/maka <https://github.com/apache/maka>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
 ai-agent
 ^^^^^^^^
 
-* `apache/maka <https://github.com/apache/maka>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 
 ai-agents
@@ -551,11 +545,6 @@ aot
 ^^^
 
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
-
-apache
-^^^^^^
-
-* `apache/maka <https://github.com/apache/maka>`_
 
 apatch
 ^^^^^^
@@ -1389,20 +1378,14 @@ cleaner-app
 
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 
-cleaner-cli
-^^^^^^^^^^^
-
-* `tw93/Mole <https://github.com/tw93/Mole>`_
-
-cleaner-script
-^^^^^^^^^^^^^^
+cleanmymac
+^^^^^^^^^^
 
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
 cli
 ^^^
 
-* `apache/maka <https://github.com/apache/maka>`_
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
@@ -2114,7 +2097,6 @@ desktop
 ^^^^^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
-* `apache/maka <https://github.com/apache/maka>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 
@@ -2421,7 +2403,6 @@ elearning
 electron
 ^^^^^^^^
 
-* `apache/maka <https://github.com/apache/maka>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 
 eleventy
@@ -2520,11 +2501,6 @@ event-driven
 ^^^^^^^^^^^^
 
 * `apple/swift-nio <https://github.com/apple/swift-nio>`_
-
-event-sourcing
-^^^^^^^^^^^^^^
-
-* `apache/maka <https://github.com/apache/maka>`_
 
 everything
 ^^^^^^^^^^
@@ -4033,7 +4009,6 @@ llm
 ^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-* `apache/maka <https://github.com/apache/maka>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 
@@ -4051,11 +4026,6 @@ local-development
 ^^^^^^^^^^^^^^^^^
 
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
-
-local-first
-^^^^^^^^^^^
-
-* `apache/maka <https://github.com/apache/maka>`_
 
 local-llm
 ^^^^^^^^^
@@ -4270,6 +4240,7 @@ macos-app
 * `f/textream <https://github.com/f/textream>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 macos-application
 ^^^^^^^^^^^^^^^^^
@@ -4343,11 +4314,6 @@ maintainer-wanted
 ^^^^^^^^^^^^^^^^^
 
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
-
-maka
-^^^^
-
-* `apache/maka <https://github.com/apache/maka>`_
 
 make
 ^^^^
@@ -4782,6 +4748,7 @@ native
 ^^^^^^
 
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 nerdctl
 ^^^^^^^
@@ -6884,6 +6851,7 @@ swift
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
@@ -7096,6 +7064,7 @@ swiftui
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 
 swiftui-camera
@@ -7427,11 +7396,6 @@ tool
 
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 
-tool-use
-^^^^^^^^
-
-* `apache/maka <https://github.com/apache/maka>`_
-
 tools
 ^^^^^
 
@@ -7646,7 +7610,6 @@ typescript
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
-* `apache/maka <https://github.com/apache/maka>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_

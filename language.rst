@@ -532,6 +532,7 @@ Swift
 * `p-x9/ObfuscateMacro <https://github.com/p-x9/ObfuscateMacro>`_
 * `p-x9/swift-asm-macro <https://github.com/p-x9/swift-asm-macro>`_
 * `p-x9/swift-fishhook <https://github.com/p-x9/swift-fishhook>`_
+* `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
@@ -617,7 +618,6 @@ TypeScript
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
-* `apache/maka <https://github.com/apache/maka>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
