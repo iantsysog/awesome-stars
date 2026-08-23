@@ -91,6 +91,7 @@ Others
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
+* `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
@@ -179,6 +180,7 @@ Others
 * `uazo/cromite <https://github.com/uazo/cromite>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
+* `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
 * `whyorean/AuroraStore <https://github.com/whyorean/AuroraStore>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
@@ -1694,8 +1696,8 @@ concurrency
 * `apple/swift-atomics <https://github.com/apple/swift-atomics>`_
 * `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
+* `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
-* `mattmassicotte/TaskGate <https://github.com/mattmassicotte/TaskGate>`_
 
 conditional-conformance
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -1820,6 +1822,11 @@ cranelift
 ^^^^^^^^^
 
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
+
+crash-reporting
+^^^^^^^^^^^^^^^
+
+* `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 
 creative-coding
 ^^^^^^^^^^^^^^^
@@ -2115,6 +2122,7 @@ developer-tools
 
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
@@ -3484,6 +3492,7 @@ ios
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
@@ -3784,6 +3793,21 @@ keypaths
 ^^^^^^^^
 
 * `pointfreeco/swift-case-paths <https://github.com/pointfreeco/swift-case-paths>`_
+
+keypress
+^^^^^^^^
+
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+
+keystroke-visualizer
+^^^^^^^^^^^^^^^^^^^^
+
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+
+keystrokes
+^^^^^^^^^^
+
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 
 kimi-k3
 ^^^^^^^
@@ -4205,11 +4229,13 @@ macos
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `mathiasbynens/dotfiles <https://github.com/mathiasbynens/dotfiles>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
@@ -5026,6 +5052,7 @@ open-source
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
@@ -6803,6 +6830,7 @@ swift
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
+* `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
@@ -6813,11 +6841,11 @@ swift
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
-* `mattmassicotte/TaskGate <https://github.com/mattmassicotte/TaskGate>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
@@ -7045,6 +7073,7 @@ swiftui
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_

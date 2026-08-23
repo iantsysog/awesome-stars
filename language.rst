@@ -227,6 +227,7 @@ Objective-C
 ^^^^^^^^^^^
 
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
+* `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
@@ -473,11 +474,13 @@ Swift
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
+* `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `claration/Feather <https://github.com/claration/Feather>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_
+* `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
 * `f/textream <https://github.com/f/textream>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
@@ -495,6 +498,7 @@ Swift
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
@@ -505,7 +509,6 @@ Swift
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
-* `mattmassicotte/TaskGate <https://github.com/mattmassicotte/TaskGate>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
@@ -592,6 +595,7 @@ Swift
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+* `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
