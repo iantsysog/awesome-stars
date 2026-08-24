@@ -98,6 +98,7 @@ Go
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
@@ -169,6 +170,7 @@ Kotlin
 * `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
+* `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
@@ -380,7 +382,6 @@ Swift
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `CleanCocoa/AsyncFileMonitor <https://github.com/CleanCocoa/AsyncFileMonitor>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
@@ -391,6 +392,7 @@ Swift
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
+* `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
 * `Lakr233/Asspp <https://github.com/Lakr233/Asspp>`_
 * `Lakr233/AuxiliaryExecute <https://github.com/Lakr233/AuxiliaryExecute>`_
 * `Lakr233/BBackupp <https://github.com/Lakr233/BBackupp>`_
@@ -496,6 +498,7 @@ Swift
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
@@ -516,7 +519,6 @@ Swift
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 * `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
 * `naan/FocusOnAppear <https://github.com/naan/FocusOnAppear>`_

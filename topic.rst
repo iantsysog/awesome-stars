@@ -26,6 +26,7 @@ Others
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
+* `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `Lakr233/Asspp <https://github.com/Lakr233/Asspp>`_
@@ -38,6 +39,7 @@ Others
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `LiYanan2004/MathShape <https://github.com/LiYanan2004/MathShape>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
+* `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
@@ -132,6 +134,7 @@ Others
 * `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
+* `mjl-/mox <https://github.com/mjl-/mox>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
@@ -1474,7 +1477,7 @@ cnki
 cocoa
 ^^^^^
 
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 
 cocoapods
@@ -1656,11 +1659,6 @@ components
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
-
-components-library
-^^^^^^^^^^^^^^^^^^
-
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 
 compose
 ^^^^^^^
@@ -2763,8 +2761,8 @@ formerly-lsposed-module
 foundation
 ^^^^^^^^^^
 
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 
 framework
@@ -3070,7 +3068,6 @@ hacktoberfest
 * `iina/iina <https://github.com/iina/iina>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
@@ -4200,7 +4197,6 @@ macos
 ^^^^^
 
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
@@ -4227,6 +4223,7 @@ macos
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
@@ -4236,7 +4233,6 @@ macos
 * `mathiasbynens/dotfiles <https://github.com/mathiasbynens/dotfiles>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
@@ -4881,7 +4877,7 @@ nsstatusitem
 nstextview
 ^^^^^^^^^^
 
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 
 nsubiquitouskeyvaluestore
@@ -6791,7 +6787,6 @@ swift
 * `Alex-Ozun/swift-effect <https://github.com/Alex-Ozun/swift-effect>`_
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -6841,6 +6836,7 @@ swift
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
@@ -6849,7 +6845,6 @@ swift
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 * `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
@@ -7076,7 +7071,6 @@ swiftui
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
@@ -7486,11 +7480,6 @@ translators
 
 * `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
 
-translucent
-^^^^^^^^^^^
-
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
-
 transpiler
 ^^^^^^^^^^
 
@@ -7724,7 +7713,7 @@ uitest
 uitextview
 ^^^^^^^^^^
 
-* `ChimeHQ/Rearrange <https://github.com/ChimeHQ/Rearrange>`_
+* `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 
 uiview
 ^^^^^^
@@ -7789,7 +7778,6 @@ user-interface
 ^^^^^^^^^^^^^^
 
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
-* `mrkai77/Luminare <https://github.com/mrkai77/Luminare>`_
 
 user-journey
 ^^^^^^^^^^^^
