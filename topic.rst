@@ -18,7 +18,6 @@ Others
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
-* `CleanCocoa/AsyncFileMonitor <https://github.com/CleanCocoa/AsyncFileMonitor>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
@@ -49,7 +48,6 @@ Others
 * `NextAlone/Nnngram <https://github.com/NextAlone/Nnngram>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
-* `OpenSwiftUIProject/ProtobufKit <https://github.com/OpenSwiftUIProject/ProtobufKit>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
 * `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
@@ -84,7 +82,6 @@ Others
 * `apple/swift-nio-transport-services <https://github.com/apple/swift-nio-transport-services>`_
 * `apple/swift-ntp <https://github.com/apple/swift-ntp>`_
 * `apple/swift-profile-recorder <https://github.com/apple/swift-profile-recorder>`_
-* `apple/swift-protobuf <https://github.com/apple/swift-protobuf>`_
 * `apple/swift-service-discovery <https://github.com/apple/swift-service-discovery>`_
 * `apple/swift-statsd-client <https://github.com/apple/swift-statsd-client>`_
 * `apple/swift-tls <https://github.com/apple/swift-tls>`_
@@ -114,6 +111,7 @@ Others
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
+* `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
@@ -123,7 +121,6 @@ Others
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
-* `kylef/PathKit <https://github.com/kylef/PathKit>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
@@ -143,7 +140,6 @@ Others
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
-* `okooo5km/FSWatcher <https://github.com/okooo5km/FSWatcher>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
@@ -1484,7 +1480,6 @@ cocoapods
 ^^^^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 
 cococa
@@ -1573,7 +1568,6 @@ coloros
 combine
 ^^^^^^^
 
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 
 combine-framework
@@ -2648,11 +2642,6 @@ filemanager
 
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 
-files
-^^^^^
-
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
-
 filestorage
 ^^^^^^^^^^^
 
@@ -2730,11 +2719,6 @@ flutter-latex
 ^^^^^^^^^^^^^
 
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
-
-folders
-^^^^^^^
-
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 
 form-validation
 ^^^^^^^^^^^^^^^
@@ -3473,7 +3457,6 @@ ios
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
@@ -3993,7 +3976,6 @@ linter
 linux
 ^^^^^
 
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
@@ -4202,7 +4184,6 @@ macos
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
@@ -5788,6 +5769,16 @@ react
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
+react-aria
+^^^^^^^^^^
+
+* `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+
+react-aria-components
+^^^^^^^^^^^^^^^^^^^^^
+
+* `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+
 react-components
 ^^^^^^^^^^^^^^^^
 
@@ -5802,11 +5793,6 @@ reactive-extensions
 ^^^^^^^^^^^^^^^^^^^
 
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
-
-reactive-programming
-^^^^^^^^^^^^^^^^^^^^
-
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 
 reactiveswift
 ^^^^^^^^^^^^^
@@ -6241,11 +6227,6 @@ screenshot-testing
 ^^^^^^^^^^^^^^^^^^
 
 * `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-
-script
-^^^^^^
-
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 
 script-runner
 ^^^^^^^^^^^^^
@@ -6791,12 +6772,10 @@ swift
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `Moya/Moya <https://github.com/Moya/Moya>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `Swift-CowBox/Swift-CowBox <https://github.com/Swift-CowBox/Swift-CowBox>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
@@ -6944,7 +6923,6 @@ swift-package-manager
 
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
@@ -6959,11 +6937,6 @@ swift-package-manager-plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
-
-swift-script
-^^^^^^^^^^^^
-
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 
 swift-server
 ^^^^^^^^^^^^
@@ -7543,7 +7516,6 @@ tutorials
 tvos
 ^^^^
 
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
@@ -8037,7 +8009,6 @@ wasi
 wasm
 ^^^^
 
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 
@@ -8050,7 +8021,6 @@ watchos
 ^^^^^^^
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
@@ -8117,7 +8087,6 @@ web-standards
 webassembly
 ^^^^^^^^^^^
 
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 
 webdav
@@ -8221,7 +8190,6 @@ windows
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
@@ -8277,7 +8245,6 @@ xcode
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 * `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_

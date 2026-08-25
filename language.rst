@@ -383,14 +383,12 @@ Swift
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CleanCocoa/AsyncFileMonitor <https://github.com/CleanCocoa/AsyncFileMonitor>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
-* `JohnSundell/Files <https://github.com/JohnSundell/Files>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
 * `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
 * `Lakr233/Asspp <https://github.com/Lakr233/Asspp>`_
@@ -410,10 +408,8 @@ Swift
 * `Moya/Moya <https://github.com/Moya/Moya>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
-* `OpenCombine/OpenCombine <https://github.com/OpenCombine/OpenCombine>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
-* `OpenSwiftUIProject/ProtobufKit <https://github.com/OpenSwiftUIProject/ProtobufKit>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `Swift-CowBox/Swift-CowBox <https://github.com/Swift-CowBox/Swift-CowBox>`_
@@ -464,7 +460,6 @@ Swift
 * `apple/swift-ntp <https://github.com/apple/swift-ntp>`_
 * `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
 * `apple/swift-profile-recorder <https://github.com/apple/swift-profile-recorder>`_
-* `apple/swift-protobuf <https://github.com/apple/swift-protobuf>`_
 * `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 * `apple/swift-service-discovery <https://github.com/apple/swift-service-discovery>`_
 * `apple/swift-statsd-client <https://github.com/apple/swift-statsd-client>`_
@@ -495,6 +490,7 @@ Swift
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
+* `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
@@ -507,7 +503,6 @@ Swift
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
-* `kylef/PathKit <https://github.com/kylef/PathKit>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
@@ -528,7 +523,6 @@ Swift
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
-* `okooo5km/FSWatcher <https://github.com/okooo5km/FSWatcher>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
