@@ -27,6 +27,7 @@ C
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -53,10 +54,10 @@ C#
 C++
 ^^^
 
-* `Anatdx/YukiZygisk <https://github.com/Anatdx/YukiZygisk>`_
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
 * `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
+* `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
@@ -95,6 +96,7 @@ Go
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+* `elves/elvish <https://github.com/elves/elvish>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
@@ -244,7 +246,6 @@ Objective-C++
 Others
 ^^^^^^
 
-* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
@@ -266,6 +267,7 @@ Python
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
+* `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
@@ -362,8 +364,6 @@ Shell
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
-* `jorgebucaran/fisher <https://github.com/jorgebucaran/fisher>`_
-* `mathiasbynens/dotfiles <https://github.com/mathiasbynens/dotfiles>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
@@ -415,7 +415,6 @@ Swift
 * `Swift-CowBox/Swift-CowBox <https://github.com/Swift-CowBox/Swift-CowBox>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
@@ -499,7 +498,6 @@ Swift
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
-* `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
@@ -514,7 +512,6 @@ Swift
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
-* `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
 * `naan/FocusOnAppear <https://github.com/naan/FocusOnAppear>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
@@ -537,6 +534,7 @@ Swift
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 * `pointfreeco/combine-schedulers <https://github.com/pointfreeco/combine-schedulers>`_
 * `pointfreeco/composable-core-motion <https://github.com/pointfreeco/composable-core-motion>`_
+* `pointfreeco/episode-code-samples <https://github.com/pointfreeco/episode-code-samples>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 * `pointfreeco/swift-case-paths <https://github.com/pointfreeco/swift-case-paths>`_
 * `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_

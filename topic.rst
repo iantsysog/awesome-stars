@@ -14,7 +14,6 @@ Others
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
-* `Anatdx/YukiZygisk <https://github.com/Anatdx/YukiZygisk>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
@@ -35,6 +34,7 @@ Others
 * `Lakr233/FixTim <https://github.com/Lakr233/FixTim>`_
 * `Lakr233/MobileTransfer <https://github.com/Lakr233/MobileTransfer>`_
 * `Lakr233/MuseAmp <https://github.com/Lakr233/MuseAmp>`_
+* `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `LiYanan2004/MathShape <https://github.com/LiYanan2004/MathShape>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
@@ -51,6 +51,7 @@ Others
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
 * `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
+* `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
@@ -150,6 +151,7 @@ Others
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 * `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
 * `pointfreeco/composable-core-motion <https://github.com/pointfreeco/composable-core-motion>`_
+* `pointfreeco/episode-code-samples <https://github.com/pointfreeco/episode-code-samples>`_
 * `pointfreeco/swift-concurrency-extras <https://github.com/pointfreeco/swift-concurrency-extras>`_
 * `pointfreeco/swift-navigation <https://github.com/pointfreeco/swift-navigation>`_
 * `pointfreeco/swift-parsing <https://github.com/pointfreeco/swift-parsing>`_
@@ -608,7 +610,6 @@ apple
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
-* `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
@@ -811,7 +812,6 @@ await
 awesome
 ^^^^^^^
 
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 awesome-list
@@ -854,7 +854,6 @@ bash
 ^^^^
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
-* `mathiasbynens/dotfiles <https://github.com/mathiasbynens/dotfiles>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
@@ -1211,11 +1210,6 @@ cargo
 
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 
-carthage
-^^^^^^^^
-
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
-
 cbor
 ^^^^
 
@@ -1480,7 +1474,6 @@ cocoapods
 ^^^^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 
 cococa
 ^^^^^^
@@ -2281,11 +2274,6 @@ dominant-colors
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 
-dotfiles
-^^^^^^^^
-
-* `mathiasbynens/dotfiles <https://github.com/mathiasbynens/dotfiles>`_
-
 dotnet
 ^^^^^^
 
@@ -2522,11 +2510,6 @@ extension
 
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
 
-extensions
-^^^^^^^^^^
-
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
-
 face-id
 ^^^^^^^
 
@@ -2647,11 +2630,6 @@ filestorage
 
 * `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
 
-filesystem
-^^^^^^^^^^
-
-* `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
-
 finance
 ^^^^^^^
 
@@ -2671,13 +2649,7 @@ fish
 ^^^^
 
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
-* `jorgebucaran/fisher <https://github.com/jorgebucaran/fisher>`_
 * `starship/starship <https://github.com/starship/starship>`_
-
-fish-plugin
-^^^^^^^^^^^
-
-* `jorgebucaran/fisher <https://github.com/jorgebucaran/fisher>`_
 
 fish-prompt
 ^^^^^^^^^^^
@@ -2745,7 +2717,6 @@ formerly-lsposed-module
 foundation
 ^^^^^^^^^^
 
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 
@@ -2942,6 +2913,7 @@ go
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
+* `elves/elvish <https://github.com/elves/elvish>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
@@ -3460,7 +3432,6 @@ ios
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `claration/Feather <https://github.com/claration/Feather>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
@@ -4186,7 +4157,6 @@ macos
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
@@ -4211,7 +4181,6 @@ macos
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
-* `mathiasbynens/dotfiles <https://github.com/mathiasbynens/dotfiles>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
@@ -4515,11 +4484,6 @@ metrics
 * `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 
-micro-framework
-^^^^^^^^^^^^^^^
-
-* `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
-
 microsoft
 ^^^^^^^^^
 
@@ -4555,11 +4519,6 @@ minifier
 ^^^^^^^^
 
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
-
-mit
-^^^
-
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 
 miuix
 ^^^^^
@@ -5026,7 +4985,6 @@ open-source
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
@@ -5226,11 +5184,6 @@ patcher
 
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 
-path
-^^^^
-
-* `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
-
 paul-heckel-algorithm
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -5270,6 +5223,11 @@ pdfjs
 ^^^^^
 
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
+
+pearcleaner
+^^^^^^^^^^^
+
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 peer-to-peer
 ^^^^^^^^^^^^
@@ -5388,11 +5346,6 @@ playwright
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
-
-plugin-manager
-^^^^^^^^^^^^^^
-
-* `jorgebucaran/fisher <https://github.com/jorgebucaran/fisher>`_
 
 png
 ^^^
@@ -5517,11 +5470,6 @@ productivity
 
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 
-productivity-booster
-^^^^^^^^^^^^^^^^^^^^
-
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
-
 profiler
 ^^^^^^^^
 
@@ -5537,16 +5485,12 @@ profiling-library
 
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 
-programming
-^^^^^^^^^^^
-
-* `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
-
 programming-language
 ^^^^^^^^^^^^^^^^^^^^
 
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
+* `elves/elvish <https://github.com/elves/elvish>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 
 prometheus
@@ -6365,6 +6309,7 @@ shell
 ^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `elves/elvish <https://github.com/elves/elvish>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
@@ -6780,7 +6725,6 @@ swift
 * `Swift-CowBox/Swift-CowBox <https://github.com/Swift-CowBox/Swift-CowBox>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `VergeGroup/swift-state-graph <https://github.com/VergeGroup/swift-state-graph>`_
@@ -6818,13 +6762,11 @@ swift
 * `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
-* `krzysztofzablocki/Swift-Macros <https://github.com/krzysztofzablocki/Swift-Macros>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
-* `mxcl/Path.swift <https://github.com/mxcl/Path.swift>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
@@ -6878,16 +6820,10 @@ swift-concurrency
 
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 
-swift-extensions
-^^^^^^^^^^^^^^^^
-
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
-
 swift-library
 ^^^^^^^^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
 
 swift-macros
@@ -6923,7 +6859,6 @@ swift-package-manager
 
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
@@ -6980,11 +6915,6 @@ swiftdata
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
-
-swifterswift
-^^^^^^^^^^^^
-
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 
 swiftmacros
 ^^^^^^^^^^^
@@ -7516,7 +7446,6 @@ tutorials
 tvos
 ^^^^
 
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
@@ -7672,7 +7601,6 @@ uicolor-hex
 uikit
 ^^^^^
 
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
@@ -7722,7 +7650,6 @@ uninstaller
 unit-testing
 ^^^^^^^^^^^^
 
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 
@@ -7734,6 +7661,7 @@ universal
 unix
 ^^^^
 
+* `elves/elvish <https://github.com/elves/elvish>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
 unocss
@@ -8021,7 +7949,6 @@ watchos
 ^^^^^^^
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 
@@ -8245,7 +8172,6 @@ xcode
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `SwifterSwift/SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
