@@ -120,7 +120,7 @@ HTML
 Haskell
 ^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 Java

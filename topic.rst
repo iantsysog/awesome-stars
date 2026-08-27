@@ -217,7 +217,7 @@ accessiblity
 accounting
 ^^^^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 acme
 ^^^^
@@ -1590,7 +1590,7 @@ command-line-tool
 ^^^^^^^^^^^^^^^^^
 
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 command-line-utilities
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1714,7 +1714,7 @@ configuration
 console-application
 ^^^^^^^^^^^^^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 container
 ^^^^^^^^^
@@ -2633,7 +2633,7 @@ filestorage
 finance
 ^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 firewall
 ^^^^^^^^
@@ -3060,13 +3060,13 @@ hash
 haskell
 ^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 haskell-applications
 ^^^^^^^^^^^^^^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 hdr
 ^^^
@@ -3117,7 +3117,7 @@ high-performance
 hledger
 ^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 home-assistant
 ^^^^^^^^^^^^^^
@@ -3893,7 +3893,7 @@ ledger
 ^^^^^^
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 lexer
 ^^^^^
@@ -5324,12 +5324,12 @@ pkl
 plaintext
 ^^^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 plaintextaccounting
 ^^^^^^^^^^^^^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 player
 ^^^^^^
@@ -7088,8 +7088,8 @@ tableview
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
 
-tag-production
-^^^^^^^^^^^^^^
+tag-non-production
+^^^^^^^^^^^^^^^^^^
 
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 
@@ -7421,7 +7421,7 @@ tsforge
 tui
 ^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 tun
 ^^^
@@ -7972,7 +7972,7 @@ web-analytics
 web-application
 ^^^^^^^^^^^^^^^
 
-* `simonmichael/hledger <https://github.com/simonmichael/hledger>`_
+* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
 
 web-cache
 ^^^^^^^^^
