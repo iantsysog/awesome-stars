@@ -246,6 +246,7 @@ Objective-C++
 Others
 ^^^^^^
 
+* `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
@@ -280,6 +281,7 @@ Python
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_

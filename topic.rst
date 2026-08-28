@@ -63,6 +63,7 @@ Others
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
+* `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
 * `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
@@ -705,6 +706,7 @@ async
 * `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
 async-await
@@ -726,6 +728,11 @@ asynchronous-io
 ^^^^^^^^^^^^^^^
 
 * `apple/swift-nio <https://github.com/apple/swift-nio>`_
+
+asyncio
+^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 atomic-css
 ^^^^^^^^^^
@@ -1235,6 +1242,11 @@ censorship-circumvention
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+
+certificate-revocation
+^^^^^^^^^^^^^^^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 certificates
 ^^^^^^^^^^^^
@@ -2204,7 +2216,13 @@ dns
 dns-over-https
 ^^^^^^^^^^^^^^
 
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
+
+dns-over-tls
+^^^^^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 dns-privacy
 ^^^^^^^^^^^
@@ -2236,6 +2254,7 @@ dnssec
 ^^^^^^
 
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 docker
 ^^^^^^
@@ -2262,6 +2281,7 @@ docker-image
 doh
 ^^^
 
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
 
 dominant-color
@@ -2273,6 +2293,11 @@ dominant-colors
 ^^^^^^^^^^^^^^^
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
+
+doq
+^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 dotnet
 ^^^^^^
@@ -3032,6 +3057,11 @@ hacktoberfest-accepted
 
 * `codse/animata <https://github.com/codse/animata>`_
 
+happy-eyeballs
+^^^^^^^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
+
 hardbrick
 ^^^^^^^^^
 
@@ -3176,6 +3206,7 @@ http
 
 * `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 
@@ -3187,6 +3218,7 @@ http-cache
 http-client
 ^^^^^^^^^^^
 
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 
@@ -3204,12 +3236,14 @@ http2
 ^^^^^
 
 * `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 
 http3
 ^^^^^
 
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 httpcore-cache
 ^^^^^^^^^^^^^^
@@ -4664,6 +4698,11 @@ multiplatform
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 
+multiplexed
+^^^^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
+
 music
 ^^^^^
 
@@ -4918,6 +4957,11 @@ ocaml
 
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
+
+ocsp
+^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 octokit
 ^^^^^^^
@@ -5392,6 +5436,11 @@ posix
 
 * `apple/swift-system <https://github.com/apple/swift-system>`_
 
+post-quantum
+^^^^^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
+
 postgres
 ^^^^^^^^
 
@@ -5595,6 +5644,7 @@ python
 * `astral-sh/uv <https://github.com/astral-sh/uv>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
@@ -5650,6 +5700,7 @@ quic
 ^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 quickcheck
 ^^^^^^^^^^
@@ -5823,6 +5874,11 @@ rendering
 ^^^^^^^^^
 
 * `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
+
+requests
+^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 requires-root
 ^^^^^^^^^^^^^
@@ -8020,6 +8076,11 @@ webdav
 ^^^^^^
 
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
+
+websocket
+^^^^^^^^^
+
+* `jawah/niquests <https://github.com/jawah/niquests>`_
 
 webui
 ^^^^^
