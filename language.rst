@@ -34,6 +34,7 @@ C
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
+* `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `superturtlee/gbl_root_canoe <https://github.com/superturtlee/gbl_root_canoe>`_
@@ -314,6 +315,7 @@ Rust
 ^^^^
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_

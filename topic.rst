@@ -128,6 +128,7 @@ Others
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
+* `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
@@ -1877,6 +1878,11 @@ css-animations
 
 * `codse/animata <https://github.com/codse/animata>`_
 
+css-grid
+^^^^^^^^
+
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+
 ctex
 ^^^^
 
@@ -2701,6 +2707,11 @@ flatmap
 
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 
+flexbox
+^^^^^^^
+
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+
 flutter
 ^^^^^^^
 
@@ -3039,6 +3050,7 @@ hacktober
 hacktoberfest
 ^^^^^^^^^^^^^
 
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `Moya/Moya <https://github.com/Moya/Moya>`_
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
@@ -3917,6 +3929,11 @@ latex3-development
 ^^^^^^^^^^^^^^^^^^
 
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
+
+layout
+^^^^^^
+
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 
 learning
 ^^^^^^^^
@@ -6081,6 +6098,7 @@ runtime-validation
 rust
 ^^^^
 
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
@@ -7619,6 +7637,7 @@ ui
 ^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
+* `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
