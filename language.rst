@@ -41,6 +41,7 @@ C
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
+* `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
 
 C#
 ^^
@@ -110,6 +111,7 @@ Go
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 HTML
 ^^^^
@@ -293,6 +295,7 @@ Python
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
+* `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
 QML
@@ -370,7 +373,6 @@ Shell
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
-* `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 
 Svelte
 ^^^^^^

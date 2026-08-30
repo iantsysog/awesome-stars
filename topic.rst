@@ -194,6 +194,7 @@ Others
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 * `zotero/zotero <https://github.com/zotero/zotero>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_
+* `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
 
 abbreviation
 ^^^^^^^^^^^^
@@ -789,6 +790,7 @@ automation
 ^^^^^^^^^^
 
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 automation-testing
 ^^^^^^^^^^^^^^^^^^
@@ -1306,6 +1308,16 @@ chromium-browser
 ^^^^^^^^^^^^^^^^
 
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
+
+ci
+^^
+
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
+
+cicd
+^^^^
+
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 cie94
 ^^^^^
@@ -2139,6 +2151,7 @@ devops
 ^^^^^^
 
 * `go-task/task <https://github.com/go-task/task>`_
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 dfa
 ^^^
@@ -2268,6 +2281,7 @@ docker
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 docker-compose
 ^^^^^^^^^^^^^^
@@ -3880,6 +3894,7 @@ kubernetes
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 kvm
 ^^^
@@ -8232,6 +8247,11 @@ wireless-debugging
 ^^^^^^^^^^^^^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+
+woodpeckerci
+^^^^^^^^^^^^
+
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 wwdc25
 ^^^^^^
