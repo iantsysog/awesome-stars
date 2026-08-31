@@ -4379,6 +4379,7 @@ markdown
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
 markdown-editor
 ^^^^^^^^^^^^^^^
@@ -5505,6 +5506,11 @@ predicate
 
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 
+presentation
+^^^^^^^^^^^^
+
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+
 printer
 ^^^^^^^
 
@@ -6500,6 +6506,11 @@ skills
 ^^^^^^
 
 * `android/skills <https://github.com/android/skills>`_
+
+slides
+^^^^^^
+
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
 smart-home
 ^^^^^^^^^^
@@ -7952,6 +7963,7 @@ vite
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
 vite-plugin
 ^^^^^^^^^^^
@@ -8008,6 +8020,12 @@ vue
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+
+vueuse
+^^^^^^
+
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
 wai-aria
 ^^^^^^^^

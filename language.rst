@@ -650,6 +650,7 @@ TypeScript
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 * `syt2/zotero-addons <https://github.com/syt2/zotero-addons>`_
 * `toss/es-toolkit <https://github.com/toss/es-toolkit>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
