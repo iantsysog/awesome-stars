@@ -166,6 +166,7 @@ Others
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `superturtlee/gbl_root_canoe <https://github.com/superturtlee/gbl_root_canoe>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
+* `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `swiftlang/swift-driver <https://github.com/swiftlang/swift-driver>`_
 * `swiftlang/swift-evolution <https://github.com/swiftlang/swift-evolution>`_
 * `swiftlang/swift-experimental-string-processing <https://github.com/swiftlang/swift-experimental-string-processing>`_
@@ -5343,6 +5344,7 @@ performance
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
+* `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 
 performance-analysis
@@ -6873,6 +6875,7 @@ swift
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
+* `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
@@ -6930,6 +6933,7 @@ swift-macros
 ^^^^^^^^^^^^
 
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
+* `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 
 swift-nio
@@ -7077,6 +7081,7 @@ swiftui
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
+* `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 * `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_

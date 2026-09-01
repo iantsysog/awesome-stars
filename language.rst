@@ -252,6 +252,7 @@ Others
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 
 Perl
@@ -528,6 +529,7 @@ Swift
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
+* `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `p-x9/AssociatedObject <https://github.com/p-x9/AssociatedObject>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
