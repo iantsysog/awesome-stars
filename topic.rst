@@ -449,7 +449,7 @@ android
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
@@ -1911,6 +1911,11 @@ cups
 
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 
+cyclonedx
+^^^^^^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
 daisydisk
 ^^^^^^^^^
 
@@ -2063,6 +2068,11 @@ denofresh
 
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 
+dependencies
+^^^^^^^^^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
 dependencies-management
 ^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2121,7 +2131,7 @@ desktop
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 dev-tools
 ^^^^^^^^^
@@ -2928,7 +2938,7 @@ github-api
 github-app
 ^^^^^^^^^^
 
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 github-markdown
 ^^^^^^^^^^^^^^^
@@ -2943,7 +2953,7 @@ github-sdk
 github-store
 ^^^^^^^^^^^^
 
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 glsl
 ^^^^
@@ -3847,7 +3857,7 @@ kotlin
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
@@ -3857,7 +3867,7 @@ kotlin-android
 
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 kotlin-coroutines
@@ -3868,7 +3878,7 @@ kotlin-coroutines
 kotlin-desktop
 ^^^^^^^^^^^^^^
 
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 kotlin-flow
 ^^^^^^^^^^^
@@ -3878,7 +3888,7 @@ kotlin-flow
 kotlin-multiplatform
 ^^^^^^^^^^^^^^^^^^^^
 
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 kravasign
 ^^^^^^^^^
@@ -4015,7 +4025,7 @@ linux
 ^^^^^
 
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
@@ -4245,8 +4255,8 @@ macos
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
@@ -4277,7 +4287,7 @@ macos-app
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -5050,7 +5060,7 @@ oneplus
 online-store
 ^^^^^^^^^^^^
 
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 opam
 ^^^^
@@ -5066,13 +5076,13 @@ open-source
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
 open-source-project
 ^^^^^^^^^^^^^^^^^^^
 
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 openapi
 ^^^^^^^
@@ -5203,9 +5213,15 @@ p2p
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 
+package
+^^^^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
 package-management
 ^^^^^^^^^^^^^^^^^^
 
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
 package-manager
@@ -5215,6 +5231,11 @@ package-manager
 * `nubjs/nub <https://github.com/nubjs/nub>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
+
+package-url
+^^^^^^^^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
 packaging
 ^^^^^^^^^
@@ -5667,6 +5688,11 @@ puppeteer
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+
+purl
+^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
 pydantic
 ^^^^^^^^
@@ -6223,6 +6249,11 @@ satysfi
 
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 
+sbom
+^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
 scalability
 ^^^^^^^^^^^
 
@@ -6594,6 +6625,11 @@ spatial-audio
 ^^^^^^^^^^^^^
 
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
+
+spdx
+^^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
 spm
 ^^^
@@ -7780,6 +7816,11 @@ unsigned-integers
 
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 
+url
+^^^
+
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
 user-interface
 ^^^^^^^^^^^^^^
 
@@ -8236,7 +8277,7 @@ windows
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 

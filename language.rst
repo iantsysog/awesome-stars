@@ -196,7 +196,7 @@ Kotlin
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
-* `kurikomi-labs/komi-store <https://github.com/kurikomi-labs/komi-store>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
@@ -294,6 +294,7 @@ Python
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
