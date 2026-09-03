@@ -85,6 +85,7 @@ Go
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
@@ -234,6 +235,7 @@ Objective-C
 ^^^^^^^^^^^
 
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
+* `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
@@ -512,6 +514,7 @@ Swift
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_

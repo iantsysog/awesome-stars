@@ -42,6 +42,7 @@ Others
 * `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
+* `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `NextAlone/Nagram <https://github.com/NextAlone/Nagram>`_
@@ -106,6 +107,7 @@ Others
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
+* `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `google/guice <https://github.com/google/guice>`_
@@ -1803,6 +1805,11 @@ coredata
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 
+coresimulator
+^^^^^^^^^^^^^
+
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
+
 coreutils
 ^^^^^^^^^
 
@@ -2149,6 +2156,7 @@ developer-tools
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
@@ -3544,6 +3552,7 @@ ios-simulator
 ^^^^^^^^^^^^^
 
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 
 ios-swift
 ^^^^^^^^^
@@ -4257,6 +4266,7 @@ macos
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
@@ -6901,6 +6911,7 @@ swift
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
@@ -8339,6 +8350,7 @@ xcode
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
+* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
