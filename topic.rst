@@ -105,6 +105,7 @@ Others
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
+* `facebook/sapling <https://github.com/facebook/sapling>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
@@ -1410,6 +1411,7 @@ cli
 
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
+* `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
@@ -2920,6 +2922,7 @@ gh-pages
 git
 ^^^
 
+* `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
 * `j178/prek <https://github.com/j178/prek>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
@@ -4592,6 +4595,7 @@ metaprogramming
 metrics
 ^^^^^^^
 
+* `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 
@@ -5234,6 +5238,11 @@ otg
 ^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+
+otlp
+^^^^
+
+* `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 
 overpass-api
 ^^^^^^^^^^^^
@@ -8370,6 +8379,11 @@ woodpeckerci
 ^^^^^^^^^^^^
 
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
+
+workflow
+^^^^^^^^
+
+* `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 
 wwdc25
 ^^^^^^

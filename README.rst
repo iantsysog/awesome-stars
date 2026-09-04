@@ -8,6 +8,7 @@ Lists
 
 * `Language <language.rst>`_
 * `Topic <topic.rst>`_
+* `List <list.rst>`_
 
 Credits
 -------

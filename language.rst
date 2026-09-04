@@ -328,6 +328,7 @@ Rust
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
+* `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `astral-sh/uv <https://github.com/astral-sh/uv>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
@@ -340,6 +341,7 @@ Rust
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `facebook/sapling <https://github.com/facebook/sapling>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `j178/prek <https://github.com/j178/prek>`_
