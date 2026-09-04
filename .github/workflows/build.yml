@@ -44,7 +44,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: uv run stars
       - run: |
-          git add README.rst language.rst topic.rst
+          git add README.rst language.rst topic.rst list.rst
           git diff --cached --quiet && exit 0
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git config user.name 'github-actions[bot]'

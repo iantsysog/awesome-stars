@@ -1,18 +1,31 @@
-from abc import ABC, abstractmethod
+from typing import Protocol, overload
 
 from pydantic import BaseModel, ConfigDict
 
 
-class Starred(BaseModel):
+class _Model(BaseModel):
     model_config = ConfigDict(extra="forbid", frozen=True, strict=True)
 
+
+class _Named(_Model):
     name: str
-    url: str
     is_private: bool
+
+
+class Repository(_Named):
+    url: str
     language: str = ""
     topics: tuple[str, ...] = ()
 
 
-class Source(ABC):
-    @abstractmethod
-    def get_starred(self, username: str) -> list[Starred]: ...
+class Lists(_Named):
+    description: str = ""
+    repositories: tuple[Repository, ...] = ()
+
+
+class Source(Protocol):
+    @overload
+    def get(self, entity: type[Repository], username: str) -> list[Repository]: ...
+
+    @overload
+    def get(self, entity: type[Lists], username: str) -> list[Lists]: ...

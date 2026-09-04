@@ -1,15 +1,14 @@
 from collections import defaultdict
 from collections.abc import Mapping
-from dataclasses import dataclass
 from enum import StrEnum
 from functools import cache
-from itertools import starmap
+from itertools import chain, starmap
 from typing import TYPE_CHECKING, Final, assert_never, override
 
 if TYPE_CHECKING:
-    from collections.abc import Iterator, Sequence
+    from collections.abc import Iterable, Iterator, Sequence
 
-    from .model import Starred
+    from .model import Lists, Repository
 
 FILENAME: Final = "README.rst"
 CATEGORY: Final = "Others"
@@ -17,46 +16,23 @@ CATEGORY: Final = "Others"
 
 class Section(StrEnum):
     LANGUAGE = "language"
-    TOPICS = "topics"
+    TOPIC = "topic"
+    LIST = "list"
 
-
-@dataclass(frozen=True, slots=True)
-class Spec:
-    title: str
-    prefix: str
-    section: Section
+    @property
+    @override
+    def title(self) -> str:
+        return self.value.capitalize()
 
     @property
     def filename(self) -> str:
-        return f"{self.prefix}.rst"
+        return f"{self.value}.rst"
 
-
-SPECS: Final = (
-    Spec("Language", "language", Section.LANGUAGE),
-    Spec("Topic", "topic", Section.TOPICS),
-)
 
 type Entry = tuple[str, str]
 type Output = dict[str, str]
-
-
-class Categories(Mapping[str, list[Entry]]):
-    def __init__(self, groups: Mapping[str, Sequence[Entry]]) -> None:
-        self._groups: dict[str, list[Entry]] = {
-            category: sorted(items) for category, items in sorted(groups.items())
-        }
-
-    @override
-    def __getitem__(self, category: str) -> list[Entry]:
-        return self._groups[category]
-
-    @override
-    def __iter__(self) -> Iterator[str]:
-        return iter(self._groups)
-
-    @override
-    def __len__(self) -> int:
-        return len(self._groups)
+type Categories = Mapping[str, tuple[Entry, ...]]
+type Pair = tuple[str, Entry]
 
 
 @cache
@@ -72,35 +48,75 @@ def _heading(title: str, underline: str) -> str:
     return f"{title}\n{underline * len(title)}"
 
 
-def _values(repository: Starred, section: Section) -> Iterator[str]:
+def _document(parts: Iterable[str]) -> str:
+    return "\n".join(parts)
+
+
+def _group(pairs: Iterable[Pair]) -> Categories:
+    grouped: defaultdict[str, list[Entry]] = defaultdict(list)
+    for category, entry in pairs:
+        grouped[category].append(entry)
+    return {
+        category: tuple(sorted(entries))
+        for category, entries in sorted(grouped.items())
+    }
+
+
+def _values(repository: Repository, section: Section) -> Iterator[str]:
     match section:
         case Section.LANGUAGE:
             yield from ((repository.language,) if repository.language else (CATEGORY,))
-        case Section.TOPICS:
+        case Section.TOPIC:
             yield from repository.topics or (CATEGORY,)
+        case Section.LIST:
+            return
         case _:
             assert_never(section)
 
 
-def _categorize(repositories: Sequence[Starred], section: Section) -> Categories:
-    grouped: defaultdict[str, list[Entry]] = defaultdict(list)
-    for repository in repositories:
-        if repository.is_private:
-            continue
-        for category in _values(repository, section):
-            grouped[category].append((repository.name, repository.url))
-    return Categories(grouped)
+def _entry(repository: Repository) -> Entry:
+    return (repository.name, repository.url)
+
+
+def _public(repositories: Iterable[Repository]) -> Iterator[Repository]:
+    return (repository for repository in repositories if not repository.is_private)
+
+
+def _spread(labeled: Iterable[tuple[Iterable[str], Repository]]) -> Iterator[Pair]:
+    return (
+        (label, _entry(repository))
+        for labels, repository in labeled
+        for label in labels
+    )
+
+
+def _repository_pairs(
+    repositories: Sequence[Repository], section: Section
+) -> Iterator[Pair]:
+    return _spread(
+        (_values(repository, section), repository)
+        for repository in _public(repositories)
+    )
+
+
+def _list_pairs(lists: Sequence[Lists]) -> Iterator[Pair]:
+    return _spread(
+        ((lists_item.name,), repository)
+        for lists_item in lists
+        if not lists_item.is_private
+        for repository in _public(lists_item.repositories)
+    )
 
 
 def _readme(username: str) -> str:
-    return "\n".join([
+    return _document([
         _heading("awesome-stars", "="),
         "",
         "reStructuredText lists from GitHub stars",
         "",
         _heading("Lists", "-"),
         "",
-        *(_link(spec.title, spec.filename) for spec in SPECS),
+        *(_link(section.title, section.filename) for section in Section),
         "",
         _heading("Credits", "-"),
         "",
@@ -114,19 +130,34 @@ def _readme(username: str) -> str:
 
 
 def _section(title: str, categories: Categories) -> str:
-    lines: list[str] = [_heading(title, "="), ""]
-    for category, items in categories.items():
-        lines += [_heading(category, "^"), ""]
-        lines += list(starmap(_link, items))
-        lines.append("")
-    return "\n".join(lines)
+    return _document(
+        chain(
+            [_heading(title, "="), ""],
+            chain.from_iterable(
+                [_heading(category, "^"), "", *starmap(_link, items), ""]
+                for category, items in categories.items()
+            ),
+        )
+    )
 
 
-def render(username: str, repositories: Sequence[Starred]) -> Output:
-    return {
+def render(
+    username: str,
+    repositories: Sequence[Repository],
+    lists: Sequence[Lists] | None = None,
+) -> Output:
+    outputs: Output = {
         FILENAME: _readme(username),
         **{
-            spec.filename: _section(spec.title, _categorize(repositories, spec.section))
-            for spec in SPECS
+            section.filename: _section(
+                section.title, _group(_repository_pairs(repositories, section))
+            )
+            for section in Section
+            if section is not Section.LIST
         },
     }
+    if lists:
+        outputs[Section.LIST.filename] = _section(
+            Section.LIST.title, _group(_list_pairs(lists))
+        )
+    return outputs
