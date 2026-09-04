@@ -10,7 +10,7 @@ requires-python = ">=3.14"
 license = "AGPL-3.0-or-later"
 license-files = ["COPYING"]
 dependencies = [
-    "dulwich==1.2.12",
+    "dulwich==1.2.14",
     "githubkit==0.16.1",
     "pydantic==2.13.4",
 ]
