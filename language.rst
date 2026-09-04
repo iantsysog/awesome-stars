@@ -37,6 +37,7 @@ C
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 * `superturtlee/gbl_root_canoe <https://github.com/superturtlee/gbl_root_canoe>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_

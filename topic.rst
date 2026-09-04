@@ -61,7 +61,6 @@ Others
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
-* `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
@@ -1773,6 +1772,11 @@ containers
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 
+content-cache
+^^^^^^^^^^^^^
+
+* `nginx/nginx <https://github.com/nginx/nginx>`_
+
 context-propagation
 ^^^^^^^^^^^^^^^^^^^
 
@@ -3253,6 +3257,7 @@ http
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 
 http-cache
@@ -3282,6 +3287,7 @@ http2
 
 * `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 
 http3
@@ -3289,6 +3295,7 @@ http3
 
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 httpcore-cache
 ^^^^^^^^^^^^^^
@@ -3304,6 +3311,7 @@ https
 ^^^^^
 
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 httpx
 ^^^^^
@@ -4082,6 +4090,11 @@ lm-studio
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
+load-balancer
+^^^^^^^^^^^^^
+
+* `nginx/nginx <https://github.com/nginx/nginx>`_
+
 local-development
 ^^^^^^^^^^^^^^^^^
 
@@ -4133,6 +4146,11 @@ lsposed
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+
+lsposed-module
+^^^^^^^^^^^^^^
+
+* `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 
 lsposeed
 ^^^^^^^^
@@ -4368,6 +4386,11 @@ mail
 ^^^^
 
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
+
+mail-proxy-server
+^^^^^^^^^^^^^^^^^
+
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 maintainer-wanted
 ^^^^^^^^^^^^^^^^^
@@ -4839,6 +4862,11 @@ nfa
 ^^^
 
 * `coregx/coregex <https://github.com/coregx/coregex>`_
+
+nginx
+^^^^^
+
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 nits
 ^^^^
@@ -5777,6 +5805,7 @@ quic
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 quickcheck
 ^^^^^^^^^^
@@ -6003,6 +6032,7 @@ reverse-proxy
 ^^^^^^^^^^^^^
 
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 
 reversible
@@ -6345,6 +6375,7 @@ security
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 
 security-scanner
@@ -7321,6 +7352,11 @@ tauri2
 
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 
+tcp-proxy-server
+^^^^^^^^^^^^^^^^
+
+* `nginx/nginx <https://github.com/nginx/nginx>`_
+
 tearing
 ^^^^^^^
 
@@ -7458,6 +7494,7 @@ tls
 
 * `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 tls-support
 ^^^^^^^^^^^
@@ -7710,6 +7747,11 @@ typing
 ^^^^^^
 
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+
+udp-proxy-server
+^^^^^^^^^^^^^^^^
+
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 ui
 ^^
@@ -8170,6 +8212,7 @@ web-server
 ^^^^^^^^^^
 
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
 
 web-standards
 ^^^^^^^^^^^^^
@@ -8391,6 +8434,7 @@ xposed
 
 * `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
+* `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 xposed-module
