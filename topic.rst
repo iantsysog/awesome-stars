@@ -358,6 +358,11 @@ alamofire
 
 * `Moya/Moya <https://github.com/Moya/Moya>`_
 
+alerting
+^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
+
 alfred
 ^^^^^^
 
@@ -1748,6 +1753,7 @@ console-application
 container
 ^^^^^^^^^
 
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `apple/swift-collections <https://github.com/apple/swift-collections>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
@@ -1943,6 +1949,7 @@ dashboard
 ^^^^^^^^^
 
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 data
 ^^^^
@@ -2175,6 +2182,7 @@ device-owner
 devops
 ^^^^^^
 
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
@@ -2303,6 +2311,7 @@ dnssec
 docker
 ^^^^^^
 
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
@@ -2984,6 +2993,7 @@ go
 ^^
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
@@ -2999,6 +3009,7 @@ golang
 ^^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
@@ -3165,6 +3176,11 @@ headless
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+
+health
+^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 hearing-aid
 ^^^^^^^^^^^
@@ -4709,11 +4725,13 @@ mongodb
 monitor
 ^^^^^^^
 
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 
 monitoring
 ^^^^^^^^^^
 
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
@@ -4722,6 +4740,11 @@ monitoring-server
 ^^^^^^^^^^^^^^^^^
 
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
+
+monitoring-tool
+^^^^^^^^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 morphing
 ^^^^^^^^
@@ -4918,6 +4941,11 @@ norevoke
 ^^^^^^^^
 
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
+
+notifications
+^^^^^^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 npm
 ^^^
@@ -6406,12 +6434,18 @@ security-workflow
 self-hosted
 ^^^^^^^^^^^
 
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 
 self-updating
 ^^^^^^^^^^^^^
 
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
+
+selfhosted
+^^^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 sendable
 ^^^^^^^^
@@ -6589,6 +6623,11 @@ skills
 ^^^^^^
 
 * `android/skills <https://github.com/android/skills>`_
+
+slack
+^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 slides
 ^^^^^^
@@ -6794,10 +6833,25 @@ statistics
 
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 
+status
+^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
+
+status-page
+^^^^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
+
 statusitem
 ^^^^^^^^^^
 
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
+
+statuspage
+^^^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 storage
 ^^^^^^^
@@ -7877,6 +7931,16 @@ unsigned-integers
 ^^^^^^^^^^^^^^^^^
 
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
+
+uptime
+^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
+
+uptime-monitoring
+^^^^^^^^^^^^^^^^^
+
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
 url
 ^^^

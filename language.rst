@@ -89,6 +89,7 @@ Go
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_

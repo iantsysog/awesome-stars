@@ -492,6 +492,7 @@ SYS: VPS
 * `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
