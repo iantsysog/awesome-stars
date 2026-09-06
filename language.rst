@@ -86,6 +86,7 @@ Go
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
@@ -122,6 +123,7 @@ HTML
 * `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 Haskell
 ^^^^^^^
@@ -336,6 +338,7 @@ Rust
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `denoland/deno <https://github.com/denoland/deno>`_

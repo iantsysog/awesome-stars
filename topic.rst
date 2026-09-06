@@ -99,6 +99,7 @@ Others
 * `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
+* `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_
@@ -280,6 +281,7 @@ agent
 ^^^^^
 
 * `laosb/agentc <https://github.com/laosb/agentc>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
 agent-security
@@ -307,10 +309,12 @@ ai-agent
 ^^^^^^^^
 
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 ai-agents
 ^^^^^^^^^
 
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
 ai-assisted-development
@@ -625,6 +629,7 @@ apple
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
 apple-music
@@ -1552,6 +1557,11 @@ codemirror6
 
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 
+coding-agent
+^^^^^^^^^^^^
+
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+
 cohort-analysis
 ^^^^^^^^^^^^^^^
 
@@ -1709,6 +1719,16 @@ compressor
 
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 
+computer-use
+^^^^^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
+
+computer-use-agent
+^^^^^^^^^^^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
+
 concurrency
 ^^^^^^^^^^^
 
@@ -1773,6 +1793,7 @@ containerization
 
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 containers
 ^^^^^^^^^^
@@ -1924,6 +1945,11 @@ ctf
 ^^^
 
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
+
+cua
+^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 cups
 ^^^^
@@ -2153,6 +2179,11 @@ desktop
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
+desktop-automation
+^^^^^^^^^^^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
+
 dev-tools
 ^^^^^^^^^
 
@@ -2166,6 +2197,7 @@ deveco-studio
 developer-tools
 ^^^^^^^^^^^^^^^
 
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
@@ -2993,6 +3025,7 @@ go
 ^^
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
@@ -3009,6 +3042,7 @@ golang
 ^^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
@@ -3093,6 +3127,11 @@ gui
 
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 
+guidelines
+^^^^^^^^^^
+
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+
 hacktober
 ^^^^^^^^^
 
@@ -3114,6 +3153,7 @@ hacktoberfest
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 hacktoberfest-accepted
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -4191,6 +4231,11 @@ luci
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 
+lume
+^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
+
 luminance
 ^^^^^^^^^
 
@@ -4318,6 +4363,7 @@ macos
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
@@ -4430,6 +4476,11 @@ malware-analysis
 ^^^^^^^^^^^^^^^^
 
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
+
+manus
+^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 maps
 ^^^^
@@ -5219,6 +5270,11 @@ openwrt
 ^^^^^^^
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
+
+operator
+^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 optimize
 ^^^^^^^^
@@ -7038,6 +7094,7 @@ swift
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
@@ -8113,6 +8170,16 @@ virtual-machines
 
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
+virtualization
+^^^^^^^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
+
+virtualization-framework
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
+
 virus-scanning
 ^^^^^^^^^^^^^^
 
@@ -8407,6 +8474,7 @@ windows
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 windows-10
 ^^^^^^^^^^
@@ -8428,6 +8496,11 @@ windows-forms
 ^^^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
+
+windows-sandbox
+^^^^^^^^^^^^^^^
+
+* `trycua/cua <https://github.com/trycua/cua>`_
 
 wireguard
 ^^^^^^^^^
