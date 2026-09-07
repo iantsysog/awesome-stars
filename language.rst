@@ -320,6 +320,7 @@ Roff
 Ruby
 ^^^^
 
+* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 
 Rust

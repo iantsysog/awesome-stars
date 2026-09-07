@@ -497,6 +497,7 @@ SYS: VPS
 * `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
