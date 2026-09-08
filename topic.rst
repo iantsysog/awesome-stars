@@ -9,6 +9,7 @@ Topic
 Others
 ^^^^^^
 
+* `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
@@ -45,8 +46,7 @@ Others
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
-* `NextAlone/Nagram <https://github.com/NextAlone/Nagram>`_
-* `NextAlone/Nnngram <https://github.com/NextAlone/Nnngram>`_
+* `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
@@ -55,6 +55,7 @@ Others
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
+* `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
@@ -64,6 +65,7 @@ Others
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
 * `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
@@ -167,7 +169,6 @@ Others
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
-* `superturtlee/gbl_root_canoe <https://github.com/superturtlee/gbl_root_canoe>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `swiftlang/swift-driver <https://github.com/swiftlang/swift-driver>`_

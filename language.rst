@@ -30,6 +30,7 @@ C
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
@@ -38,7 +39,6 @@ C
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
-* `superturtlee/gbl_root_canoe <https://github.com/superturtlee/gbl_root_canoe>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
@@ -138,8 +138,6 @@ Java
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
-* `NextAlone/Nagram <https://github.com/NextAlone/Nagram>`_
-* `NextAlone/Nnngram <https://github.com/NextAlone/Nnngram>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
@@ -162,6 +160,11 @@ JavaScript
 * `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `zotero/zotero <https://github.com/zotero/zotero>`_
+
+Jupyter Notebook
+^^^^^^^^^^^^^^^^
+
+* `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 
 Kotlin
 ^^^^^^
@@ -394,6 +397,7 @@ Svelte
 Swift
 ^^^^^
 
+* `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `Alex-Ozun/swift-effect <https://github.com/Alex-Ozun/swift-effect>`_
@@ -440,6 +444,7 @@ Swift
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_

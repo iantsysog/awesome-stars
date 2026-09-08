@@ -64,6 +64,7 @@ LANG: Rust
 LANG: Swift
 ^^^^^^^^^^^
 
+* `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `Alex-Ozun/swift-effect <https://github.com/Alex-Ozun/swift-effect>`_
@@ -369,12 +370,11 @@ SYS: Android
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
-* `NextAlone/Nagram <https://github.com/NextAlone/Nagram>`_
-* `NextAlone/Nnngram <https://github.com/NextAlone/Nnngram>`_
 * `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
+* `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
@@ -408,7 +408,6 @@ SYS: Android
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
-* `superturtlee/gbl_root_canoe <https://github.com/superturtlee/gbl_root_canoe>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
@@ -432,7 +431,6 @@ SYS: General
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
@@ -561,6 +559,7 @@ SYS: macOS
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
@@ -618,6 +617,7 @@ UTILS: Agent
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
+* `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
