@@ -643,6 +643,7 @@ UTILS: Network
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `HyNetworks/tcp-brutal <https://github.com/HyNetworks/tcp-brutal>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_

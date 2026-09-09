@@ -22,6 +22,7 @@ Others
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
+* `HyNetworks/tcp-brutal <https://github.com/HyNetworks/tcp-brutal>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
