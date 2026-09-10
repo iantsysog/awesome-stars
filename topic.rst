@@ -9,6 +9,7 @@ Topic
 Others
 ^^^^^^
 
+* `1amageek/MusicPlaygournd <https://github.com/1amageek/MusicPlaygournd>`_
 * `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
@@ -21,7 +22,9 @@ Others
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
+* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
+* `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `HyNetworks/tcp-brutal <https://github.com/HyNetworks/tcp-brutal>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
@@ -114,6 +117,7 @@ Others
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
+* `go-gost/x <https://github.com/go-gost/x>`_
 * `google/guice <https://github.com/google/guice>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
@@ -329,6 +333,11 @@ ai-agents
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
+ai-arena
+^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
 ai-assisted-development
 ^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -343,6 +352,11 @@ ai-security
 ^^^^^^^^^^^
 
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
+
+ai-vs-ai
+^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 aiohttp
 ^^^^^^^
@@ -545,6 +559,7 @@ animation
 ^^^^^^^^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `codse/animata <https://github.com/codse/animata>`_
@@ -1027,11 +1042,6 @@ bluetooth-low-energy
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 
-bobplugin
-^^^^^^^^^
-
-* `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
-
 bonjour
 ^^^^^^^
 
@@ -1362,13 +1372,11 @@ cielab
 cinny
 ^^^^^
 
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 
 cinnyapp
 ^^^^^^^^
 
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 
 circuit
@@ -1444,11 +1452,6 @@ cli-tool
 ^^^^^^^^
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
-
-client
-^^^^^^
-
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 
 cloc
 ^^^^
@@ -1633,6 +1636,7 @@ command-and-conquer
 ^^^^^^^^^^^^^^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 command-line
 ^^^^^^^^^^^^
@@ -2099,11 +2103,6 @@ deep-learning
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
-deepl
-^^^^^
-
-* `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
-
 defaults
 ^^^^^^^^
 
@@ -2506,6 +2505,11 @@ education
 ^^^^^^^^^
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
+
+effects
+^^^^^^^
+
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 
 elearning
 ^^^^^^^^^
@@ -2918,6 +2922,11 @@ game
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 
+game-ai
+^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
 game-engine
 ^^^^^^^^^^^
 
@@ -3163,7 +3172,6 @@ hacktoberfest
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 * `iina/iina <https://github.com/iina/iina>`_
@@ -3588,6 +3596,7 @@ ios
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
@@ -4574,7 +4583,6 @@ maths
 matrix
 ^^^^^^
 
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
@@ -4587,13 +4595,7 @@ matrix-chat
 matrix-client
 ^^^^^^^^^^^^^
 
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
-
-matrix-org
-^^^^^^^^^^
-
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 
 matrix-server
 ^^^^^^^^^^^^^
@@ -4636,6 +4638,11 @@ memory-efficient
 ^^^^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+
+mental-omega
+^^^^^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 menu-bar
 ^^^^^^^^
@@ -4880,6 +4887,11 @@ multiplatform
 ^^^^^^^^^^^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+
+multiplayer-game
+^^^^^^^^^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 multiplexed
 ^^^^^^^^^^^
@@ -5421,6 +5433,11 @@ parsing
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
 * `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
 
+particles
+^^^^^^^^^
+
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
+
 password
 ^^^^^^^^
 
@@ -5948,6 +5965,11 @@ quizapp
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 
+ra2
+^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
 radix-ui
 ^^^^^^^^
 
@@ -6028,7 +6050,6 @@ reactivex
 reactjs
 ^^^^^^^
 
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 
 real
@@ -6040,6 +6061,7 @@ real-time-strategy
 ^^^^^^^^^^^^^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 recursor
 ^^^^^^^^
@@ -6050,6 +6072,12 @@ red-alert
 ^^^^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
+red-alert-2
+^^^^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 redis
 ^^^^^
@@ -6272,6 +6300,7 @@ rts
 ^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 ruby
 ^^^^
@@ -6953,6 +6982,11 @@ storage
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 
+strategy-game
+^^^^^^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
 strategy-game-engine
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -7051,6 +7085,7 @@ swift
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
@@ -7298,6 +7333,7 @@ swiftui
 ^^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
@@ -7708,6 +7744,11 @@ transformer
 ^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+
+transitions
+^^^^^^^^^^^
+
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 
 translate
 ^^^^^^^^^
@@ -8693,6 +8734,11 @@ yubikey
 ^^^^^^^
 
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+
+yuris-revenge
+^^^^^^^^^^^^^
+
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 zed
 ^^^

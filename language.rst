@@ -89,7 +89,6 @@ Go
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
-* `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
@@ -105,6 +104,7 @@ Go
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
+* `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
@@ -259,6 +259,7 @@ Objective-C++
 Others
 ^^^^^^
 
+* `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
@@ -332,6 +333,7 @@ Rust
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
@@ -372,6 +374,7 @@ Rust
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
@@ -398,6 +401,7 @@ Svelte
 Swift
 ^^^^^
 
+* `1amageek/MusicPlaygournd <https://github.com/1amageek/MusicPlaygournd>`_
 * `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
@@ -409,6 +413,7 @@ Swift
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
@@ -643,7 +648,6 @@ TypeScript
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
-* `cinnyapp/cinny <https://github.com/cinnyapp/cinny>`_
 * `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `codse/animata <https://github.com/codse/animata>`_

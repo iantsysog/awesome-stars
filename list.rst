@@ -73,6 +73,7 @@ LANG: Swift
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
+* `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
@@ -350,6 +351,7 @@ SYS: Android
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
+* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
@@ -487,7 +489,6 @@ SYS: VPS
 
 * `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
-* `OwO-Network/DLX <https://github.com/OwO-Network/DLX>`_
 * `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
@@ -520,6 +521,7 @@ SYS: Windows
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 SYS: iOS
 ^^^^^^^^
@@ -539,6 +541,7 @@ SYS: iOS
 SYS: macOS
 ^^^^^^^^^^
 
+* `1amageek/MusicPlaygournd <https://github.com/1amageek/MusicPlaygournd>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -612,6 +615,7 @@ UTILS: Agent
 
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
@@ -650,6 +654,7 @@ UTILS: Network
 * `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
+* `go-gost/x <https://github.com/go-gost/x>`_
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
