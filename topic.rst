@@ -141,6 +141,7 @@ Others
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
+* `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
@@ -230,7 +231,7 @@ accessiblity
 accounting
 ^^^^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 acme
 ^^^^
@@ -626,6 +627,11 @@ app
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 
+app-store-connect
+^^^^^^^^^^^^^^^^^
+
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
+
 appcleaner
 ^^^^^^^^^^
 
@@ -655,6 +661,7 @@ apple
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
@@ -829,6 +836,7 @@ automatic-https
 automation
 ^^^^^^^^^^
 
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
@@ -1352,6 +1360,7 @@ ci
 cicd
 ^^^^
 
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 cie94
@@ -1444,6 +1453,7 @@ cli
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
@@ -1649,8 +1659,9 @@ command-line
 command-line-tool
 ^^^^^^^^^^^^^^^^^
 
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 
 command-line-utilities
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1784,7 +1795,7 @@ configuration
 console-application
 ^^^^^^^^^^^^^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 container
 ^^^^^^^^^
@@ -2215,6 +2226,7 @@ developer-tools
 * `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 
 device-owner
@@ -2227,6 +2239,7 @@ devops
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 dfa
@@ -2766,7 +2779,7 @@ filestorage
 finance
 ^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 firewall
 ^^^^^^^^
@@ -3062,6 +3075,7 @@ go
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 
@@ -3078,6 +3092,7 @@ golang
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 
@@ -3219,13 +3234,13 @@ hash
 haskell
 ^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 haskell-applications
 ^^^^^^^^^^^^^^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 hdr
 ^^^
@@ -3281,7 +3296,7 @@ high-performance
 hledger
 ^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 home-assistant
 ^^^^^^^^^^^^^^
@@ -3622,6 +3637,7 @@ ios
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
@@ -4073,7 +4089,7 @@ ledger
 ^^^^^^
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 lexer
 ^^^^^
@@ -4384,6 +4400,7 @@ macos
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
@@ -5600,12 +5617,12 @@ pkl
 plaintext
 ^^^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 plaintextaccounting
 ^^^^^^^^^^^^^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 player
 ^^^^^^
@@ -7160,6 +7177,7 @@ swift
 * `pointfreeco/swift-tagged <https://github.com/pointfreeco/swift-tagged>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
@@ -7585,6 +7603,11 @@ testability
 
 * `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
 
+testflight
+^^^^^^^^^^
+
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
+
 testing
 ^^^^^^^
 
@@ -7809,7 +7832,7 @@ tsforge
 tui
 ^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 tun
 ^^^
@@ -8398,7 +8421,7 @@ web-analytics
 web-application
 ^^^^^^^^^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 web-cache
 ^^^^^^^^^
@@ -8631,6 +8654,7 @@ xcode
 * `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 

@@ -112,6 +112,7 @@ Go
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 * `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
@@ -129,7 +130,7 @@ HTML
 Haskell
 ^^^^^^^
 
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 Java
@@ -231,6 +232,7 @@ MDX
 Markdown
 ^^^^^^^^
 
+* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `swiftlang/swift-evolution <https://github.com/swiftlang/swift-evolution>`_
 
 OCaml
@@ -291,7 +293,6 @@ Python
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `android/skills <https://github.com/android/skills>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
-* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
@@ -667,6 +668,7 @@ TypeScript
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
+* `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_

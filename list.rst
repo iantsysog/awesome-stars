@@ -274,6 +274,7 @@ LANG: TypeScript / JavaScript
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
+* `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `nubjs/nub <https://github.com/nubjs/nub>`_
@@ -593,6 +594,7 @@ SYS: macOS
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
@@ -639,7 +641,7 @@ UTILS: Entry
 ^^^^^^^^^^^^
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
-* `plaintextaccounting/hledger <https://github.com/plaintextaccounting/hledger>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 
 UTILS: Network
