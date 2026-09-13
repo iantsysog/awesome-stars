@@ -25,7 +25,6 @@ Others
 * `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
-* `HyNetworks/tcp-brutal <https://github.com/HyNetworks/tcp-brutal>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
@@ -102,7 +101,6 @@ Others
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
-* `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
@@ -162,7 +160,6 @@ Others
 * `p-x9/swift-asm-macro <https://github.com/p-x9/swift-asm-macro>`_
 * `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
-* `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
 * `pointfreeco/composable-core-motion <https://github.com/pointfreeco/composable-core-motion>`_
 * `pointfreeco/episode-code-samples <https://github.com/pointfreeco/episode-code-samples>`_
 * `pointfreeco/swift-concurrency-extras <https://github.com/pointfreeco/swift-concurrency-extras>`_
@@ -233,11 +230,6 @@ accounting
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
-acme
-^^^^
-
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
-
 action-button
 ^^^^^^^^^^^^^
 
@@ -297,6 +289,7 @@ adguard
 agent
 ^^^^^
 
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
@@ -314,6 +307,7 @@ agent-skills
 agentic-ai
 ^^^^^^^^^^
 
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 
 ai
@@ -472,6 +466,7 @@ android
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
@@ -827,11 +822,6 @@ autoeq
 ^^^^^^
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
-
-automatic-https
-^^^^^^^^^^^^^^^
-
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 
 automation
 ^^^^^^^^^^
@@ -1191,16 +1181,6 @@ caching
 ^^^^^^^
 
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
-
-caddy
-^^^^^
-
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
-
-caddyfile
-^^^^^^^^^
-
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 
 caj
 ^^^
@@ -2103,6 +2083,21 @@ decoding
 ^^^^^^^^
 
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
+
+decompilation
+^^^^^^^^^^^^^
+
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
+
+decompile
+^^^^^^^^^
+
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
+
+decompiler
+^^^^^^^^^^
+
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 
 decompression
 ^^^^^^^^^^^^^
@@ -3069,7 +3064,6 @@ go
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
@@ -3086,11 +3080,9 @@ golang
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
@@ -3354,7 +3346,6 @@ http
 ^^^^
 
 * `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
@@ -3377,11 +3368,6 @@ http-proxy
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
-http-server
-^^^^^^^^^^^
-
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
-
 http2
 ^^^^^
 
@@ -3393,7 +3379,6 @@ http2
 http3
 ^^^^^
 
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
@@ -3410,7 +3395,6 @@ httpcore-caching
 https
 ^^^^^
 
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 httpx
@@ -3843,11 +3827,6 @@ jsx
 ^^^
 
 * `biomejs/biome <https://github.com/biomejs/biome>`_
-
-jumpserver
-^^^^^^^^^^
-
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 
 jvm
 ^^^
@@ -4829,7 +4808,6 @@ monitor
 ^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 
 monitoring
 ^^^^^^^^^^
@@ -4837,12 +4815,6 @@ monitoring
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
-
-monitoring-server
-^^^^^^^^^^^^^^^^^
-
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 
 monitoring-tool
 ^^^^^^^^^^^^^^^
@@ -5742,7 +5714,6 @@ privacy
 
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 
@@ -6136,11 +6107,6 @@ reliable-udp
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
-remote-control
-^^^^^^^^^^^^^^
-
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
-
 rendering
 ^^^^^^^^^
 
@@ -6187,17 +6153,18 @@ reverse
 ^^^^^^^
 
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 
 reverse-engineering
 ^^^^^^^^^^^^^^^^^^^
 
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 reverse-proxy
 ^^^^^^^^^^^^^
 
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 
@@ -6536,7 +6503,6 @@ security
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
@@ -6609,7 +6575,6 @@ server
 * `apple/swift-configuration <https://github.com/apple/swift-configuration>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
@@ -7710,7 +7675,6 @@ tls
 ^^^
 
 * `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 tls-support
@@ -8453,7 +8417,6 @@ web-framework
 web-server
 ^^^^^^^^^^
 
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 web-standards

@@ -368,6 +368,7 @@ SYS: Android
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
@@ -493,8 +494,6 @@ SYS: VPS
 * `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
-* `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
@@ -502,9 +501,7 @@ SYS: VPS
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
-* `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
@@ -649,7 +646,6 @@ UTILS: Network
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
-* `HyNetworks/tcp-brutal <https://github.com/HyNetworks/tcp-brutal>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_

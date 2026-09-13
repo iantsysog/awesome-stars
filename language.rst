@@ -29,7 +29,6 @@ C
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-* `HyNetworks/tcp-brutal <https://github.com/HyNetworks/tcp-brutal>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -97,7 +96,6 @@ Go
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
-* `caddyserver/caddy <https://github.com/caddyserver/caddy>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
@@ -108,10 +106,8 @@ Go
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
-* `mosona-labs/mosona-manager <https://github.com/mosona-labs/mosona-manager>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
-* `pmkol/mosdns-x <https://github.com/pmkol/mosdns-x>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
@@ -287,6 +283,7 @@ Python
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
@@ -649,7 +646,6 @@ TypeScript
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
-* `cloudflare/agentic-inbox <https://github.com/cloudflare/agentic-inbox>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `dip/cmdk <https://github.com/dip/cmdk>`_
