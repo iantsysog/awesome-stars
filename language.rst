@@ -323,7 +323,6 @@ Roff
 Ruby
 ^^^^
 
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 
 Rust
@@ -332,6 +331,7 @@ Rust
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
+* `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_

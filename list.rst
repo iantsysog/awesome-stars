@@ -427,6 +427,7 @@ SYS: General
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
@@ -496,7 +497,6 @@ SYS: VPS
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_

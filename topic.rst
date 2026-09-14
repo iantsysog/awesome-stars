@@ -240,16 +240,6 @@ activator
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
-activity-stream
-^^^^^^^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
-
-activitypub
-^^^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
-
 actor-model
 ^^^^^^^^^^^
 
@@ -1117,6 +1107,7 @@ bugtracker
 build
 ^^^^^
 
+* `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 * `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 
@@ -2366,7 +2357,6 @@ docker
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 docker-compose
@@ -2683,11 +2673,6 @@ feather-icons
 ^^^^^^^^^^^^^
 
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
-
-fediverse
-^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 
 ffi
 ^^^
@@ -4543,11 +4528,6 @@ massgravel
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
-mastodon
-^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
-
 material-design
 ^^^^^^^^^^^^^^^
 
@@ -4692,11 +4672,6 @@ metrics
 * `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 
-microblog
-^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
-
 microsoft
 ^^^^^^^^^
 
@@ -4761,6 +4736,7 @@ mmio
 mobile
 ^^^^^^
 
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
 
@@ -5528,6 +5504,7 @@ performance
 ^^^^^^^^^^^
 
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
+* `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
@@ -6764,16 +6741,6 @@ snapshot-testing
 
 * `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
 * `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-
-social-network
-^^^^^^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
-
-social-web
-^^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 
 socks5
 ^^^^^^
@@ -8433,11 +8400,6 @@ webdav
 ^^^^^^
 
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
-
-webfinger
-^^^^^^^^^
-
-* `mastodon/mastodon <https://github.com/mastodon/mastodon>`_
 
 websocket
 ^^^^^^^^^
