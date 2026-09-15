@@ -27,7 +27,6 @@ C
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
-* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
@@ -172,7 +171,6 @@ Kotlin
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
-* `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
@@ -261,6 +259,7 @@ Others
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 
@@ -277,7 +276,6 @@ PowerShell
 Python
 ^^^^^^
 
-* `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
@@ -330,7 +328,6 @@ Rust
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
-* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
@@ -689,6 +686,11 @@ XML
 ^^^
 
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
+
+YARA
+^^^^
+
+* `87owo/PYAS <https://github.com/87owo/PYAS>`_
 
 Zig
 ^^^
