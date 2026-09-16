@@ -64,6 +64,7 @@ Others
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
+* `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
@@ -328,6 +329,11 @@ ai-assisted-development
 
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
+ai-coding-assistant
+^^^^^^^^^^^^^^^^^^^
+
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+
 ai-development
 ^^^^^^^^^^^^^^
 
@@ -581,6 +587,11 @@ apatch
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
+
+api-26
+^^^^^^
+
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 api-client
 ^^^^^^^^^^
@@ -1386,6 +1397,7 @@ claude-code
 ^^^^^^^^^^^
 
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 clean
 ^^^^^
@@ -1550,6 +1562,11 @@ codemirror6
 ^^^^^^^^^^^
 
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
+
+codex
+^^^^^
+
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 coding-agent
 ^^^^^^^^^^^^
@@ -2207,6 +2224,7 @@ developer-tools
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
@@ -2957,6 +2975,11 @@ gbt-7714-2015
 ^^^^^^^^^^^^^
 
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
+
+gemini-cli
+^^^^^^^^^^
+
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 generic
 ^^^^^^^

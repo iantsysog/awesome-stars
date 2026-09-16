@@ -623,6 +623,7 @@ UTILS: Agent
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
+* `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
