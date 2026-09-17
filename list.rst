@@ -101,6 +101,7 @@ LANG: Swift
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
@@ -300,6 +301,12 @@ LANG: Zig
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
 * `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
 
+PLAT: Game
+^^^^^^^^^^
+
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
 PLAT: Minecraft
 ^^^^^^^^^^^^^^^
 
@@ -410,6 +417,7 @@ SYS: Android
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
@@ -521,7 +529,6 @@ SYS: Windows
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
-* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 SYS: iOS
 ^^^^^^^^
@@ -625,6 +632,7 @@ UTILS: Agent
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_

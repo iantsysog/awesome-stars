@@ -304,6 +304,7 @@ agentic-ai
 ai
 ^^
 
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
@@ -317,6 +318,7 @@ ai-agents
 ^^^^^^^^^
 
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
 ai-arena
@@ -821,6 +823,11 @@ autoeq
 ^^^^^^
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+
+autoinput
+^^^^^^^^^
+
+* `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 
 automation
 ^^^^^^^^^^
@@ -1397,6 +1404,7 @@ claude-code
 ^^^^^^^^^^^
 
 * `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 clean
@@ -1566,6 +1574,7 @@ codemirror6
 codex
 ^^^^^
 
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 coding-agent
@@ -1748,6 +1757,7 @@ concurrency
 * `apple/swift-atomics <https://github.com/apple/swift-atomics>`_
 * `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 
@@ -1969,6 +1979,11 @@ cups
 
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 
+cursor
+^^^^^^
+
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+
 cyclonedx
 ^^^^^^^^^
 
@@ -2150,6 +2165,7 @@ dependencies-management
 dependency-injection
 ^^^^^^^^^^^^^^^^^^^^
 
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
@@ -5138,6 +5154,7 @@ observability
 observation
 ^^^^^^^^^^^
 
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 
@@ -5238,6 +5255,11 @@ openapi3
 ^^^^^^^^
 
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
+
+opencode
+^^^^^^^^
+
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 
 opencore
 ^^^^^^^^
@@ -5952,6 +5974,7 @@ quizapp
 ra2
 ^^^
 
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
 radix-ui
@@ -6062,6 +6085,11 @@ red-alert-2
 ^^^^^^^^^^^
 
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
+redalert2
+^^^^^^^^^
+
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
 
 redis
 ^^^^^
@@ -6713,6 +6741,7 @@ sjtu
 skills
 ^^^^^^
 
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 
 slack
@@ -6744,6 +6773,16 @@ smoothscroll
 ^^^^^^^^^^^^
 
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
+
+sms
+^^^
+
+* `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
+
+smsbackup
+^^^^^^^^^
+
+* `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 
 smt
 ^^^
@@ -6894,6 +6933,7 @@ state-management
 ^^^^^^^^^^^^^^^^
 
 * `VergeGroup/swift-state-graph <https://github.com/VergeGroup/swift-state-graph>`_
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 
 static
 ^^^^^^
@@ -7083,6 +7123,7 @@ swift
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
@@ -7311,6 +7352,8 @@ swiftui
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
@@ -8182,6 +8225,7 @@ vercel
 verification
 ^^^^^^^^^^^^
 
+* `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 video

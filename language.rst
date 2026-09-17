@@ -80,6 +80,11 @@ EJS
 
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
 
+Elixir
+^^^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
+
 Go
 ^^
 
@@ -203,6 +208,7 @@ Kotlin
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
@@ -492,6 +498,7 @@ Swift
 * `apple/swift-tls <https://github.com/apple/swift-tls>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
+* `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
@@ -612,7 +619,6 @@ Swift
 * `swiftlang/swift-syntax <https://github.com/swiftlang/swift-syntax>`_
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
@@ -643,6 +649,7 @@ TypeScript
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `codse/animata <https://github.com/codse/animata>`_
@@ -668,6 +675,7 @@ TypeScript
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
