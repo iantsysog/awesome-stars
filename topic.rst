@@ -2211,6 +2211,11 @@ design-system
 
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 
+design-tool
+^^^^^^^^^^^
+
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
+
 desktop
 ^^^^^^^
 
@@ -4563,12 +4568,23 @@ massgravel
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
+material-3-expressive
+^^^^^^^^^^^^^^^^^^^^^
+
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
+
 material-design
 ^^^^^^^^^^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+
+material3
+^^^^^^^^^
+
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 
 math
 ^^^^
@@ -4973,6 +4989,7 @@ nextjs
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `codse/animata <https://github.com/codse/animata>`_
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
@@ -5804,6 +5821,7 @@ prompt
 ^^^^^^
 
 * `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 
 prompt-injection
 ^^^^^^^^^^^^^^^^
@@ -6014,6 +6032,7 @@ react
 * `dip/cmdk <https://github.com/dip/cmdk>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
@@ -8227,6 +8246,11 @@ verification
 
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
+
+vibe-coding
+^^^^^^^^^^^
+
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 
 video
 ^^^^^

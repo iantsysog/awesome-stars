@@ -29,6 +29,7 @@ LANG: Kotlin / Java
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `google/guice <https://github.com/google/guice>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 
 LANG: Python
 ^^^^^^^^^^^^

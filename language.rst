@@ -666,6 +666,7 @@ TypeScript
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `joshpuckett/bloom <https://github.com/joshpuckett/bloom>`_
 * `l2beat/earl <https://github.com/l2beat/earl>`_
+* `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
