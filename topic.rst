@@ -92,10 +92,12 @@ Others
 * `apple/swift-service-discovery <https://github.com/apple/swift-service-discovery>`_
 * `apple/swift-statsd-client <https://github.com/apple/swift-statsd-client>`_
 * `apple/swift-tls <https://github.com/apple/swift-tls>`_
+* `apple/xcode-project-format <https://github.com/apple/xcode-project-format>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `browser-use/jev-ultrafast <https://github.com/browser-use/jev-ultrafast>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
@@ -189,6 +191,7 @@ Others
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `toss/es-toolkit <https://github.com/toss/es-toolkit>`_
+* `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
@@ -196,6 +199,7 @@ Others
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
 * `whyorean/AuroraStore <https://github.com/whyorean/AuroraStore>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
+* `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
@@ -481,6 +485,8 @@ android
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
@@ -698,6 +704,7 @@ architecture
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
 * `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
 
 arkts
 ^^^^^
@@ -1481,14 +1488,8 @@ cloudflare
 ^^^^^^^^^^
 
 * `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
-* `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
-
-cloudflare-api
-^^^^^^^^^^^^^^
-
-* `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 
 cloudflare-pages
 ^^^^^^^^^^^^^^^^
@@ -1718,6 +1719,7 @@ compose
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
 
 composition
 ^^^^^^^^^^^
@@ -3651,6 +3653,8 @@ ios
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
@@ -3983,6 +3987,8 @@ kotlin
 * `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
@@ -4413,6 +4419,7 @@ macos
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
@@ -4529,11 +4536,6 @@ manus
 ^^^^^
 
 * `trycua/cua <https://github.com/trycua/cua>`_
-
-maps
-^^^^
-
-* `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
 markdown
 ^^^^^^^^
@@ -4754,6 +4756,11 @@ minecraft-launcher
 
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 
+minecraft-world-generator
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `louis-e/arnis <https://github.com/louis-e/arnis>`_
+
 minifier
 ^^^^^^^^
 
@@ -4939,6 +4946,11 @@ musicpy
 ^^^^^^^
 
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
+
+mvi
+^^^
+
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
 
 mxfp4
 ^^^^^
@@ -5161,6 +5173,7 @@ objective-c
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 
 observability
@@ -5391,8 +5404,8 @@ otlp
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 
-overpass-api
-^^^^^^^^^^^^
+overpass-turbo
+^^^^^^^^^^^^^^
 
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
@@ -5763,6 +5776,11 @@ private-api
 
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
 
+procedural-generation
+^^^^^^^^^^^^^^^^^^^^^
+
+* `louis-e/arnis <https://github.com/louis-e/arnis>`_
+
 process
 ^^^^^^^
 
@@ -6026,7 +6044,6 @@ react
 ^^^^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
-* `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `dip/cmdk <https://github.com/dip/cmdk>`_
@@ -6057,6 +6074,8 @@ reactive
 ^^^^^^^^
 
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
 
 reactive-extensions
 ^^^^^^^^^^^^^^^^^^^
@@ -6948,6 +6967,12 @@ starship
 
 * `starship/starship <https://github.com/starship/starship>`_
 
+state-machine
+^^^^^^^^^^^^^
+
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
+
 state-management
 ^^^^^^^^^^^^^^^^
 
@@ -7191,12 +7216,14 @@ swift
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
@@ -7207,6 +7234,7 @@ swift-5
 ^^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 
 swift-camera
 ^^^^^^^^^^^^
@@ -7982,6 +8010,11 @@ typing
 
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 
+udf
+^^^
+
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
+
 udp-proxy-server
 ^^^^^^^^^^^^^^^^
 
@@ -7996,6 +8029,7 @@ ui
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 
 ui-components
 ^^^^^^^^^^^^^
@@ -8640,6 +8674,8 @@ workflow
 ^^^^^^^^
 
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
 
 wwdc25
 ^^^^^^
@@ -8668,6 +8704,7 @@ xcode
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 
 xcode-releases
@@ -8679,6 +8716,11 @@ xcodebuild
 ^^^^^^^^^^
 
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
+
+xcodeproj
+^^^^^^^^^
+
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 
 xdr
 ^^^

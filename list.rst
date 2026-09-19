@@ -30,6 +30,8 @@ LANG: Kotlin / Java
 * `google/guice <https://github.com/google/guice>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 
 LANG: Python
 ^^^^^^^^^^^^
@@ -169,6 +171,7 @@ LANG: Swift
 * `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
+* `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 
 LANG: Swift (Apple / Swift)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -213,6 +216,7 @@ LANG: Swift (Apple / Swift)
 * `apple/swift-system <https://github.com/apple/swift-system>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `apple/swift-tls <https://github.com/apple/swift-tls>`_
+* `apple/xcode-project-format <https://github.com/apple/xcode-project-format>`_
 * `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `swiftlang/swift-driver <https://github.com/swiftlang/swift-driver>`_
@@ -503,7 +507,6 @@ SYS: VPS
 
 * `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
-* `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
@@ -636,6 +639,7 @@ UTILS: Agent
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `browser-use/jev-ultrafast <https://github.com/browser-use/jev-ultrafast>`_
 * `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_

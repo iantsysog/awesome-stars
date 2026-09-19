@@ -210,6 +210,8 @@ Kotlin
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
+* `slackhq/circuit <https://github.com/slackhq/circuit>`_
+* `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `whyorean/AuroraStore <https://github.com/whyorean/AuroraStore>`_
@@ -296,6 +298,7 @@ Python
 * `android/skills <https://github.com/android/skills>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `browser-use/jev-ultrafast <https://github.com/browser-use/jev-ultrafast>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
@@ -496,6 +499,7 @@ Swift
 * `apple/swift-system <https://github.com/apple/swift-system>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `apple/swift-tls <https://github.com/apple/swift-tls>`_
+* `apple/xcode-project-format <https://github.com/apple/xcode-project-format>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
@@ -605,6 +609,7 @@ Swift
 * `sindresorhus/Percentage <https://github.com/sindresorhus/Percentage>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
@@ -619,6 +624,8 @@ Swift
 * `swiftlang/swift-syntax <https://github.com/swiftlang/swift-syntax>`_
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
+* `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
@@ -627,6 +634,7 @@ Swift
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
+* `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_
 
@@ -645,7 +653,6 @@ TypeScript
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
-* `SukkaW/dashflare <https://github.com/SukkaW/dashflare>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
