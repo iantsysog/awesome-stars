@@ -323,6 +323,11 @@ QML
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 
+R
+^
+
+* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
+
 Roff
 ^^^^
 
@@ -508,7 +513,7 @@ Swift
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_

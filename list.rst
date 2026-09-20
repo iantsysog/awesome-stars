@@ -336,6 +336,7 @@ PLAT: Typography
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
+* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
 
 PLAT: Zotero
@@ -541,7 +542,7 @@ SYS: iOS
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_

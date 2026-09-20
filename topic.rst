@@ -2643,7 +2643,7 @@ eruda
 esign
 ^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 esp32
 ^^^^^
@@ -3633,7 +3633,7 @@ ios
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
@@ -3693,7 +3693,7 @@ iosmath
 ipa
 ^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 ipad
 ^^^^
@@ -3703,7 +3703,7 @@ ipad
 ipados
 ^^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 iphone
 ^^^^^^
@@ -4023,7 +4023,7 @@ kotlin-multiplatform
 kravasign
 ^^^^^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 krishnassh
 ^^^^^^^^^^
@@ -4080,6 +4080,7 @@ latex
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
+* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 
 latex3-development
 ^^^^^^^^^^^^^^^^^^
@@ -6007,6 +6008,11 @@ quizapp
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 
+r-package
+^^^^^^^^^
+
+* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
+
 ra2
 ^^^
 
@@ -6706,12 +6712,12 @@ sideload
 ^^^^^^^^
 
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 sideloading
 ^^^^^^^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 
 sidestore
@@ -6723,22 +6729,22 @@ sidestore
 sign
 ^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 signature
 ^^^^^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 signer
 ^^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 signing
 ^^^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 sile
 ^^^^
@@ -7680,6 +7686,11 @@ tex
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+
+texlive
+^^^^^^^
+
+* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 
 text
 ^^^^
@@ -8903,7 +8914,7 @@ zsh-theme
 zsign
 ^^^^^
 
-* `claration/Feather <https://github.com/claration/Feather>`_
+* `claration/feather <https://github.com/claration/feather>`_
 
 zstd
 ^^^^
