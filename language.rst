@@ -28,6 +28,7 @@ C
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `Libera-Chat/solanum <https://github.com/Libera-Chat/solanum>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -122,10 +123,8 @@ Go
 HTML
 ^^^^
 
-* `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 Haskell
 ^^^^^^^
@@ -291,14 +290,12 @@ Python
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `android/skills <https://github.com/android/skills>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
-* `browser-use/jev-ultrafast <https://github.com/browser-use/jev-ultrafast>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
@@ -309,6 +306,7 @@ Python
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
@@ -647,6 +645,7 @@ TeX
 ^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `CTeX-org/lshort-zh-cn <https://github.com/CTeX-org/lshort-zh-cn>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
@@ -670,7 +669,6 @@ TypeScript
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_

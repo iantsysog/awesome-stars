@@ -330,6 +330,7 @@ PLAT: Typography
 ^^^^^^^^^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `CTeX-org/lshort-zh-cn <https://github.com/CTeX-org/lshort-zh-cn>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
@@ -507,6 +508,7 @@ SYS: VPS
 ^^^^^^^^
 
 * `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
+* `Libera-Chat/solanum <https://github.com/Libera-Chat/solanum>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
@@ -630,25 +632,21 @@ UTILS: Agent
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
-* `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
-* `browser-use/jev-ultrafast <https://github.com/browser-use/jev-ultrafast>`_
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
 UTILS: Entry

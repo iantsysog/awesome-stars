@@ -18,6 +18,7 @@ Others
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
+* `CTeX-org/lshort-zh-cn <https://github.com/CTeX-org/lshort-zh-cn>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
@@ -41,6 +42,7 @@ Others
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `LiYanan2004/MathShape <https://github.com/LiYanan2004/MathShape>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
+* `Libera-Chat/solanum <https://github.com/Libera-Chat/solanum>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
@@ -97,7 +99,6 @@ Others
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
-* `browser-use/jev-ultrafast <https://github.com/browser-use/jev-ultrafast>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
@@ -286,24 +287,12 @@ agent
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
-
-agent-security
-^^^^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
-
-agent-skills
-^^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 
 agentic-ai
 ^^^^^^^^^^
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 
 ai
 ^^
@@ -316,7 +305,6 @@ ai-agent
 ^^^^^^^^
 
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 ai-agents
 ^^^^^^^^^
@@ -344,11 +332,6 @@ ai-development
 ^^^^^^^^^^^^^^
 
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
-
-ai-security
-^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 
 ai-vs-ai
 ^^^^^^^^
@@ -665,7 +648,6 @@ apple
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
 apple-music
@@ -677,6 +659,7 @@ apple-silicon
 ^^^^^^^^^^^^^
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 application-manager
 ^^^^^^^^^^^^^^^^^^^
@@ -1410,7 +1393,6 @@ clamav
 claude-code
 ^^^^^^^^^^^
 
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
@@ -1743,16 +1725,6 @@ compressor
 
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 
-computer-use
-^^^^^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
-computer-use-agent
-^^^^^^^^^^^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
 concurrency
 ^^^^^^^^^^^
 
@@ -1818,7 +1790,6 @@ containerization
 
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 containers
 ^^^^^^^^^^
@@ -1971,11 +1942,6 @@ ctf
 
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
-cua
-^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
 cups
 ^^^^
 
@@ -2096,6 +2062,11 @@ decentralized-application
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
+
+decision-model
+^^^^^^^^^^^^^^
+
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 decoder
 ^^^^^^^
@@ -2224,11 +2195,6 @@ desktop
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
-
-desktop-automation
-^^^^^^^^^^^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 dev-tools
 ^^^^^^^^^
@@ -3215,7 +3181,6 @@ hacktoberfest
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 hacktoberfest-accepted
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -3541,6 +3506,11 @@ incus
 
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 
+inference
+^^^^^^^^^
+
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+
 inference-engine
 ^^^^^^^^^^^^^^^^
 
@@ -3759,7 +3729,6 @@ itunes
 jailbreak
 ^^^^^^^^^
 
-* `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
@@ -4087,6 +4056,11 @@ latex3-development
 
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
 
+laya
+^^^^
+
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+
 layout
 ^^^^^^
 
@@ -4209,6 +4183,11 @@ load-balancer
 
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
+local-ai
+^^^^^^^^
+
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+
 local-development
 ^^^^^^^^^^^^^^^^^
 
@@ -4286,11 +4265,6 @@ luci
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 
-lume
-^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
 luminance
 ^^^^^^^^^
 
@@ -4363,6 +4337,7 @@ machine-learning
 ^^^^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 macho
 ^^^^^
@@ -4419,7 +4394,6 @@ macos
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
@@ -4533,11 +4507,6 @@ malware-analysis
 
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 
-manus
-^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
 markdown
 ^^^^^^^^
 
@@ -4636,17 +4605,6 @@ maven
 ^^^^^
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
-
-mcp
-^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
-
-mcp-server
-^^^^^^^^^^
-
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 
 md3
 ^^^
@@ -4781,6 +4739,7 @@ mlx
 ^^^
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 mlx-lm
 ^^^^^^
@@ -4809,15 +4768,10 @@ mocha
 
 * `l2beat/earl <https://github.com/l2beat/earl>`_
 
-model-context-protocol
-^^^^^^^^^^^^^^^^^^^^^^
+modernbert
+^^^^^^^^^^
 
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
-
-model-context-protocol-servers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 modular
 ^^^^^^^
@@ -5348,11 +5302,6 @@ openwrt
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 
-operator
-^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
 optimize
 ^^^^^^^^
 
@@ -5839,13 +5788,7 @@ promises
 prompt
 ^^^^^^
 
-* `JustLikeCheese/LGBT-Prompt <https://github.com/JustLikeCheese/LGBT-Prompt>`_
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
-
-prompt-injection
-^^^^^^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 
 promql
 ^^^^^^
@@ -6579,21 +6522,10 @@ security
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 
-security-scanner
-^^^^^^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
-
 security-tools
 ^^^^^^^^^^^^^^
 
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
-
-security-workflow
-^^^^^^^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
 
 self-hosted
 ^^^^^^^^^^^
@@ -7097,11 +7029,6 @@ sukisu
 
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 
-supply-chain-security
-^^^^^^^^^^^^^^^^^^^^^
-
-* `NVIDIA/SkillSpector <https://github.com/NVIDIA/SkillSpector>`_
-
 surround-sound
 ^^^^^^^^^^^^^^
 
@@ -7228,7 +7155,6 @@ swift
 * `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
@@ -7515,6 +7441,11 @@ system-monitor
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
+system-one
+^^^^^^^^^^
+
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+
 systems-programming
 ^^^^^^^^^^^^^^^^^^^
 
@@ -7529,11 +7460,6 @@ tableview
 ^^^^^^^^^
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
-
-tag-non-production
-^^^^^^^^^^^^^^^^^^
-
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 
 tagged-types
 ^^^^^^^^^^^^
@@ -7981,6 +7907,11 @@ typechecking
 
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 
+typed-decisions
+^^^^^^^^^^^^^^^
+
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+
 types
 ^^^^^
 
@@ -8335,16 +8266,6 @@ virtual-machines
 
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
-virtualization
-^^^^^^^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
-virtualization-framework
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
-
 virus-scanning
 ^^^^^^^^^^^^^^
 
@@ -8638,7 +8559,6 @@ windows
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 windows-10
 ^^^^^^^^^^
@@ -8660,11 +8580,6 @@ windows-forms
 ^^^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
-
-windows-sandbox
-^^^^^^^^^^^^^^^
-
-* `trycua/cua <https://github.com/trycua/cua>`_
 
 wireguard
 ^^^^^^^^^
@@ -8708,7 +8623,6 @@ xcode
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
@@ -8722,11 +8636,6 @@ xcode-releases
 ^^^^^^^^^^^^^^
 
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
-
-xcodebuild
-^^^^^^^^^^
-
-* `getsentry/XcodeBuildMCP <https://github.com/getsentry/XcodeBuildMCP>`_
 
 xcodeproj
 ^^^^^^^^^
