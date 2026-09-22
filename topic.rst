@@ -18,7 +18,6 @@ Others
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
-* `CTeX-org/lshort-zh-cn <https://github.com/CTeX-org/lshort-zh-cn>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
@@ -372,6 +371,7 @@ alerting
 ^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 alfred
 ^^^^^^
@@ -422,6 +422,7 @@ altstore
 analytics
 ^^^^^^^^^
 
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 
@@ -1163,6 +1164,11 @@ bunjs
 ^^^^^
 
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
+
+business-intelligence
+^^^^^^^^^^^^^^^^^^^^^
+
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 c
 ^
@@ -1972,6 +1978,7 @@ dashboard
 
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 data
 ^^^^
@@ -1984,6 +1991,11 @@ data-structures
 ^^^^^^^^^^^^^^^
 
 * `pointfreeco/swift-identified-collections <https://github.com/pointfreeco/swift-identified-collections>`_
+
+data-visualization
+^^^^^^^^^^^^^^^^^^
+
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 database
 ^^^^^^^^
@@ -2514,6 +2526,11 @@ effects
 
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 
+elasticsearch
+^^^^^^^^^^^^^
+
+* `grafana/grafana <https://github.com/grafana/grafana>`_
+
 elearning
 ^^^^^^^^^
 
@@ -2841,6 +2858,7 @@ formal-logic
 formatter
 ^^^^^^^^^
 
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
@@ -3063,6 +3081,7 @@ go
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
@@ -3124,6 +3143,7 @@ grafana
 ^^^^^^^
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 graph
 ^^^^^
@@ -3170,12 +3190,15 @@ hacktoberfest
 ^^^^^^^^^^^^^
 
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+* `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `Moya/Moya <https://github.com/Moya/Moya>`_
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `iina/iina <https://github.com/iina/iina>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
@@ -3520,6 +3543,7 @@ influxdb
 ^^^^^^^^
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 infrastructure-as-code
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -4049,7 +4073,6 @@ latex
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
-* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 
 latex3-development
 ^^^^^^^^^^^^^^^^^^
@@ -4253,12 +4276,23 @@ lsposeed
 lua
 ^^^
 
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+
+luaformatter
+^^^^^^^^^^^^
+
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 
 lualatex
 ^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+
+luau
+^^^^
+
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 
 luci
 ^^^^
@@ -4683,6 +4717,7 @@ metrics
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 microsoft
 ^^^^^^^^^
@@ -4803,6 +4838,7 @@ monitoring
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 
 monitoring-tool
@@ -4917,6 +4953,7 @@ mysql
 
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 mysql-client
 ^^^^^^^^^^^^
@@ -5664,6 +5701,7 @@ postgres
 ^^^^^^^^
 
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 postgresql
 ^^^^^^^^^^
@@ -5697,9 +5735,15 @@ presentation
 
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
+pretty-printer
+^^^^^^^^^^^^^^
+
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+
 printer
 ^^^^^^^
 
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 
 printing
@@ -5774,6 +5818,7 @@ prometheus
 ^^^^^^^^^^
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 
 promise
 ^^^^^^^
@@ -5950,11 +5995,6 @@ quizapp
 ^^^^^^^
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
-
-r-package
-^^^^^^^^^
-
-* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 
 ra2
 ^^^
@@ -7013,6 +7053,11 @@ styleguide
 
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 
+stylua
+^^^^^^
+
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+
 sudo
 ^^^^
 
@@ -7612,11 +7657,6 @@ tex
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
-
-texlive
-^^^^^^^
-
-* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 
 text
 ^^^^

@@ -33,6 +33,12 @@ LANG: Kotlin / Java
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 
+LANG: Lua
+^^^^^^^^^
+
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+* `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
+
 LANG: Python
 ^^^^^^^^^^^^
 
@@ -330,14 +336,12 @@ PLAT: Typography
 ^^^^^^^^^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
-* `CTeX-org/lshort-zh-cn <https://github.com/CTeX-org/lshort-zh-cn>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
-* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
 
 PLAT: Zotero
@@ -513,6 +517,7 @@ SYS: VPS
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_

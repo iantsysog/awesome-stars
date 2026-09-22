@@ -321,11 +321,6 @@ QML
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 
-R
-^
-
-* `rstudio/tinytex <https://github.com/rstudio/tinytex>`_
-
 Roff
 ^^^^
 
@@ -341,6 +336,8 @@ Rust
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+* `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
@@ -645,7 +642,6 @@ TeX
 ^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
-* `CTeX-org/lshort-zh-cn <https://github.com/CTeX-org/lshort-zh-cn>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
@@ -669,6 +665,7 @@ TypeScript
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
