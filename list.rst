@@ -480,6 +480,8 @@ SYS: General
 * `localsend/localsend <https://github.com/localsend/localsend>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
+* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
@@ -487,6 +489,7 @@ SYS: General
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+* `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
@@ -512,11 +515,13 @@ SYS: VPS
 ^^^^^^^^
 
 * `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
-* `Libera-Chat/solanum <https://github.com/Libera-Chat/solanum>`_
+* `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
@@ -526,6 +531,7 @@ SYS: VPS
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
+* `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
@@ -537,6 +543,7 @@ SYS: Windows
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
+* `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_

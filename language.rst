@@ -26,9 +26,9 @@ C
 
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
+* `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-* `Libera-Chat/solanum <https://github.com/Libera-Chat/solanum>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -106,7 +106,9 @@ Go
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
@@ -130,6 +132,7 @@ Haskell
 ^^^^^^^
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
+* `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 Java
@@ -267,6 +270,7 @@ Others
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
@@ -339,6 +343,7 @@ Rust
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
+* `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
@@ -381,6 +386,7 @@ Rust
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
+* `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
@@ -682,6 +688,7 @@ TypeScript
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
 * `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_

@@ -16,6 +16,7 @@ Others
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
+* `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
@@ -41,7 +42,7 @@ Others
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `LiYanan2004/MathShape <https://github.com/LiYanan2004/MathShape>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
-* `Libera-Chat/solanum <https://github.com/Libera-Chat/solanum>`_
+* `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
@@ -175,6 +176,7 @@ Others
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
+* `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `swiftlang/swift-driver <https://github.com/swiftlang/swift-driver>`_
@@ -234,6 +236,16 @@ accounting
 ^^^^^^^^^^
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
+
+acme
+^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
+
+acme-client
+^^^^^^^^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 
 action-button
 ^^^^^^^^^^^^^
@@ -656,6 +668,11 @@ apple-music
 
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 
+apple-pay
+^^^^^^^^^
+
+* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
+
 apple-silicon
 ^^^^^^^^^^^^^
 
@@ -832,6 +849,11 @@ automation-testing
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
+avatars
+^^^^^^^
+
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
+
 average-color
 ^^^^^^^^^^^^^
 
@@ -888,6 +910,11 @@ baggage-context
 ^^^^^^^^^^^^^^^
 
 * `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
+
+bank
+^^^^
+
+* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
 
 base-ui
 ^^^^^^^
@@ -1271,6 +1298,11 @@ censorship-circumvention
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+
+certificate
+^^^^^^^^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 
 certificate-revocation
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -1662,6 +1694,11 @@ command-palette
 
 * `dip/cmdk <https://github.com/dip/cmdk>`_
 
+commandandconquer
+^^^^^^^^^^^^^^^^^
+
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
+
 commands
 ^^^^^^^^
 
@@ -1962,6 +1999,11 @@ cyclonedx
 ^^^^^^^^^
 
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
+daemon
+^^^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
 
 daisydisk
 ^^^^^^^^^
@@ -2320,6 +2362,7 @@ dns
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
@@ -2374,6 +2417,7 @@ docker
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 docker-compose
@@ -3097,6 +3141,7 @@ golang
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
@@ -3456,6 +3501,11 @@ i18n
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 
+iced
+^^^^
+
+* `squidowl/halloy <https://github.com/squidowl/halloy>`_
+
 icloud
 ^^^^^^
 
@@ -3719,6 +3769,44 @@ ippeverywhere
 ^^^^^^^^^^^^^
 
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
+
+irc
+^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
+* `squidowl/halloy <https://github.com/squidowl/halloy>`_
+
+irc-client
+^^^^^^^^^^
+
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
+
+irc-daemon
+^^^^^^^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+
+irc-server
+^^^^^^^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+
+ircd
+^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+
+ircv3
+^^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
+
+ircv3-support
+^^^^^^^^^^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
 
 islands
 ^^^^^^^
@@ -4099,6 +4187,11 @@ ledger
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
+
+letsencrypt
+^^^^^^^^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 
 lexer
 ^^^^^
@@ -4694,6 +4787,7 @@ metadata
 ^^^^^^^^
 
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 metal
 ^^^^^
@@ -6085,6 +6179,7 @@ reactjs
 ^^^^^^^
 
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 real
 ^^^^
@@ -6235,6 +6330,21 @@ rfc-8484
 
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
 
+rfc8555
+^^^^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
+
+rfc8737
+^^^^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
+
+rfc8738
+^^^^^^^
+
+* `go-acme/lego <https://github.com/go-acme/lego>`_
+
 rich-text
 ^^^^^^^^^
 
@@ -6337,6 +6447,11 @@ rts
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
+rts-game
+^^^^^^^^
+
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
+
 ruby
 ^^^^
 
@@ -6397,6 +6512,7 @@ rust
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
+* `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
@@ -6468,6 +6584,11 @@ sans-io
 ^^^^^^^
 
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
+
+sasl
+^^^^
+
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
 
 satysfi
 ^^^^^^^
@@ -6556,6 +6677,7 @@ security
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
@@ -6614,6 +6736,7 @@ server
 
 * `apple/swift-configuration <https://github.com/apple/swift-configuration>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
@@ -7532,6 +7655,7 @@ tailwindcss
 * `codse/animata <https://github.com/codse/animata>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
@@ -7571,6 +7695,7 @@ tauri
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 tauri-app
 ^^^^^^^^^
@@ -7581,6 +7706,11 @@ tauri2
 ^^^^^^
 
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
+
+tcp
+^^^
+
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 tcp-proxy-server
 ^^^^^^^^^^^^^^^^
@@ -7728,6 +7858,7 @@ tls
 ^^^
 
 * `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
+* `go-acme/lego <https://github.com/go-acme/lego>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 tls-support
@@ -7971,6 +8102,7 @@ typescript
 * `insel-null/uuid <https://github.com/insel-null/uuid>`_
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `l2beat/earl <https://github.com/l2beat/earl>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
@@ -8092,6 +8224,11 @@ uninstaller
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 
+unioinpay
+^^^^^^^^^
+
+* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
+
 unit-testing
 ^^^^^^^^^^^^
 
@@ -8113,6 +8250,11 @@ unocss
 ^^^^^^
 
 * `unocss/unocss <https://github.com/unocss/unocss>`_
+
+unrealircd
+^^^^^^^^^^
+
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 unsigned-integers
 ^^^^^^^^^^^^^^^^^
@@ -8498,6 +8640,7 @@ websocket
 ^^^^^^^^^
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 webui
 ^^^^^
@@ -8775,7 +8918,13 @@ yubikey
 yuris-revenge
 ^^^^^^^^^^^^^
 
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
+yurisrevenge
+^^^^^^^^^^^^
+
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
 
 zed
 ^^^
