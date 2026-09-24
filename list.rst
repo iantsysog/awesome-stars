@@ -519,6 +519,9 @@ SYS: VPS
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+* `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `ergochat/ergo <https://github.com/ergochat/ergo>`_
 * `go-acme/lego <https://github.com/go-acme/lego>`_
@@ -643,6 +646,7 @@ UTILS: Agent
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
+* `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_

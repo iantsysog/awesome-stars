@@ -25,6 +25,7 @@ Others
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
+* `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
@@ -880,11 +881,15 @@ awesome
 ^^^^^^^
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 
 awesome-list
 ^^^^^^^^^^^^
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 
 awesome-resources
 ^^^^^^^^^^^^^^^^^
@@ -1492,6 +1497,7 @@ clock
 cloud
 ^^^^^
 
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
 cloud-storage
@@ -2283,6 +2289,7 @@ devops
 ^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
@@ -2923,6 +2930,11 @@ framework
 
 * `vapor/vapor <https://github.com/vapor/vapor>`_
 
+free-software
+^^^^^^^^^^^^^
+
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+
 fresh
 ^^^^^
 
@@ -3241,6 +3253,7 @@ hacktoberfest
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
@@ -3382,6 +3395,11 @@ homomorphic-encryption
 ^^^^^^^^^^^^^^^^^^^^^^
 
 * `apple/swift-homomorphic-encryption <https://github.com/apple/swift-homomorphic-encryption>`_
+
+hosting
+^^^^^^^
+
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 
 hosts
 ^^^^^
@@ -4266,6 +4284,11 @@ liquidglass
 ^^^^^^^^^^^
 
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
+
+list
+^^^^
+
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 
 literals
 ^^^^^^^^
@@ -5433,6 +5456,11 @@ openwrt
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 
+ops
+^^^
+
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+
 optimize
 ^^^^^^^^
 
@@ -5850,6 +5878,7 @@ privacy
 
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 
@@ -6693,6 +6722,8 @@ self-hosted
 ^^^^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 
 self-updating
@@ -6704,6 +6735,7 @@ selfhosted
 ^^^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 
 sendable
 ^^^^^^^^
@@ -6944,6 +6976,11 @@ socks5
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
+software
+^^^^^^^^
+
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+
 software-architecture
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -7016,6 +7053,11 @@ sqlite
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
+
+sre
+^^^
+
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 
 ssg
 ^^^
@@ -7588,6 +7630,11 @@ syncthing
 ^^^^^^^^^
 
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+
+sysadmin
+^^^^^^^^
+
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 
 system
 ^^^^^^

@@ -268,6 +268,8 @@ Others
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
@@ -400,6 +402,7 @@ Shell
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
+* `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
@@ -658,6 +661,7 @@ TypeScript
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
+* `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
