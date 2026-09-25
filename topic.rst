@@ -1,11 +1,6 @@
 Topic
 =====
 
-2fa
-^^^
-
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
-
 Others
 ^^^^^^
 
@@ -580,6 +575,16 @@ antivirus
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+
+any-sync
+^^^^^^^^
+
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
+
+anytype
+^^^^^^^
+
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 
 aot
 ^^^
@@ -2425,6 +2430,7 @@ docker
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 docker-compose
@@ -2919,6 +2925,11 @@ formerly-lsposed-module
 
 * `frknkrc44/HMA-OSS <https://github.com/frknkrc44/HMA-OSS>`_
 
+foss
+^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
 foundation
 ^^^^^^^^^^
 
@@ -3142,6 +3153,7 @@ go
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 
 golang
 ^^^^^^
@@ -4664,6 +4676,7 @@ markdown
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 
 markdown-editor
 ^^^^^^^^^^^^^^^
@@ -4767,6 +4780,11 @@ media3
 
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 
+memo
+^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
 memory
 ^^^^^^
 
@@ -4835,6 +4853,11 @@ metrics
 * `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
 * `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
+
+microblog
+^^^^^^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
 
 microsoft
 ^^^^^^^^^
@@ -5171,6 +5194,16 @@ norevoke
 
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 
+note-taking
+^^^^^^^^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
+notecard
+^^^^^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
 notifications
 ^^^^^^^^^^^^^
 
@@ -5236,11 +5269,6 @@ nuxt
 ^^^^
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
-
-oauth
-^^^^^
-
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
 
 obfuscation
 ^^^^^^^^^^^
@@ -5518,6 +5546,11 @@ overpass-turbo
 
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
+own-your-data
+^^^^^^^^^^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
 oxygenos
 ^^^^^^^^
 
@@ -5526,6 +5559,7 @@ oxygenos
 p2p
 ^^^
 
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 
@@ -6166,6 +6200,7 @@ react
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 
 react-aria
 ^^^^^^^^^^
@@ -6722,9 +6757,11 @@ self-hosted
 ^^^^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 
 self-updating
 ^^^^^^^^^^^^^
@@ -6971,6 +7008,11 @@ snapshot-testing
 * `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
 * `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
 
+social-network
+^^^^^^^^^^^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
 socks5
 ^^^^^^
 
@@ -7053,6 +7095,7 @@ sqlite
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 
 sre
 ^^^
@@ -7074,11 +7117,6 @@ sslvpn
 ^^^^^^
 
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
-
-sso
-^^^
-
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
 
 ssr
 ^^^
@@ -7685,11 +7723,6 @@ tags
 ^^^^
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
-
-tailscale
-^^^^^^^^^
-
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
 
 tailwind
 ^^^^^^^^
@@ -8561,7 +8594,6 @@ vpn
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
 
 vscode-extension
 ^^^^^^^^^^^^^^^^
@@ -8810,11 +8842,6 @@ windows-forms
 ^^^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
-
-wireguard
-^^^^^^^^^
-
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
 
 wireless-debugging
 ^^^^^^^^^^^^^^^^^^

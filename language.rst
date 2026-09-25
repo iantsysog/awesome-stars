@@ -119,7 +119,7 @@ Go
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 HTML
@@ -400,6 +400,7 @@ Shell
 ^^^^^
 
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_

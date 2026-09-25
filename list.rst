@@ -519,6 +519,7 @@ SYS: VPS
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
@@ -537,6 +538,7 @@ SYS: VPS
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 * `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
@@ -687,4 +689,3 @@ UTILS: Network
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
-* `tailscale/tailscale <https://github.com/tailscale/tailscale>`_
