@@ -59,7 +59,6 @@ C++
 
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
-* `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
@@ -187,7 +186,6 @@ Kotlin
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
-* `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
@@ -203,7 +201,6 @@ Kotlin
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
-* `frknkrc44/HMA-OSS <https://github.com/frknkrc44/HMA-OSS>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_

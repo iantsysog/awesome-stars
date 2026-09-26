@@ -40,9 +40,7 @@ Others
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
-* `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
-* `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
@@ -2919,11 +2917,6 @@ formatter
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
-
-formerly-lsposed-module
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `frknkrc44/HMA-OSS <https://github.com/frknkrc44/HMA-OSS>`_
 
 foss
 ^^^^
@@ -6327,11 +6320,6 @@ requests
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 
-requires-root
-^^^^^^^^^^^^^
-
-* `frknkrc44/HMA-OSS <https://github.com/frknkrc44/HMA-OSS>`_
-
 resolver
 ^^^^^^^^
 
@@ -9104,8 +9092,3 @@ zygisk
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
-
-zygisk-module
-^^^^^^^^^^^^^
-
-* `frknkrc44/HMA-OSS <https://github.com/frknkrc44/HMA-OSS>`_

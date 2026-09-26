@@ -387,10 +387,8 @@ SYS: Android
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
-* `LyraVoid/FolkPatch <https://github.com/LyraVoid/FolkPatch>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
-* `MhmRdd/NoHello <https://github.com/MhmRdd/NoHello>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
@@ -421,7 +419,6 @@ SYS: Android
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 * `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
-* `frknkrc44/HMA-OSS <https://github.com/frknkrc44/HMA-OSS>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
