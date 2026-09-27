@@ -521,6 +521,7 @@ SYS: VPS
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `ergochat/ergo <https://github.com/ergochat/ergo>`_
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_

@@ -103,6 +103,7 @@ Go
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `ergochat/ergo <https://github.com/ergochat/ergo>`_

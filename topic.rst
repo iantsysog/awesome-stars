@@ -1507,6 +1507,7 @@ cloud-storage
 ^^^^^^^^^^^^^
 
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 
 cloud-sync
 ^^^^^^^^^^
@@ -2482,6 +2483,11 @@ double-entry-bookkeeping
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 
+drive
+^^^^^
+
+* `devld/go-drive <https://github.com/devld/go-drive>`_
+
 driver
 ^^^^^^
 
@@ -2795,6 +2801,7 @@ file-hider
 file-manager
 ^^^^^^^^^^^^
 
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 file-path
@@ -3157,6 +3164,7 @@ golang
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
@@ -3174,6 +3182,11 @@ google-chrome
 ^^^^^^^^^^^^^
 
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
+
+google-drive
+^^^^^^^^^^^^
+
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 
 gplv2
 ^^^^^
@@ -5374,6 +5387,11 @@ on-device-ai
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
+onedrive
+^^^^^^^^
+
+* `devld/go-drive <https://github.com/devld/go-drive>`_
+
 oneplus
 ^^^^^^^
 
@@ -6599,6 +6617,7 @@ s3
 ^^
 
 * `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 
 safari
@@ -8643,6 +8662,7 @@ web
 ^^^
 
 * `biomejs/biome <https://github.com/biomejs/biome>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 
 web-analytics
@@ -8701,6 +8721,7 @@ webassembly
 webdav
 ^^^^^^
 
+* `devld/go-drive <https://github.com/devld/go-drive>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 
 websocket
