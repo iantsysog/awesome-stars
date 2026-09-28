@@ -136,7 +136,9 @@ Others
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
+* `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
+* `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
@@ -1020,6 +1022,11 @@ big-sur
 
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 
+bilibili
+^^^^^^^^
+
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+
 binary
 ^^^^^^
 
@@ -1472,6 +1479,7 @@ cleanmymac
 cli
 ^^^
 
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
@@ -2472,6 +2480,7 @@ dotnet
 ^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 
 double-entry-accounting
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -2482,6 +2491,11 @@ double-entry-bookkeeping
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
+
+downloader
+^^^^^^^^^^
+
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 
 drive
 ^^^^^
@@ -2923,6 +2937,7 @@ formatter
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
+* `google/google-java-format <https://github.com/google/google-java-format>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 
 foss
@@ -3895,6 +3910,7 @@ java
 
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
+* `google/google-java-format <https://github.com/google/google-java-format>`_
 
 javascript
 ^^^^^^^^^^
@@ -4103,6 +4119,7 @@ kotlin
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
@@ -4269,11 +4286,17 @@ linear-attention
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+lint
+^^^^
+
+* `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
+
 linter
 ^^^^^^
 
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
+* `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
@@ -5111,6 +5134,11 @@ native
 
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
+
+native-aot
+^^^^^^^^^^
+
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 
 nerdctl
 ^^^^^^^

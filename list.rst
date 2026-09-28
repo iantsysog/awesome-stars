@@ -27,8 +27,10 @@ LANG: Kotlin / Java
 ^^^^^^^^^^^^^^^^^^^
 
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
+* `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+* `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
@@ -450,6 +452,7 @@ SYS: General
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
@@ -549,6 +552,7 @@ SYS: Windows
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
+* `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 
@@ -662,6 +666,7 @@ UTILS: Agent
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 

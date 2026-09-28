@@ -50,6 +50,7 @@ C#
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
@@ -148,6 +149,7 @@ Java
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
+* `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 
 JavaScript
@@ -206,6 +208,7 @@ Kotlin
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
@@ -283,6 +286,7 @@ Perl
 PowerShell
 ^^^^^^^^^^
 
+* `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
 Python
@@ -686,6 +690,7 @@ TypeScript
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
+* `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
