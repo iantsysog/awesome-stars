@@ -26,6 +26,7 @@ LANG: Haskell
 LANG: Kotlin / Java
 ^^^^^^^^^^^^^^^^^^^
 
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
@@ -323,6 +324,7 @@ PLAT: Game
 PLAT: Minecraft
 ^^^^^^^^^^^^^^^
 
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
@@ -369,6 +371,7 @@ SYS: Android
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+* `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
@@ -378,6 +381,7 @@ SYS: Android
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
+* `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
@@ -397,6 +401,7 @@ SYS: Android
 * `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
@@ -419,6 +424,7 @@ SYS: Android
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
+* `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
 * `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
@@ -440,6 +446,7 @@ SYS: Android
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 SYS: General
 ^^^^^^^^^^^^
@@ -519,6 +526,7 @@ SYS: VPS
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
@@ -650,6 +658,7 @@ UTILS: Agent
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
+* `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_

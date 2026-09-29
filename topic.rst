@@ -1,6 +1,11 @@
 Topic
 =====
 
+2b2t-utility-mod
+^^^^^^^^^^^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+
 Others
 ^^^^^^
 
@@ -8,9 +13,11 @@ Others
 * `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
+* `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
+* `AvdLee/appstoreconnect-swift-sdk <https://github.com/AvdLee/appstoreconnect-swift-sdk>`_
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
@@ -20,6 +27,8 @@ Others
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
+* `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
+* `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
@@ -106,6 +115,7 @@ Others
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
+* `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
@@ -340,6 +350,11 @@ ai-development
 
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
+ai-generated
+^^^^^^^^^^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+
 ai-vs-ai
 ^^^^^^^^
 
@@ -462,6 +477,7 @@ android
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
@@ -484,6 +500,7 @@ android
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 android-app
 ^^^^^^^^^^^
@@ -722,6 +739,11 @@ arthook
 ^^^^^^^
 
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
+
+asm
+^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 
 asn1
 ^^^^
@@ -1212,6 +1234,11 @@ business-intelligence
 
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 
+bytecode
+^^^^^^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+
 c
 ^
 
@@ -1479,6 +1506,7 @@ cleanmymac
 cli
 ^^^
 
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
@@ -1537,6 +1565,7 @@ cloudflare-pages
 cloudflare-workers
 ^^^^^^^^^^^^^^^^^^
 
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 
 cloudkit
@@ -1786,6 +1815,11 @@ compressor
 
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 
+compute-graphics
+^^^^^^^^^^^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+
 concurrency
 ^^^^^^^^^^^
 
@@ -1877,6 +1911,11 @@ contrast-ratio
 ^^^^^^^^^^^^^^
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
+
+control-flow-flattening
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 
 conversational-awareness
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2282,6 +2321,7 @@ developer-tools
 ^^^^^^^^^^^^^^^
 
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
@@ -2533,6 +2573,11 @@ dune-2000
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 
+durable-objects
+^^^^^^^^^^^^^^^
+
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
+
 dyld
 ^^^^
 
@@ -2557,6 +2602,11 @@ ear-detection
 ^^^^^^^^^^^^^
 
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
+
+early-stage
+^^^^^^^^^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 
 easing
 ^^^^^^
@@ -2732,6 +2782,11 @@ extension
 ^^^^^^^^^
 
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
+
+fabric
+^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
 face-id
 ^^^^^^^
@@ -3145,6 +3200,7 @@ glsl
 ^^^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
 gnu-coreutils
 ^^^^^^^^^^^^^
@@ -3203,6 +3259,11 @@ google-drive
 
 * `devld/go-drive <https://github.com/devld/go-drive>`_
 
+gpl-3
+^^^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+
 gplv2
 ^^^^^
 
@@ -3260,6 +3321,11 @@ graphql-client
 
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
+
+grimac
+^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
 gui
 ^^^
@@ -3398,6 +3464,11 @@ hledger
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
+hmr
+^^^
+
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
+
 home-assistant
 ^^^^^^^^^^^^^^
 
@@ -3438,6 +3509,11 @@ hosts
 ^^^^^
 
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
+
+hot-reload
+^^^^^^^^^^
+
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 
 hotspot
 ^^^^^^^
@@ -3714,6 +3790,11 @@ invertible
 * `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
 * `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
 
+invokedynamic
+^^^^^^^^^^^^^
+
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+
 ios
 ^^^
 
@@ -3908,6 +3989,8 @@ jamstack
 java
 ^^^^
 
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
@@ -3996,6 +4079,7 @@ jvm
 ^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 
 k3s
 ^^^
@@ -4378,6 +4462,11 @@ local-llm
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
+localhost
+^^^^^^^^^
+
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
+
 localization
 ^^^^^^^^^^^^
 
@@ -4418,6 +4507,7 @@ lsposed
 
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 lsposed-module
@@ -4745,6 +4835,16 @@ material-design
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
+material-design-3
+^^^^^^^^^^^^^^^^^
+
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+
+material-you
+^^^^^^^^^^^^
+
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+
 material3
 ^^^^^^^^^
 
@@ -4911,6 +5011,7 @@ midi
 minecraft
 ^^^^^^^^^
 
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
@@ -5132,6 +5233,7 @@ mysql-client
 native
 ^^^^^^
 
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -5139,6 +5241,16 @@ native-aot
 ^^^^^^^^^^
 
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+
+ncp
+^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+
+neoforge
+^^^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
 nerdctl
 ^^^^^^^
@@ -5180,6 +5292,11 @@ nginx
 ^^^^^
 
 * `nginx/nginx <https://github.com/nginx/nginx>`_
+
+ngrok-alternative
+^^^^^^^^^^^^^^^^^
+
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 
 nits
 ^^^^
@@ -5233,8 +5350,8 @@ note-taking
 
 * `usememos/memos <https://github.com/usememos/memos>`_
 
-notecard
-^^^^^^^^
+notes
+^^^^^
 
 * `usememos/memos <https://github.com/usememos/memos>`_
 
@@ -5307,6 +5424,7 @@ nuxt
 obfuscation
 ^^^^^^^^^^^
 
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 
 objc
@@ -5445,6 +5563,7 @@ open-source
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
 open-source-project
@@ -5471,6 +5590,11 @@ opencore
 ^^^^^^^^
 
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
+
+opengl
+^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
 openharmony
 ^^^^^^^^^^^
@@ -7020,6 +7144,7 @@ smoothscroll
 sms
 ^^^
 
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 
 smsbackup
@@ -7042,11 +7167,6 @@ snapshot-testing
 
 * `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
 * `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-
-social-network
-^^^^^^^^^^^^^^
-
-* `usememos/memos <https://github.com/usememos/memos>`_
 
 socks5
 ^^^^^^
@@ -7964,6 +8084,11 @@ time
 
 * `davedelong/time <https://github.com/davedelong/time>`_
 
+timeline
+^^^^^^^^
+
+* `usememos/memos <https://github.com/usememos/memos>`_
+
 timezone
 ^^^^^^^^
 
@@ -8101,6 +8226,11 @@ tun
 ^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+
+tunnel
+^^^^^^
+
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 
 turso
 ^^^^^
@@ -8520,6 +8650,11 @@ verification
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
+verification-code
+^^^^^^^^^^^^^^^^^
+
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+
 vibe-coding
 ^^^^^^^^^^^
 
@@ -8648,6 +8783,11 @@ vueuse
 
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
+vulkan
+^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+
 wai-aria
 ^^^^^^^^
 
@@ -8755,6 +8895,7 @@ webdav
 websocket
 ^^^^^^^^^
 
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
@@ -8960,6 +9101,7 @@ xposed
 ^^^^^^
 
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
@@ -9052,9 +9194,20 @@ zero-dependencies
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+zhihu
+^^^^^
+
+* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
+
+zhihu-daily
+^^^^^^^^^^^
+
+* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
+
 zig
 ^^^
 
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_

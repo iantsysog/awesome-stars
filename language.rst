@@ -126,6 +126,7 @@ Go
 HTML
 ^^^^
 
+* `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
@@ -140,9 +141,12 @@ Java
 ^^^^
 
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
+* `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
@@ -176,12 +180,14 @@ Kotlin
 ^^^^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+* `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
+* `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
@@ -222,6 +228,7 @@ Kotlin
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 Lua
 ^^^
@@ -364,6 +371,7 @@ Rust
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
+* `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
@@ -423,6 +431,7 @@ Swift
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `Alex-Ozun/swift-effect <https://github.com/Alex-Ozun/swift-effect>`_
+* `AvdLee/appstoreconnect-swift-sdk <https://github.com/AvdLee/appstoreconnect-swift-sdk>`_
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
@@ -669,6 +678,7 @@ TypeScript
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
