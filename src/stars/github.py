@@ -4,22 +4,25 @@ from functools import cached_property, wraps
 from typing import TYPE_CHECKING, Final, overload, override
 
 from githubkit import GitHub
-from githubkit.retry import RetryChainDecision, RetryRateLimit, RetryServerError
-from pydantic import AliasChoices, BaseModel, ConfigDict, Field
+from githubkit.exception import (
+    GraphQLFailed,
+    RateLimitExceeded,
+    RequestError,
+    RequestFailed,
+)
+from pydantic import AliasChoices, BaseModel, ConfigDict, Field, ValidationError
 
 from .model import Lists, Repository, Source
 
 if TYPE_CHECKING:
-    from collections.abc import AsyncIterator, Awaitable, Callable
+    from collections.abc import AsyncIterator, Awaitable, Callable, Mapping
 
     from githubkit.auth.token import TokenAuthStrategy
     from githubkit.graphql.paginator import Paginator
 
 API_URL: Final = "https://api.github.com/graphql"
-_RETRY_MAX: Final = 10
-_AUTO_RETRY: Final = RetryChainDecision(
-    RetryRateLimit(), RetryServerError(max_retry=_RETRY_MAX)
-)
+_PAGE_ATTEMPTS: Final = 5
+_RETRY_DELAY: Final = 2.0
 
 _REPO_SLIM: Final = """\
 nameWithOwner
@@ -185,8 +188,39 @@ def _lists(node: _List) -> Lists:
     )
 
 
+def _retryable(
+    exc: RequestFailed | RequestError[Exception] | GraphQLFailed | ValidationError,
+) -> bool:
+    if isinstance(exc, RateLimitExceeded):
+        return False
+    if isinstance(exc, RequestFailed):
+        return exc.response.is_server_error
+    if isinstance(exc, RequestError | GraphQLFailed):
+        return True
+    return any(detail["type"] == "json_invalid" for detail in exc.errors())
+
+
 async def _drain[T](stream: AsyncIterator[T]) -> list[T]:
     return [item async for item in stream]
+
+
+async def _page(pages: Paginator) -> Mapping[str, object] | None:
+    attempts = 0
+    while True:
+        try:
+            return await anext(pages, None)
+        except (
+            RequestFailed,
+            RequestError,
+            GraphQLFailed,
+            ValidationError,
+        ) as exc:
+            if not _retryable(exc):
+                raise
+            attempts += 1
+            if attempts >= _PAGE_ATTEMPTS:
+                raise
+            await asyncio.sleep(_RETRY_DELAY * (2 ** (attempts - 1)))
 
 
 @dataclass(frozen=True, slots=True)
@@ -223,8 +257,8 @@ class Stars(Source):
             auth=self._token,
             base_url=self._api_url,
             timeout=self._timeout,
-            http_cache=True,
-            auto_retry=_AUTO_RETRY,
+            http_cache=False,
+            auto_retry=True,
         )
 
     async def _select[N, M](self, spec: _Spec[N, M], username: str) -> AsyncIterator[M]:
@@ -232,7 +266,7 @@ class Stars(Source):
             spec.query,
             variables={"username": username},
         )
-        async for page in pages:
+        while (page := await _page(pages)) is not None:
             for node in spec.envelope.model_validate(page).user.connection.nodes:
                 yield spec.adapt(node)
 
