@@ -18,13 +18,16 @@ OWNER_RE: Final = re.compile(r"github\.com[:/]([^/]+)/[^/]+?(?:\.git)?/?$")
 
 
 def _remote() -> str:
-    url: bytes | None = (
-        Repo
-        .discover(start=".")
-        .get_config()
-        .get(section=(b"remote", b"origin"), name=b"url")
-    )
-    return url.decode("utf-8") if url is not None else ""
+    try:
+        url: bytes = (
+            Repo
+            .discover(start=".")
+            .get_config()
+            .get(section=(b"remote", b"origin"), name=b"url")
+        )
+    except KeyError:
+        return ""
+    return url.decode("utf-8")
 
 
 def _parse(url: str) -> str | None:

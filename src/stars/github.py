@@ -4,6 +4,7 @@ from functools import cached_property, wraps
 from typing import TYPE_CHECKING, Final, overload, override
 
 from githubkit import GitHub
+from githubkit.retry import RetryChainDecision, RetryRateLimit, RetryServerError
 from pydantic import AliasChoices, BaseModel, ConfigDict, Field
 
 from .model import Lists, Repository, Source
@@ -15,6 +16,10 @@ if TYPE_CHECKING:
     from githubkit.graphql.paginator import Paginator
 
 API_URL: Final = "https://api.github.com/graphql"
+_RETRY_MAX: Final = 10
+_AUTO_RETRY: Final = RetryChainDecision(
+    RetryRateLimit(), RetryServerError(max_retry=_RETRY_MAX)
+)
 
 _REPO_SLIM: Final = """\
 nameWithOwner
@@ -81,7 +86,7 @@ REPOSITORY_QUERY: Final = _query(
     _REPO_NODES,
 )
 
-LISTS_QUERY: Final = _query("lists", "first: 100, after: $cursor", _LIST_NODES)
+LISTS_QUERY: Final = _query("lists", "first: 20, after: $cursor", _LIST_NODES)
 
 
 def sync[T, **P](function: Callable[P, Awaitable[T]]) -> Callable[P, T]:
@@ -219,7 +224,7 @@ class Stars(Source):
             base_url=self._api_url,
             timeout=self._timeout,
             http_cache=True,
-            auto_retry=True,
+            auto_retry=_AUTO_RETRY,
         )
 
     async def _select[N, M](self, spec: _Spec[N, M], username: str) -> AsyncIterator[M]:
