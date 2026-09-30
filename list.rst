@@ -398,7 +398,6 @@ SYS: Android
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
-* `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
@@ -464,6 +463,7 @@ SYS: General
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
+* `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_

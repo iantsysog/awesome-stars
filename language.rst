@@ -681,6 +681,7 @@ TypeScript
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
+* `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `dip/cmdk <https://github.com/dip/cmdk>`_
@@ -737,7 +738,6 @@ YARA
 Zig
 ^^^
 
-* `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_

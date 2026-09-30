@@ -58,7 +58,6 @@ Others
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
-* `PuerNya/meta-magic_mount-zig <https://github.com/PuerNya/meta-magic_mount-zig>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
@@ -102,6 +101,7 @@ Others
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
