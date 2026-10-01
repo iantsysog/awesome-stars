@@ -222,6 +222,11 @@ abbreviation
 
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
 
+aboutlibraries
+^^^^^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
 accessibility
 ^^^^^^^^^^^^^
 
@@ -493,6 +498,7 @@ android
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
@@ -500,7 +506,6 @@ android
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
-* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 android-app
 ^^^^^^^^^^^
@@ -521,6 +526,11 @@ android-calculator
 ^^^^^^^^^^^^^^^^^^
 
 * `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
+
+android-development
+^^^^^^^^^^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 android-emulator
 ^^^^^^^^^^^^^^^^
@@ -547,6 +557,11 @@ android-keyboard
 
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 
+android-library
+^^^^^^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
 android-root
 ^^^^^^^^^^^^
 
@@ -556,6 +571,11 @@ android-tweaks
 ^^^^^^^^^^^^^^
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+
+android-ui
+^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 androidmath
 ^^^^^^^^^^^
@@ -1111,6 +1131,11 @@ bootloader
 
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 
+bot
+^^^
+
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
+
 brave
 ^^^^^
 
@@ -1575,6 +1600,11 @@ cloudkit
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 
+cmp
+^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
 cmyk
 ^^^^
 
@@ -1791,7 +1821,13 @@ compose
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
+
+compose-multiplatform
+^^^^^^^^^^^^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 composition
 ^^^^^^^^^^^
@@ -1933,11 +1969,6 @@ coredata
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
-
-coresimulator
-^^^^^^^^^^^^^
-
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 
 coreutils
 ^^^^^^^^^
@@ -2326,7 +2357,6 @@ developer-tools
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -3005,6 +3035,11 @@ foundation
 
 * `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+
+fragments
+^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 framework
 ^^^^^^^^^
@@ -3853,7 +3888,6 @@ ios-simulator
 ^^^^^^^^^^^^^
 
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 
 ios-swift
 ^^^^^^^^^
@@ -4181,6 +4215,16 @@ kimi-k3
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+kmp
+^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
+kmp-library
+^^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
 kms
 ^^^
 
@@ -4205,6 +4249,7 @@ kotlin
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
@@ -4237,6 +4282,12 @@ kotlin-multiplatform
 ^^^^^^^^^^^^^^^^^^^^
 
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
+kotlin-multiplatform-library
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 kravasign
 ^^^^^^^^^
@@ -4334,6 +4385,11 @@ lexer
 ^^^^^
 
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
+
+libraries
+^^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 library
 ^^^^^^^
@@ -4659,7 +4715,6 @@ macos
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
@@ -5008,12 +5063,28 @@ midi
 
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
 
+mikepenz
+^^^^^^^^
+
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
 minecraft
 ^^^^^^^^^
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
+
+minecraft-api
+^^^^^^^^^^^^^
+
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
+
+minecraft-bot
+^^^^^^^^^^^^^
+
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 
 minecraft-launcher
 ^^^^^^^^^^^^^^^^^^
@@ -5171,6 +5242,7 @@ multiplatform
 ^^^^^^^^^^^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 multiplayer-game
 ^^^^^^^^^^^^^^^^
@@ -5262,6 +5334,11 @@ netlify
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
+network
+^^^^^^^
+
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
+
 networking
 ^^^^^^^^^^
 
@@ -5321,6 +5398,7 @@ node-version-manager
 nodejs
 ^^^^^^
 
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `nubjs/nub <https://github.com/nubjs/nub>`_
@@ -7523,7 +7601,6 @@ swift
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
@@ -8808,6 +8885,7 @@ wasm
 
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 wasmtime
 ^^^^^^^^
@@ -9059,7 +9137,6 @@ xcode
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -9193,16 +9270,6 @@ zero-dependencies
 ^^^^^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-
-zhihu
-^^^^^
-
-* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
-
-zhihu-daily
-^^^^^^^^^^^
-
-* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 zig
 ^^^

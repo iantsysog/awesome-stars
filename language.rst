@@ -161,6 +161,7 @@ JavaScript
 
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
@@ -218,6 +219,7 @@ Kotlin
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
@@ -228,7 +230,6 @@ Kotlin
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
-* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 Lua
 ^^^
@@ -561,7 +562,6 @@ Swift
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_

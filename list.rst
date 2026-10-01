@@ -33,6 +33,7 @@ LANG: Kotlin / Java
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 
@@ -138,7 +139,6 @@ LANG: Swift
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
-* `lynnswap/NeoSimulator <https://github.com/lynnswap/NeoSimulator>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
@@ -174,6 +174,7 @@ LANG: Swift
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
+* `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
@@ -325,6 +326,7 @@ PLAT: Minecraft
 ^^^^^^^^^^^^^^^
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
@@ -445,7 +447,6 @@ SYS: Android
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
-* `zly2006/zhihu-plus-plus <https://github.com/zly2006/zhihu-plus-plus>`_
 
 SYS: General
 ^^^^^^^^^^^^
