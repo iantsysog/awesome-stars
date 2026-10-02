@@ -199,6 +199,7 @@ Kotlin
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
@@ -207,6 +208,7 @@ Kotlin
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
 * `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
+* `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
@@ -221,6 +223,7 @@ Kotlin
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
+* `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
@@ -328,6 +331,7 @@ Python
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
@@ -407,10 +411,16 @@ Rust
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 
+SCSS
+^^^^
+
+* `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
+
 Shell
 ^^^^^
 
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
 * `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_

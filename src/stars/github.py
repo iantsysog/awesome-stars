@@ -54,14 +54,25 @@ def _indent(block: str, width: int = 8) -> str:
     return "\n".join(pad + line if line else line for line in block.splitlines())
 
 
-_LIST_NODES: Final = f"""\
+_LIST_HEADERS: Final = """\
 name
 description
 isPrivate
-items(first: 100) {{
-  nodes {{
-    ... on Repository {{
-{_indent(_REPO_SLIM, 6)}
+id\
+"""
+
+_LIST_ITEMS_QUERY: Final = f"""\
+query($id: ID!, $cursor: String) {{
+  node(id: $id) {{
+    ... on UserList {{
+      items(first: 100, after: $cursor) {{
+        nodes {{
+          ... on Repository {{
+{_indent(_REPO_SLIM, 12)}
+          }}
+        }}
+        {_PAGE}
+      }}
     }}
   }}
 }}\
@@ -89,7 +100,7 @@ REPOSITORY_QUERY: Final = _query(
     _REPO_NODES,
 )
 
-LISTS_QUERY: Final = _query("lists", "first: 20, after: $cursor", _LIST_NODES)
+LISTS_QUERY: Final = _query("lists", "first: 20, after: $cursor", _LIST_HEADERS)
 
 
 def sync[T, **P](function: Callable[P, Awaitable[T]]) -> Callable[P, T]:
@@ -130,11 +141,19 @@ class _Slim(_Wire):
     is_private: bool = Field(validation_alias="isPrivate")
 
 
-class _List(_Wire):
+class _ListHeader(_Wire):
     name: str
     description: str | None
     is_private: bool = Field(validation_alias="isPrivate")
+    node_id: str = Field(validation_alias="id")
+
+
+class _NodeItems(_Wire):
     items: _Connection[_Slim | None]
+
+
+class _NodeEnvelope(_Wire):
+    node: _NodeItems | None
 
 
 class _User[N](_Wire):
@@ -177,14 +196,27 @@ def _slim(node: _Slim) -> Repository:
     )
 
 
-def _lists(node: _List) -> Lists:
-    return Lists(
+def _header(node: _ListHeader) -> _Header:
+    return _Header(
         name=node.name,
         description=node.description or "",
         is_private=node.is_private,
-        repositories=tuple(
-            _slim(repo) for repo in node.items.nodes if repo is not None
-        ),
+        node_id=node.node_id,
+    )
+
+
+def _lists(header: _Header, repositories: tuple[Repository, ...]) -> Lists:
+    return Lists(
+        name=header.name,
+        description=header.description,
+        is_private=header.is_private,
+        repositories=repositories,
+    )
+
+
+def _transient(exc: GraphQLFailed) -> bool:
+    return not any(
+        error.type == "RESOURCE_LIMITS_EXCEEDED" for error in exc.response.errors or ()
     )
 
 
@@ -195,7 +227,9 @@ def _retryable(
         return False
     if isinstance(exc, RequestFailed):
         return exc.response.is_server_error
-    if isinstance(exc, RequestError | GraphQLFailed):
+    if isinstance(exc, GraphQLFailed):
+        return _transient(exc)
+    if isinstance(exc, RequestError):
         return True
     return any(detail["type"] == "json_invalid" for detail in exc.errors())
 
@@ -224,6 +258,14 @@ async def _page(pages: Paginator) -> Mapping[str, object] | None:
 
 
 @dataclass(frozen=True, slots=True)
+class _Header:
+    name: str
+    description: str
+    is_private: bool
+    node_id: str
+
+
+@dataclass(frozen=True, slots=True)
 class _Spec[N, M]:
     query: str
     envelope: type[_Envelope[_User[N]]]
@@ -234,8 +276,8 @@ _REPOSITORY_SPEC: Final[_Spec[_Repository, Repository]] = _Spec(
     REPOSITORY_QUERY, _Envelope[_User[_Repository]], _repository
 )
 
-_LISTS_SPEC: Final[_Spec[_List, Lists]] = _Spec(
-    LISTS_QUERY, _Envelope[_User[_List]], _lists
+_HEADERS_SPEC: Final[_Spec[_ListHeader, _Header]] = _Spec(
+    LISTS_QUERY, _Envelope[_User[_ListHeader]], _header
 )
 
 
@@ -270,6 +312,19 @@ class Stars(Source):
             for node in spec.envelope.model_validate(page).user.connection.nodes:
                 yield spec.adapt(node)
 
+    async def _select_items(self, node_id: str) -> AsyncIterator[Repository]:
+        pages: Paginator = self.client.graphql.paginate(
+            _LIST_ITEMS_QUERY,
+            variables={"id": node_id},
+        )
+        while (page := await _page(pages)) is not None:
+            node = _NodeEnvelope.model_validate(page).node
+            if node is None:
+                raise RuntimeError
+            for repo in node.items.nodes:
+                if repo is not None:
+                    yield _slim(repo)
+
     @overload
     def get(self, entity: type[Repository], username: str) -> list[Repository]: ...
 
@@ -287,6 +342,9 @@ class Stars(Source):
             )
             return repositories
         if entity is Lists:
-            lists: list[Lists] = await _drain(self._select(_LISTS_SPEC, username))
-            return lists
+            headers: list[_Header] = await _drain(self._select(_HEADERS_SPEC, username))
+            return [
+                _lists(header, tuple(await _drain(self._select_items(header.node_id))))
+                for header in headers
+            ]
         raise RuntimeError

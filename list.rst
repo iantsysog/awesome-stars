@@ -28,6 +28,7 @@ LANG: Kotlin / Java
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
+* `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
@@ -86,6 +87,7 @@ LANG: Swift
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `Alex-Ozun/swift-effect <https://github.com/Alex-Ozun/swift-effect>`_
+* `AvdLee/appstoreconnect-swift-sdk <https://github.com/AvdLee/appstoreconnect-swift-sdk>`_
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
@@ -171,9 +173,12 @@ LANG: Swift
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 * `sindresorhus/Percentage <https://github.com/sindresorhus/Percentage>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
+* `square/workflow-swift <https://github.com/square/workflow-swift>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
+* `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
+* `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
@@ -342,6 +347,7 @@ PLAT: Typography
 ^^^^^^^^^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
@@ -349,6 +355,7 @@ PLAT: Typography
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
 PLAT: Zotero
 ^^^^^^^^^^^^
@@ -400,8 +407,10 @@ SYS: Android
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
+* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
@@ -438,6 +447,7 @@ SYS: Android
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
+* `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
@@ -498,6 +508,7 @@ SYS: General
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
+* `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_

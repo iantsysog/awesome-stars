@@ -6,6 +6,11 @@ Topic
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
+2b2t-utility-mod
+^^^^^^^^^^^^^^^^
+
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+
 Others
 ^^^^^^
 
@@ -52,6 +57,7 @@ Others
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
@@ -182,6 +188,7 @@ Others
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
+* `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
@@ -1680,6 +1687,12 @@ coding-agent
 
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 
+coding-font
+^^^^^^^^^^^
+
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
 cohort-analysis
 ^^^^^^^^^^^^^^^
 
@@ -1822,7 +1835,24 @@ compose
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
+
+compose-multiplatform
+^^^^^^^^^^^^^^^^^^^^^
+
+* `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
+* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
+compose-multiplatform-library
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
+
+compose-ui
+^^^^^^^^^^
+
+* `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 
 compose-multiplatform
 ^^^^^^^^^^^^^^^^^^^^^
@@ -3005,6 +3035,12 @@ flutter-latex
 ^^^^^^^^^^^^^
 
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
+
+font
+^^^^
+
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
 form-validation
 ^^^^^^^^^^^^^^^
@@ -4401,6 +4437,12 @@ libs-versions-toml
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 
+ligatures
+^^^^^^^^^
+
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
 lightgbm
 ^^^^^^^^
 
@@ -5104,6 +5146,7 @@ minifier
 miuix
 ^^^^^
 
+* `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 
 mixture-of-experts
@@ -5186,6 +5229,21 @@ monitoring-tool
 ^^^^^^^^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+
+monospace
+^^^^^^^^^
+
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
+monospace-font
+^^^^^^^^^^^^^^
+
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
+monospaced-font
+^^^^^^^^^^^^^^^
+
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
 
 morphing
 ^^^^^^^^
@@ -5555,6 +5613,16 @@ observation
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 
+obsidian
+^^^^^^^^
+
+* `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
+
+obsidian-theme
+^^^^^^^^^^^^^^
+
+* `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
+
 ocaml
 ^^^^^
 
@@ -5719,6 +5787,7 @@ opentype
 
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
 openwrt
 ^^^^^^^
@@ -6204,6 +6273,12 @@ profiling-library
 
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 
+programming-font
+^^^^^^^^^^^^^^^^
+
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
 programming-language
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -6211,6 +6286,12 @@ programming-language
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
+
+programming-ligatures
+^^^^^^^^^^^^^^^^^^^^^
+
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
 prometheus
 ^^^^^^^^^^
@@ -8405,6 +8486,11 @@ typed-decisions
 
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
+typeface
+^^^^^^^^
+
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
 types
 ^^^^^
 
@@ -8445,6 +8531,11 @@ typing
 ^^^^^^
 
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+
+typography
+^^^^^^^^^^
+
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
 udf
 ^^^
@@ -8690,6 +8781,11 @@ vapor
 * `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
 * `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
 * `vapor/vapor <https://github.com/vapor/vapor>`_
+
+variable-font
+^^^^^^^^^^^^^
+
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
 vaultwarden
 ^^^^^^^^^^^
