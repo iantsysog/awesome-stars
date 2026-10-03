@@ -15,6 +15,7 @@ LANG: Go
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 
@@ -179,7 +180,6 @@ LANG: Swift
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
-* `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
@@ -340,6 +340,7 @@ PLAT: Shell
 
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `starship/starship <https://github.com/starship/starship>`_
 
@@ -411,7 +412,6 @@ SYS: Android
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
-* `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
@@ -464,12 +464,14 @@ SYS: General
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `EpicGames/lore <https://github.com/EpicGames/lore>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
@@ -636,7 +638,7 @@ SYS: macOS
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
-* `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
+* `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_

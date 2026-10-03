@@ -6,11 +6,6 @@ Topic
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
-2b2t-utility-mod
-^^^^^^^^^^^^^^^^
-
-* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
-
 Others
 ^^^^^^
 
@@ -155,7 +150,7 @@ Others
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
-* `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
+* `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
@@ -985,6 +980,7 @@ bash
 ^^^^
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
@@ -1017,6 +1013,7 @@ beautify
 ^^^^^^^^
 
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 
 benchmark
 ^^^^^^^^^
@@ -1835,7 +1832,6 @@ compose
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
-* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 
 compose-multiplatform
@@ -1853,11 +1849,6 @@ compose-ui
 ^^^^^^^^^^
 
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
-
-compose-multiplatform
-^^^^^^^^^^^^^^^^^^^^^
-
-* `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 composition
 ^^^^^^^^^^^
@@ -1956,6 +1947,7 @@ containers
 ^^^^^^^^^^
 
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 
 content-cache
@@ -2116,6 +2108,7 @@ cursor
 cyclonedx
 ^^^^^^^^^
 
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
 daemon
@@ -2534,6 +2527,7 @@ docker
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
@@ -3052,6 +3046,11 @@ formal-logic
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 
+format
+^^^^^^
+
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
+
 formatter
 ^^^^^^^^^
 
@@ -3059,6 +3058,7 @@ formatter
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 
 foss
@@ -3285,17 +3285,30 @@ go
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
+
+gofmt
+^^^^^
+
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
+
+goimports
+^^^^^^^^^
+
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 
 golang
 ^^^^^^
@@ -3304,6 +3317,7 @@ golang
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `devld/go-drive <https://github.com/devld/go-drive>`_
@@ -3423,6 +3437,7 @@ hacktoberfest
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
@@ -3736,6 +3751,11 @@ idevice
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 
+idiomatic
+^^^^^^^^^
+
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
+
 idrix
 ^^^^^
 
@@ -3849,6 +3869,11 @@ interpolation
 ^^^^^^^^^^^^^
 
 * `p-x9/swift-fishhook <https://github.com/p-x9/swift-fishhook>`_
+
+interpreter
+^^^^^^^^^^^
+
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 
 introspection
 ^^^^^^^^^^^^^
@@ -5154,6 +5179,11 @@ mixture-of-experts
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+mksh
+^^^^
+
+* `mvdan/sh <https://github.com/mvdan/sh>`_
+
 mlx
 ^^^
 
@@ -5629,6 +5659,11 @@ ocaml
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
 
+oci
+^^^
+
+* `anchore/syft <https://github.com/anchore/syft>`_
+
 ocsp
 ^^^^
 
@@ -5704,6 +5739,7 @@ open-source
 ^^^^^^^^^^^
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `EpicGames/lore <https://github.com/EpicGames/lore>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
@@ -5912,6 +5948,7 @@ parser
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
@@ -6157,6 +6194,7 @@ posix
 ^^^^^
 
 * `apple/swift-system <https://github.com/apple/swift-system>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 
 post-quantum
 ^^^^^^^^^^^^
@@ -6980,6 +7018,7 @@ satysfi
 sbom
 ^^^^
 
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
 scalability
@@ -7168,6 +7207,7 @@ shell
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
@@ -7176,6 +7216,11 @@ shell-prompt
 ^^^^^^^^^^^^
 
 * `starship/starship <https://github.com/starship/starship>`_
+
+shfmt
+^^^^^
+
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 
 shizuku
 ^^^^^^^
@@ -7380,6 +7425,7 @@ spatial-audio
 spdx
 ^^^^
 
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
 spm
@@ -7483,6 +7529,7 @@ static
 static-analysis
 ^^^^^^^^^^^^^^^
 
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
@@ -7559,6 +7606,11 @@ sttextview
 ^^^^^^^^^^
 
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+
+style
+^^^^^
+
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 
 style-guide
 ^^^^^^^^^^^
@@ -8272,6 +8324,7 @@ tokio
 tool
 ^^^^
 
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 
 tools
@@ -9423,6 +9476,7 @@ zotero-plugin
 zsh
 ^^^
 
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 

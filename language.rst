@@ -99,6 +99,7 @@ Go
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
 * `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
@@ -114,6 +115,8 @@ Go
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
+* `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -356,6 +359,7 @@ Rust
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+* `EpicGames/lore <https://github.com/EpicGames/lore>`_
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
@@ -578,7 +582,7 @@ Swift
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
-* `microsoft/ZoomitForMac <https://github.com/microsoft/ZoomitForMac>`_
+* `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
 * `naan/FocusOnAppear <https://github.com/naan/FocusOnAppear>`_
