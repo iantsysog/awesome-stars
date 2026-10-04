@@ -145,6 +145,7 @@ Java
 
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
@@ -206,6 +207,7 @@ Kotlin
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
+* `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
@@ -366,6 +368,7 @@ Rust
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
@@ -756,5 +759,5 @@ Zig
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_

@@ -318,8 +318,8 @@ LANG: Zig
 
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
+* `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
 
 PLAT: Game
 ^^^^^^^^^^
@@ -417,6 +417,8 @@ SYS: Android
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
+* `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
@@ -465,6 +467,7 @@ SYS: General
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `EpicGames/lore <https://github.com/EpicGames/lore>`_
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_

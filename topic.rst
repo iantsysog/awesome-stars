@@ -69,6 +69,7 @@ Others
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
+* `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
@@ -153,6 +154,7 @@ Others
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
+* `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
@@ -485,6 +487,7 @@ android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
@@ -567,6 +570,7 @@ android-library
 android-root
 ^^^^^^^^^^^^
 
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 android-tweaks
@@ -633,9 +637,15 @@ aot
 apatch
 ^^^^^^
 
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
+
+apatch-module
+^^^^^^^^^^^^^
+
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 
 api-26
 ^^^^^^
@@ -1639,6 +1649,11 @@ codable
 ^^^^^^^
 
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
+
+code-editor
+^^^^^^^^^^^
+
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 
 code-generation
 ^^^^^^^^^^^^^^^
@@ -3738,6 +3753,7 @@ icons
 ide
 ^^^
 
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 
 identifiable
@@ -3854,6 +3870,21 @@ installer
 ^^^^^^^^^
 
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
+
+intellij
+^^^^^^^^
+
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+
+intellij-community
+^^^^^^^^^^^^^^^^^^
+
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+
+intellij-platform
+^^^^^^^^^^^^^^^^^
+
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 
 interaction
 ^^^^^^^^^^^
@@ -4231,6 +4262,7 @@ kernelsu
 ^^^^^^^^
 
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
@@ -4238,6 +4270,7 @@ kernelsu
 kernelsu-module
 ^^^^^^^^^^^^^^^
 
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 kernelsu-next
@@ -4859,6 +4892,7 @@ magisk
 ^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
@@ -4877,6 +4911,7 @@ magisk-module
 ^^^^^^^^^^^^^
 
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 
@@ -6826,6 +6861,7 @@ root
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
+* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
@@ -8448,16 +8484,6 @@ turso
 
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 
-tutorial
-^^^^^^^^
-
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
-
-tutorials
-^^^^^^^^^
-
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
-
 tvos
 ^^^^
 
@@ -9427,22 +9453,6 @@ zig
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
-
-zig-lang
-^^^^^^^^
-
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
-
-zig-package
-^^^^^^^^^^^
-
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
-
-ziglang
-^^^^^^^
-
-* `zigcc/zig-course <https://github.com/zigcc/zig-course>`_
 
 zlib
 ^^^^
