@@ -1592,7 +1592,6 @@ cloud-sync
 cloudflare
 ^^^^^^^^^^
 
-* `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
@@ -4261,7 +4260,7 @@ kernel-module
 kernelsu
 ^^^^^^^^
 
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
@@ -6737,7 +6736,7 @@ rest-api
 resukisu
 ^^^^^^^^
 
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 
 result-builder
 ^^^^^^^^^^^^^^
@@ -6858,9 +6857,9 @@ room-database
 root
 ^^^^
 
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
@@ -6875,7 +6874,7 @@ root-detection
 root-solution
 ^^^^^^^^^^^^^
 
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 
 router
 ^^^^^^
@@ -7001,7 +7000,6 @@ rxswift
 s3
 ^^
 
-* `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
 * `devld/go-drive <https://github.com/devld/go-drive>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 
@@ -7677,7 +7675,7 @@ sui
 sukisu
 ^^^^^^
 
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 
 surround-sound
 ^^^^^^^^^^^^^^

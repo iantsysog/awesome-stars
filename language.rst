@@ -6,11 +6,6 @@ Assembly
 
 * `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 
-Astro
-^^^^^
-
-* `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
-
 Awk
 ^^^
 
@@ -187,6 +182,7 @@ Kotlin
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
@@ -204,7 +200,6 @@ Kotlin
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_

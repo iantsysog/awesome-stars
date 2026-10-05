@@ -383,6 +383,7 @@ SYS: Android
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
@@ -409,7 +410,6 @@ SYS: Android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
-* `ReSukiSU/ReSukiSU <https://github.com/ReSukiSU/ReSukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
@@ -538,7 +538,6 @@ SYS: POSIX
 SYS: VPS
 ^^^^^^^^
 
-* `CAB233/s3-browser <https://github.com/CAB233/s3-browser>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
