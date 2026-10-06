@@ -138,6 +138,7 @@ Haskell
 Java
 ^^^^
 
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
@@ -146,12 +147,12 @@ Java
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
-* `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 
@@ -201,8 +202,10 @@ Kotlin
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
+* `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
+* `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
@@ -216,10 +219,12 @@ Kotlin
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
+* `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
@@ -287,6 +292,7 @@ Others
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 
 Perl

@@ -62,6 +62,7 @@ Others
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
+* `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
@@ -137,6 +138,7 @@ Others
 * `joshpuckett/bloom <https://github.com/joshpuckett/bloom>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
+* `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
@@ -325,6 +327,7 @@ ai
 
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
 ai-agent
@@ -469,6 +472,7 @@ android
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
@@ -488,6 +492,7 @@ android
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
@@ -496,17 +501,18 @@ android
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
-* `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
@@ -942,6 +948,7 @@ awesome
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 awesome-list
 ^^^^^^^^^^^^
@@ -1742,6 +1749,7 @@ color-difference
 coloros
 ^^^^^^^
 
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 
 combine
@@ -1844,15 +1852,18 @@ compose
 ^^^^^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+* `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 compose-multiplatform
 ^^^^^^^^^^^^^^^^^^^^^
 
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 compose-multiplatform-library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2037,10 +2048,20 @@ cranelift
 
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 
+crash-reporter
+^^^^^^^^^^^^^^
+
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
+
 crash-reporting
 ^^^^^^^^^^^^^^^
 
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
+
+crash-tracking
+^^^^^^^^^^^^^^
+
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 
 creative-coding
 ^^^^^^^^^^^^^^^
@@ -2877,6 +2898,11 @@ fcitx5
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 
+fcm
+^^^
+
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+
 fdroid
 ^^^^^^
 
@@ -2981,6 +3007,11 @@ finance
 ^^^^^^^
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
+
+firebase-cloud-messaging
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 
 firewall
 ^^^^^^^^
@@ -3209,6 +3240,21 @@ gemini-cli
 ^^^^^^^^^^
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+
+gen-ui
+^^^^^^
+
+* `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+
+generative-ai
+^^^^^^^^^^^^^
+
+* `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
+
+generative-ui
+^^^^^^^^^^^^^
+
+* `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 
 generic
 ^^^^^^^
@@ -3717,6 +3763,11 @@ hybrid
 
 * `withastro/astro <https://github.com/withastro/astro>`_
 
+hyperos
+^^^^^^^
+
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
+
 hysteria
 ^^^^^^^^
 
@@ -3956,6 +4007,7 @@ ios
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
@@ -4116,6 +4168,7 @@ java
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
@@ -4144,6 +4197,11 @@ jest
 ^^^^
 
 * `l2beat/earl <https://github.com/l2beat/earl>`_
+
+jetbrains
+^^^^^^^^^
+
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 jetpack-compose
 ^^^^^^^^^^^^^^^
@@ -4308,10 +4366,16 @@ kimi-k3
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+kmm
+^^^
+
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
+
 kmp
 ^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 kmp-library
 ^^^^^^^^^^^
@@ -4345,6 +4409,7 @@ kotlin
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
@@ -4376,6 +4441,7 @@ kotlin-multiplatform
 
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 kotlin-multiplatform-library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -4483,6 +4549,7 @@ libraries
 ^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 library
 ^^^^^^^
@@ -4493,6 +4560,11 @@ libs-versions-toml
 ^^^^^^^^^^^^^^^^^^
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+
+libxposed
+^^^^^^^^^
+
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 
 ligatures
 ^^^^^^^^^
@@ -4660,10 +4732,13 @@ lsp
 lsposed
 ^^^^^^^
 
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 
 lsposed-module
 ^^^^^^^^^^^^^^
@@ -4912,7 +4987,6 @@ magisk-module
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 
 mail
 ^^^^
@@ -5201,6 +5275,16 @@ minifier
 ^^^^^^^^
 
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
+
+mipush
+^^^^^^
+
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
+
+miui
+^^^^
+
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 
 miuix
 ^^^^^
@@ -5756,6 +5840,7 @@ onedrive
 oneplus
 ^^^^^^^
 
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 
 online-store
@@ -6452,6 +6537,16 @@ purl
 
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 
+push
+^^^^
+
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
+
+push-notifications
+^^^^^^^^^^^^^^^^^^
+
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+
 pydantic
 ^^^^^^^^
 
@@ -6833,11 +6928,6 @@ rime-weasel
 ^^^^^^^^^^^
 
 * `iDvel/rime-ice <https://github.com/iDvel/rime-ice>`_
-
-riru-module
-^^^^^^^^^^^
-
-* `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 
 rocket
 ^^^^^^
@@ -8365,6 +8455,7 @@ tools
 ^^^^^
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 tornado
 ^^^^^^^
@@ -9352,15 +9443,17 @@ xposed
 
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 
 xposed-module
 ^^^^^^^^^^^^^
 
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 
 xposedmodule
 ^^^^^^^^^^^^

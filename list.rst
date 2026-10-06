@@ -38,6 +38,7 @@ LANG: Kotlin / Java
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 LANG: Lua
 ^^^^^^^^^
@@ -383,6 +384,7 @@ SYS: Android
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
+* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
@@ -413,14 +415,17 @@ SYS: Android
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
+* `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
+* `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -437,14 +442,15 @@ SYS: Android
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
-* `eritpchy/FingerprintPay <https://github.com/eritpchy/FingerprintPay>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
+* `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
