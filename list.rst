@@ -30,6 +30,7 @@ LANG: Kotlin / Java
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
@@ -39,6 +40,7 @@ LANG: Kotlin / Java
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 LANG: Lua
 ^^^^^^^^^
@@ -435,7 +437,6 @@ SYS: Android
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
@@ -443,6 +444,7 @@ SYS: Android
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
+* `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
@@ -519,6 +521,7 @@ SYS: General
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 * `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
@@ -590,6 +593,7 @@ SYS: iOS
 ^^^^^^^^
 
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
@@ -653,6 +657,7 @@ SYS: macOS
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_

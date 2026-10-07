@@ -123,6 +123,7 @@ Others
 * `facebook/sapling <https://github.com/facebook/sapling>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
+* `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
@@ -310,6 +311,21 @@ adguard
 
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 
+adobe
+^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
+adobe-photoshop-2026
+^^^^^^^^^^^^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
+adobe-photoshop-2026-ai
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
 agent
 ^^^^^
 
@@ -486,6 +502,7 @@ android
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
@@ -497,7 +514,6 @@ android
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
@@ -516,27 +532,21 @@ android
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 android-app
 ^^^^^^^^^^^
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 
 android-application
 ^^^^^^^^^^^^^^^^^^^
 
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
-
-android-calculator
-^^^^^^^^^^^^^^^^^^
-
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 
 android-development
 ^^^^^^^^^^^^^^^^^^^
@@ -572,6 +582,7 @@ android-library
 ^^^^^^^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 android-root
 ^^^^^^^^^^^^
@@ -588,6 +599,7 @@ android-ui
 ^^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 androidmath
 ^^^^^^^^^^^
@@ -671,7 +683,6 @@ api-testing
 apk
 ^^^
 
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 
 apks
@@ -724,6 +735,11 @@ apple
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
+apple-intelligence
+^^^^^^^^^^^^^^^^^^
+
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
+
 apple-music
 ^^^^^^^^^^^
 
@@ -772,6 +788,11 @@ arkts
 ^^^^^
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+
+art
+^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 
 arthook
 ^^^^^^^
@@ -1310,11 +1331,6 @@ calayer
 
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
 
-calculator
-^^^^^^^^^^
-
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
-
 caldav
 ^^^^^^
 
@@ -1558,6 +1574,7 @@ cli
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
@@ -1857,6 +1874,12 @@ compose
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
+
+compose-library
+^^^^^^^^^^^^^^^
+
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 compose-multiplatform
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1864,11 +1887,13 @@ compose-multiplatform
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 compose-multiplatform-library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 compose-ui
 ^^^^^^^^^^
@@ -2109,6 +2134,7 @@ css
 ^^^
 
 * `biomejs/biome <https://github.com/biomejs/biome>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
 css-animations
 ^^^^^^^^^^^^^^
@@ -2250,6 +2276,7 @@ debloat
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 
 debugging
 ^^^^^^^^^
@@ -2785,6 +2812,11 @@ emulation
 
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
+emulator
+^^^^^^^^
+
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
+
 encoder
 ^^^^^^^
 
@@ -2908,12 +2940,6 @@ fdroid
 
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
-
-fdroid-repos
-^^^^^^^^^^^^
-
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 
 feather-icons
 ^^^^^^^^^^^^^
@@ -3102,6 +3128,7 @@ formatter
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
@@ -3427,6 +3454,7 @@ gpui
 gradle
 ^^^^^^
 
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 
@@ -3471,6 +3499,11 @@ grimac
 ^^^^^^
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+
+groovy
+^^^^^^
+
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
 gui
 ^^^
@@ -3832,10 +3865,30 @@ image-compression
 
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 
+image-editing
+^^^^^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
+image-editing-software
+^^^^^^^^^^^^^^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
+image-editor
+^^^^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
 image-optimization
 ^^^^^^^^^^^^^^^^^^
 
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
+
+images
+^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 
 imap
 ^^^^
@@ -3981,6 +4034,7 @@ ios
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
@@ -4021,6 +4075,11 @@ ios-camera
 ^^^^^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
+
+ios-development
+^^^^^^^^^^^^^^^
+
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 
 ios-sdk
 ^^^^^^^
@@ -4171,6 +4230,7 @@ java
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 
 javascript
@@ -4178,6 +4238,7 @@ javascript
 
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
@@ -4208,6 +4269,12 @@ jetpack-compose
 
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
+
+jetpack-compose-library
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 jit
 ^^^
@@ -4402,7 +4469,7 @@ kotlin
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
@@ -4411,6 +4478,7 @@ kotlin
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 kotlin-android
@@ -4419,6 +4487,7 @@ kotlin-android
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 kotlin-coroutines
@@ -4894,6 +4963,7 @@ macos
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
@@ -4914,6 +4984,11 @@ macos-26
 ^^^^^^^^
 
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
+
+macos-27
+^^^^^^^^
+
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 
 macos-app
 ^^^^^^^^^
@@ -5126,6 +5201,7 @@ matrix-server
 maven
 ^^^^^
 
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 
 md3
@@ -6228,6 +6304,16 @@ persistent-history
 
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 
+photo-editing
+^^^^^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
+photoshop
+^^^^^^^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+
 pikevm
 ^^^^^^
 
@@ -6268,6 +6354,11 @@ playwright
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+
+plugin-gradle
+^^^^^^^^^^^^^
+
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
 png
 ^^^
@@ -6353,10 +6444,20 @@ predicate
 
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 
+preferences
+^^^^^^^^^^^
+
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
+
 presentation
 ^^^^^^^^^^^^
 
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+
+prettier
+^^^^^^^^
+
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
 pretty-printer
 ^^^^^^^^^^^^^^
@@ -6382,6 +6483,7 @@ privacy
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 
 privacy-protection
 ^^^^^^^^^^^^^^^^^^
@@ -6515,6 +6617,11 @@ proxy
 ^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+
+psd
+^^^
+
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 
 ptp
 ^^^
@@ -7059,6 +7166,7 @@ rust
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
 rust-crate
@@ -7134,6 +7242,11 @@ sasl
 
 * `ergochat/ergo <https://github.com/ergochat/ergo>`_
 
+sass
+^^^^
+
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
+
 satysfi
 ^^^^^^^
 
@@ -7144,6 +7257,11 @@ sbom
 
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+
+scala
+^^^^^
+
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
 scalability
 ^^^^^^^^^^^
@@ -7308,6 +7426,11 @@ service-discovery
 
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 
+settings
+^^^^^^^^
+
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
+
 shadcn
 ^^^^^^
 
@@ -7422,6 +7545,11 @@ sing-box-config
 ^^^^^^^^^^^^^^^
 
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
+
+siri
+^^^^
+
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 
 sjmc
 ^^^^
@@ -7562,6 +7690,7 @@ sql
 
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 * `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
@@ -7866,6 +7995,7 @@ swift
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
@@ -8671,6 +8801,7 @@ typescript
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_

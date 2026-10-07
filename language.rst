@@ -24,6 +24,7 @@ C
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -153,6 +154,7 @@ Java
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
+* `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 
@@ -210,12 +212,12 @@ Kotlin
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
-* `clementwzk/OpenCalc <https://github.com/clementwzk/OpenCalc>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
+* `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
@@ -237,6 +239,7 @@ Kotlin
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
+* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 Lua
@@ -414,6 +417,7 @@ Rust
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
@@ -596,6 +600,7 @@ Swift
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
