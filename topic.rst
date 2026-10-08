@@ -9,7 +9,7 @@ Topic
 Others
 ^^^^^^
 
-* `1amageek/MusicPlaygournd <https://github.com/1amageek/MusicPlaygournd>`_
+* `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
 * `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
@@ -30,6 +30,7 @@ Others
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
+* `InnoSquadCorp/InnoDI <https://github.com/InnoSquadCorp/InnoDI>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
@@ -189,6 +190,7 @@ Others
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
+* `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
@@ -525,6 +527,7 @@ android
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
@@ -532,7 +535,6 @@ android
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 android-app
@@ -582,7 +584,6 @@ android-library
 ^^^^^^^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 android-root
 ^^^^^^^^^^^^
@@ -599,7 +600,6 @@ android-ui
 ^^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 androidmath
 ^^^^^^^^^^^
@@ -969,6 +969,7 @@ awesome
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 awesome-list
@@ -977,6 +978,7 @@ awesome-list
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 
 awesome-resources
 ^^^^^^^^^^^^^^^^^
@@ -1874,12 +1876,6 @@ compose
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
-
-compose-library
-^^^^^^^^^^^^^^^
-
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 compose-multiplatform
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1887,13 +1883,11 @@ compose-multiplatform
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 compose-multiplatform-library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 compose-ui
 ^^^^^^^^^^
@@ -2281,7 +2275,6 @@ debloat
 debugging
 ^^^^^^^^^
 
-* `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `pointfreeco/swift-custom-dump <https://github.com/pointfreeco/swift-custom-dump>`_
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
 
@@ -4269,12 +4262,6 @@ jetpack-compose
 
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
-
-jetpack-compose-library
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 jit
 ^^^
@@ -4478,7 +4465,6 @@ kotlin
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 kotlin-android
@@ -4487,7 +4473,6 @@ kotlin-android
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 kotlin-coroutines
@@ -4521,11 +4506,6 @@ kravasign
 ^^^^^^^^^
 
 * `claration/feather <https://github.com/claration/feather>`_
-
-krishnassh
-^^^^^^^^^^
-
-* `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 
 kubernetes
 ^^^^^^^^^^
@@ -4710,6 +4690,7 @@ list
 ^^^^
 
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 
 literals
 ^^^^^^^^
@@ -5144,16 +5125,23 @@ material-design-3
 ^^^^^^^^^^^^^^^^^
 
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 
 material-you
 ^^^^^^^^^^^^
 
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 
 material3
 ^^^^^^^^^
 
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
+
+materialyou
+^^^^^^^^^^^
+
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 
 math
 ^^^^
@@ -5207,7 +5195,7 @@ maven
 md3
 ^^^
 
-* `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 
 media3
@@ -6444,11 +6432,6 @@ predicate
 
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 
-preferences
-^^^^^^^^^^^
-
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
-
 presentation
 ^^^^^^^^^^^^
 
@@ -7294,6 +7277,11 @@ scholar
 
 * `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
 
+scrcpy
+^^^^^^
+
+* `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+
 screenrecording
 ^^^^^^^^^^^^^^^
 
@@ -7425,11 +7413,6 @@ service-discovery
 ^^^^^^^^^^^^^^^^^
 
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
-
-settings
-^^^^^^^^
-
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 shadcn
 ^^^^^^

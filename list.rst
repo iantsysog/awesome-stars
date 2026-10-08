@@ -37,10 +37,10 @@ LANG: Kotlin / Java
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 
 LANG: Lua
 ^^^^^^^^^
@@ -98,6 +98,7 @@ LANG: Swift
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
+* `InnoSquadCorp/InnoDI <https://github.com/InnoSquadCorp/InnoDI>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
@@ -604,11 +605,12 @@ SYS: iOS
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
+* `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 
 SYS: macOS
 ^^^^^^^^^^
 
-* `1amageek/MusicPlaygournd <https://github.com/1amageek/MusicPlaygournd>`_
+* `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_

@@ -231,6 +231,7 @@ Kotlin
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
+* `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
@@ -239,7 +240,6 @@ Kotlin
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
-* `zhanghai/ComposePreference <https://github.com/zhanghai/ComposePreference>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 Lua
@@ -293,6 +293,7 @@ Others
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
+* `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
@@ -449,7 +450,7 @@ Svelte
 Swift
 ^^^^^
 
-* `1amageek/MusicPlaygournd <https://github.com/1amageek/MusicPlaygournd>`_
+* `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
 * `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
@@ -464,6 +465,7 @@ Swift
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `InnoSquadCorp/InnoDI <https://github.com/InnoSquadCorp/InnoDI>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
