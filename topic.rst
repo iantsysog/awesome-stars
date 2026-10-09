@@ -60,6 +60,7 @@ Others
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
+* `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
@@ -111,6 +112,7 @@ Others
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
+* `cjbind/cjbind <https://github.com/cjbind/cjbind>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
@@ -153,6 +155,7 @@ Others
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
+* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
@@ -167,6 +170,8 @@ Others
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_

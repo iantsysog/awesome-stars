@@ -56,6 +56,7 @@ C++
 
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
+* `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
@@ -66,6 +67,11 @@ C++
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
+
+Cangjie
+^^^^^^^
+
+* `cjbind/cjbind <https://github.com/cjbind/cjbind>`_
 
 Dart
 ^^^^
@@ -110,6 +116,7 @@ Go
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
@@ -337,6 +344,7 @@ Python
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
@@ -407,6 +415,7 @@ Rust
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
 * `mozilla/uniffi-rs <https://github.com/mozilla/uniffi-rs>`_
 * `nubjs/nub <https://github.com/nubjs/nub>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_

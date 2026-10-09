@@ -1,6 +1,11 @@
 List
 ====
 
+LANG:  Cangjie
+^^^^^^^^^^^^^^
+
+* `cjbind/cjbind <https://github.com/cjbind/cjbind>`_
+
 LANG: C/C++
 ^^^^^^^^^^^
 
@@ -415,6 +420,7 @@ SYS: Android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+* `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
@@ -459,6 +465,7 @@ SYS: Android
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
+* `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
@@ -589,6 +596,7 @@ SYS: Windows
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 
 SYS: iOS
 ^^^^^^^^
@@ -605,7 +613,6 @@ SYS: iOS
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
-* `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 
 SYS: macOS
 ^^^^^^^^^^
@@ -658,6 +665,7 @@ SYS: macOS
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
@@ -705,6 +713,7 @@ UTILS: Agent
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
+* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
