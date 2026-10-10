@@ -518,6 +518,7 @@ SYS: General
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
+* `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
@@ -706,6 +707,7 @@ UTILS: Agent
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_

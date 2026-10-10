@@ -121,6 +121,7 @@ Others
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
+* `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
@@ -161,6 +162,7 @@ Others
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
+* `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
 * `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_

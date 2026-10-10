@@ -1,11 +1,6 @@
 Language
 ========
 
-Assembly
-^^^^^^^^
-
-* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
-
 Awk
 ^^^
 
@@ -59,6 +54,7 @@ C++
 * `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
 * `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
+* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
@@ -265,6 +261,11 @@ Markdown
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `swiftlang/swift-evolution <https://github.com/swiftlang/swift-evolution>`_
+
+Nushell
+^^^^^^^
+
+* `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
 
 OCaml
 ^^^^^
@@ -721,6 +722,7 @@ TypeScript
 * `dip/cmdk <https://github.com/dip/cmdk>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
+* `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
