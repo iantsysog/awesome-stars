@@ -420,8 +420,6 @@ SYS: Android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
-* `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
-* `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
@@ -680,6 +678,7 @@ SYS: macOS
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
+* `unixzii/SimRun <https://github.com/unixzii/SimRun>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_
@@ -710,6 +709,7 @@ UTILS: Agent
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_

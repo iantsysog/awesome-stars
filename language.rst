@@ -19,7 +19,6 @@ C
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -51,8 +50,6 @@ C++
 
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
-* `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
-* `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
@@ -148,6 +145,7 @@ Java
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
+* `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
@@ -283,6 +281,7 @@ Objective-C
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+* `unixzii/SimRun <https://github.com/unixzii/SimRun>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
 
 Objective-C++
@@ -594,6 +593,7 @@ Swift
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_

@@ -60,8 +60,6 @@ Others
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
-* `Rouyashiki/YukiSU <https://github.com/Rouyashiki/YukiSU>`_
-* `Rouyashiki/YukiZygisk <https://github.com/Rouyashiki/YukiZygisk>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
@@ -217,6 +215,7 @@ Others
 * `toss/es-toolkit <https://github.com/toss/es-toolkit>`_
 * `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
+* `unixzii/SimRun <https://github.com/unixzii/SimRun>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
 * `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
@@ -246,6 +245,7 @@ aboutlibraries
 accessibility
 ^^^^^^^^^^^^^
 
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 
@@ -365,6 +365,7 @@ ai-agents
 
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
 ai-arena
@@ -1545,6 +1546,7 @@ claude-code
 ^^^^^^^^^^^
 
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 clean
@@ -1582,6 +1584,7 @@ cli
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
@@ -1724,12 +1727,18 @@ codex
 ^^^^^
 
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 coding-agent
 ^^^^^^^^^^^^
 
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+
+coding-agents
+^^^^^^^^^^^^^
+
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 
 coding-font
 ^^^^^^^^^^^
@@ -2406,6 +2415,11 @@ design-engineering
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 
+design-review
+^^^^^^^^^^^^^
+
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+
 design-system
 ^^^^^^^^^^^^^
 
@@ -2441,6 +2455,7 @@ developer-tools
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
@@ -2971,6 +2986,11 @@ ffmpeg-android
 
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 
+fieldalignment
+^^^^^^^^^^^^^^
+
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+
 figma
 ^^^^^
 
@@ -3376,6 +3396,7 @@ go
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
@@ -3386,6 +3407,11 @@ go
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
+
+go-analysis
+^^^^^^^^^^^
+
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 
 gofmt
 ^^^^^
@@ -4049,6 +4075,7 @@ ios
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
@@ -4089,6 +4116,7 @@ ios-sdk
 ios-simulator
 ^^^^^^^^^^^^^
 
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
 ios-swift
@@ -4663,6 +4691,7 @@ linter
 
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
@@ -4946,6 +4975,7 @@ macos
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
@@ -5199,6 +5229,11 @@ maven
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 
+mcp
+^^^
+
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+
 md3
 ^^^
 
@@ -5224,6 +5259,11 @@ memory-efficient
 ^^^^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+
+memory-optimization
+^^^^^^^^^^^^^^^^^^^
+
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 
 mental-omega
 ^^^^^^^^^^^^
@@ -5405,6 +5445,11 @@ mocha
 ^^^^^
 
 * `l2beat/earl <https://github.com/l2beat/earl>`_
+
+model-context-protocol
+^^^^^^^^^^^^^^^^^^^^^^
+
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 
 modernbert
 ^^^^^^^^^^
@@ -6128,6 +6173,11 @@ packaging
 
 * `astral-sh/uv <https://github.com/astral-sh/uv>`_
 
+padding
+^^^^^^^
+
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+
 pam
 ^^^
 
@@ -6257,6 +6307,7 @@ performance
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
@@ -7774,6 +7825,7 @@ static-analysis
 
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
 static-code-analysis
@@ -7839,6 +7891,12 @@ struct
 ^^^^^^
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+
+struct-alignment
+^^^^^^^^^^^^^^^^
+
+* `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 
 structured-fields
 ^^^^^^^^^^^^^^^^^
@@ -7977,6 +8035,7 @@ swift
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
@@ -8197,6 +8256,7 @@ swiftui
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
@@ -8847,6 +8907,11 @@ ui
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 
+ui-annotation
+^^^^^^^^^^^^^
+
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+
 ui-components
 ^^^^^^^^^^^^^
 
@@ -8880,6 +8945,7 @@ uicolor-hex
 uikit
 ^^^^^
 
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
@@ -9522,6 +9588,7 @@ xcode
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
