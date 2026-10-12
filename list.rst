@@ -328,7 +328,9 @@ LANG: Zig
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
+* `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 PLAT: Game
 ^^^^^^^^^^
@@ -347,6 +349,7 @@ PLAT: Minecraft
 PLAT: Shell
 ^^^^^^^^^^^
 
+* `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
@@ -550,6 +553,7 @@ SYS: POSIX
 
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 
 SYS: VPS
 ^^^^^^^^

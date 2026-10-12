@@ -254,6 +254,11 @@ MDX
 
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 
+Makefile
+^^^^^^^^
+
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
+
 Markdown
 ^^^^^^^^
 
@@ -776,7 +781,10 @@ Zig
 
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
+* `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
+* `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_

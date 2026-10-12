@@ -320,21 +320,6 @@ adguard
 
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 
-adobe
-^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
-adobe-photoshop-2026
-^^^^^^^^^^^^^^^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
-adobe-photoshop-2026-ai
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
 agent
 ^^^^^
 
@@ -492,6 +477,11 @@ analyzer
 
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
+
+andrew-kelley
+^^^^^^^^^^^^^
+
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 android
 ^^^^^^^
@@ -979,6 +969,7 @@ awesome
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 awesome-list
 ^^^^^^^^^^^^
@@ -987,6 +978,7 @@ awesome-list
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 awesome-resources
 ^^^^^^^^^^^^^^^^^
@@ -1295,6 +1287,7 @@ bun
 ^^^
 
 * `honojs/hono <https://github.com/honojs/hono>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 bundle-size
 ^^^^^^^^^^^
@@ -1585,6 +1578,7 @@ cli
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
@@ -1813,6 +1807,7 @@ command-line
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -1862,6 +1857,7 @@ compiler
 ^^^^^^^^
 
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
+* `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 
 complex
@@ -3937,6 +3933,11 @@ imkit
 
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
 
+import-organizer
+^^^^^^^^^^^^^^^^
+
+* `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
+
 incus
 ^^^^^
 
@@ -4810,6 +4811,11 @@ logicola
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 
+ls
+^^
+
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
+
 lsp
 ^^^
 
@@ -4919,6 +4925,11 @@ maccatalyst
 ^^^^^^^^^^^
 
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
+
+mach
+^^^^
+
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 mach-o
 ^^^^^^
@@ -6355,11 +6366,6 @@ photo-editing
 
 * `storytold/photocraft <https://github.com/storytold/photocraft>`_
 
-photoshop
-^^^^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
 pikevm
 ^^^^^^
 
@@ -6583,6 +6589,7 @@ programming-language
 ^^^^^^^^^^^^^^^^^^^^
 
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
+* `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
@@ -6658,11 +6665,6 @@ proxy
 ^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
-
-psd
-^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 
 ptp
 ^^^
@@ -8486,6 +8488,7 @@ terminal
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 
@@ -9731,7 +9734,37 @@ zig
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
+
+zig-application
+^^^^^^^^^^^^^^^
+
+* `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
+
+zig-lib
+^^^^^^^
+
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
+
+zig-library
+^^^^^^^^^^^
+
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
+
+zig-package
+^^^^^^^^^^^
+
+* `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
+
+ziglang
+^^^^^^^
+
+* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
+* `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 zlib
 ^^^^
