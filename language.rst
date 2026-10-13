@@ -27,7 +27,6 @@ C
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
-* `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
@@ -152,6 +151,7 @@ Java
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
+* `Vstory/ColorOSGalleryNomediaGuard <https://github.com/Vstory/ColorOSGalleryNomediaGuard>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
@@ -160,6 +160,7 @@ Java
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
+* `rikumi/coloros-mod <https://github.com/rikumi/coloros-mod>`_
 
 JavaScript
 ^^^^^^^^^^
@@ -208,6 +209,7 @@ Kotlin
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
+* `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
@@ -416,6 +418,7 @@ Rust
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+* `lgse/strata <https://github.com/lgse/strata>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
@@ -457,6 +460,7 @@ Shell
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+* `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 

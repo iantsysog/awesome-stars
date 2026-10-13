@@ -67,12 +67,14 @@ Others
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
+* `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
+* `Vstory/ColorOSGalleryNomediaGuard <https://github.com/Vstory/ColorOSGalleryNomediaGuard>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
@@ -174,8 +176,6 @@ Others
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
-* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
-* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
@@ -197,6 +197,7 @@ Others
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
+* `rikumi/coloros-mod <https://github.com/rikumi/coloros-mod>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
@@ -3053,6 +3054,7 @@ file-manager
 ^^^^^^^^^^^^
 
 * `devld/go-drive <https://github.com/devld/go-drive>`_
+* `lgse/strata <https://github.com/lgse/strata>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 file-path
@@ -3583,6 +3585,11 @@ groovy
 
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
+gtk4
+^^^^
+
+* `lgse/strata <https://github.com/lgse/strata>`_
+
 gui
 ^^^
 
@@ -3884,6 +3891,11 @@ hyperos
 
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 
+hyprland
+^^^^^^^^
+
+* `lgse/strata <https://github.com/lgse/strata>`_
+
 hysteria
 ^^^^^^^^
 
@@ -4065,6 +4077,7 @@ inspection
 installer
 ^^^^^^^^^
 
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 
 intellij
@@ -4493,6 +4506,11 @@ kernelsu-next
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
+kext
+^^^^
+
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
+
 keyboard
 ^^^^^^^^
 
@@ -4773,6 +4791,7 @@ linux
 
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `lgse/strata <https://github.com/lgse/strata>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
@@ -5069,6 +5088,8 @@ macos
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
@@ -5393,6 +5414,7 @@ metal
 ^^^^^
 
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 
 metamodule
 ^^^^^^^^^^
@@ -5912,6 +5934,11 @@ nuxt
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
+nvidia
+^^^^^^
+
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
+
 obfuscation
 ^^^^^^^^^^^
 
@@ -6098,6 +6125,8 @@ opencore
 ^^^^^^^^
 
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 
 opengl
 ^^^^^^
@@ -7286,6 +7315,7 @@ rust
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+* `lgse/strata <https://github.com/lgse/strata>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
@@ -9425,6 +9455,7 @@ vulkan
 ^^^^^^
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 
 wai-aria
 ^^^^^^^^
@@ -9459,6 +9490,11 @@ watchos
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+
+wayland
+^^^^^^^
+
+* `lgse/strata <https://github.com/lgse/strata>`_
 
 wear-os
 ^^^^^^^
@@ -9637,6 +9673,7 @@ windows
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
+* `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
 windows-10

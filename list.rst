@@ -430,12 +430,14 @@ SYS: Android
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
+* `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
+* `Vstory/ColorOSGalleryNomediaGuard <https://github.com/Vstory/ColorOSGalleryNomediaGuard>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
@@ -469,6 +471,7 @@ SYS: Android
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
+* `rikumi/coloros-mod <https://github.com/rikumi/coloros-mod>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
@@ -552,6 +555,7 @@ SYS: Linux
 ^^^^^^^^^^
 
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
+* `lgse/strata <https://github.com/lgse/strata>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 
 SYS: POSIX
