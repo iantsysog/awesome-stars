@@ -13,12 +13,9 @@ APP: Miscellaneous
 ^^^^^^^^^^^^^^^^^^
 
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
-* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
-* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
-* `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
@@ -27,21 +24,16 @@ APP: Miscellaneous
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
-* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
-* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
-* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `j178/prek <https://github.com/j178/prek>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
-* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
-* `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
@@ -53,7 +45,6 @@ APP: Miscellaneous
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
-* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
@@ -67,6 +58,7 @@ APP: Zotero
 * `syt2/zotero-addons <https://github.com/syt2/zotero-addons>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
+* `zotero/zotero <https://github.com/zotero/zotero>`_
 
 DOMAIN: Game
 ^^^^^^^^^^^^
@@ -118,6 +110,19 @@ DOMAIN: Network
 * `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 
+DOMAIN: Security
+^^^^^^^^^^^^^^^^
+
+* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
+* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
+* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
+* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+* `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
+* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
+
 DOMAIN: Shell
 ^^^^^^^^^^^^^
 
@@ -146,7 +151,6 @@ DOMAIN: Typography
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 * `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 * `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
-* `zotero/zotero <https://github.com/zotero/zotero>`_
 
 DOMAIN: VPS / VDS
 ^^^^^^^^^^^^^^^^^
