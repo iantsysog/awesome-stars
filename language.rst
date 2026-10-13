@@ -26,6 +26,7 @@ C
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
+* `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
@@ -109,6 +110,7 @@ Go
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `lyricat/inua <https://github.com/lyricat/inua>`_
 * `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
@@ -325,6 +327,7 @@ PowerShell
 Python
 ^^^^^^
 
+* `5ec1cff/payload-dumper <https://github.com/5ec1cff/payload-dumper>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
@@ -380,6 +383,7 @@ Rust
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `EpicGames/lore <https://github.com/EpicGames/lore>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
@@ -711,6 +715,7 @@ TeX
 TypeScript
 ^^^^^^^^^^
 
+* `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
 * `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
@@ -745,6 +750,7 @@ TypeScript
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
@@ -783,7 +789,7 @@ Zig
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
+* `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
 * `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_

@@ -327,6 +327,7 @@ LANG: Zig
 
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
+* `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `mitchellh/zig-objc <https://github.com/mitchellh/zig-objc>`_
 * `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
@@ -360,6 +361,7 @@ PLAT: Typography
 ^^^^^^^^^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
@@ -392,6 +394,7 @@ SYS: Android
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
+* `5ec1cff/payload-dumper <https://github.com/5ec1cff/payload-dumper>`_
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
@@ -462,6 +465,7 @@ SYS: Android
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
+* `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
@@ -481,6 +485,7 @@ SYS: General
 ^^^^^^^^^^^^
 
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
+* `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `EpicGames/lore <https://github.com/EpicGames/lore>`_
@@ -547,13 +552,13 @@ SYS: Linux
 ^^^^^^^^^^
 
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
+* `lyricat/inua <https://github.com/lyricat/inua>`_
 
 SYS: POSIX
 ^^^^^^^^^^
 
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 
 SYS: VPS
 ^^^^^^^^
@@ -721,6 +726,7 @@ UTILS: Agent
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
 UTILS: Entry

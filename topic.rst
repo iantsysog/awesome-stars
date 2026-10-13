@@ -13,10 +13,12 @@ Others
 * `1amageek/SwiftMusic <https://github.com/1amageek/SwiftMusic>`_
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
+* `5ec1cff/payload-dumper <https://github.com/5ec1cff/payload-dumper>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
+* `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
 * `AvdLee/appstoreconnect-swift-sdk <https://github.com/AvdLee/appstoreconnect-swift-sdk>`_
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
@@ -137,6 +139,7 @@ Others
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
+* `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
 * `joshpuckett/bloom <https://github.com/joshpuckett/bloom>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
@@ -150,6 +153,7 @@ Others
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
+* `lyricat/inua <https://github.com/lyricat/inua>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
@@ -327,6 +331,11 @@ agent
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
+agent-skills
+^^^^^^^^^^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
+
 agentic-ai
 ^^^^^^^^^^
 
@@ -352,6 +361,7 @@ ai-agents
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 ai-arena
 ^^^^^^^^
@@ -1119,6 +1129,11 @@ binary
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
+binary-analysis
+^^^^^^^^^^^^^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
+
 binaural
 ^^^^^^^^
 
@@ -1313,6 +1328,11 @@ c
 ^
 
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
+
+c-api
+^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 
 c99
 ^^^
@@ -1541,6 +1561,7 @@ claude-code
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 clean
 ^^^^^
@@ -1578,8 +1599,8 @@ cli
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -1723,6 +1744,7 @@ codex
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 coding-agent
 ^^^^^^^^^^^^
@@ -1807,7 +1829,6 @@ command-line
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
 * `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -2036,6 +2057,11 @@ conversational-awareness
 
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 
+cordis
+^^^^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
+
 core-data
 ^^^^^^^^^
 
@@ -2160,6 +2186,7 @@ ctex
 ctf
 ^^^
 
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 cups
@@ -2324,6 +2351,7 @@ decompiler
 ^^^^^^^^^^
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 decompression
 ^^^^^^^^^^^^^
@@ -2453,6 +2481,7 @@ developer-tools
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -2471,6 +2500,11 @@ devops
 * `go-task/task <https://github.com/go-task/task>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
+
+dex
+^^^
+
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 
 dfa
 ^^^
@@ -2507,6 +2541,11 @@ diffing
 
 * `pointfreeco/swift-custom-dump <https://github.com/pointfreeco/swift-custom-dump>`_
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
+
+disassembler
+^^^^^^^^^^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 disk-space
 ^^^^^^^^^^
@@ -2684,10 +2723,16 @@ driverstore
 
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 
+dsh
+^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
+
 dsh-plugin
 ^^^^^^^^^^
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 dsl
 ^^^
@@ -2759,6 +2804,7 @@ editor
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
@@ -3123,6 +3169,11 @@ font
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
 * `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 
+force-push-warning
+^^^^^^^^^^^^^^^^^^
+
+* `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
+
 form-validation
 ^^^^^^^^^^^^^^^
 
@@ -3318,6 +3369,11 @@ gh-pages
 ^^^^^^^^
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
+
+ghidra
+^^^^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 git
 ^^^
@@ -3701,6 +3757,11 @@ homomorphic-encryption
 
 * `apple/swift-homomorphic-encryption <https://github.com/apple/swift-homomorphic-encryption>`_
 
+hopper
+^^^^^^
+
+* `morluto/rea <https://github.com/morluto/rea>`_
+
 hosting
 ^^^^^^^
 
@@ -3937,6 +3998,11 @@ import-organizer
 ^^^^^^^^^^^^^^^^
 
 * `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
+
+incremental-compilation
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 
 incus
 ^^^^^
@@ -4255,6 +4321,7 @@ java
 ^^^^
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
@@ -4399,6 +4466,7 @@ kernel
 ^^^^^^
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
+* `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 
 kernel-module
 ^^^^^^^^^^^^^
@@ -4589,6 +4657,7 @@ latex
 ^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
@@ -4639,6 +4708,7 @@ libraries
 library
 ^^^^^^^
 
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 
 libs-versions-toml
@@ -4734,6 +4804,11 @@ literals
 
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 
+live-preview
+^^^^^^^^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+
 llama-cpp
 ^^^^^^^^^
 
@@ -4745,6 +4820,7 @@ llm
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 llm-inference
 ^^^^^^^^^^^^^
@@ -4811,11 +4887,6 @@ logicola
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 
-ls
-^^
-
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
-
 lsp
 ^^^
 
@@ -4857,6 +4928,12 @@ lualatex
 ^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+
+luatex
+^^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 
 luau
 ^^^^
@@ -5244,6 +5321,7 @@ mcp
 ^^^
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 md3
 ^^^
@@ -5321,6 +5399,7 @@ metamodule
 
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
+* `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 
 metaprogramming
 ^^^^^^^^^^^^^^^
@@ -5461,6 +5540,7 @@ model-context-protocol
 ^^^^^^^^^^^^^^^^^^^^^^
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 
 modernbert
 ^^^^^^^^^^
@@ -6255,6 +6335,7 @@ pdf
 ^^^
 
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
@@ -6317,6 +6398,7 @@ performance
 
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
@@ -6889,6 +6971,11 @@ real
 
 * `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
 
+real-time
+^^^^^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+
 real-time-strategy
 ^^^^^^^^^^^^^^^^^^
 
@@ -7004,6 +7091,7 @@ reverse-engineering
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 reverse-proxy
@@ -7182,6 +7270,7 @@ rust
 ^^^^
 
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
@@ -7825,9 +7914,11 @@ static
 static-analysis
 ^^^^^^^^^^^^^^^
 
+* `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
 static-code-analysis
@@ -8488,7 +8579,6 @@ terminal
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 
@@ -8537,8 +8627,14 @@ tex
 ^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+
+texlive
+^^^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 
 text
 ^^^^
@@ -8871,6 +8967,7 @@ typesetting
 ^^^^^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
 
 typesetting-system
@@ -9186,6 +9283,11 @@ verification-code
 
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 
+vfs
+^^^
+
+* `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
+
 vibe-coding
 ^^^^^^^^^^^
 
@@ -9295,6 +9397,11 @@ vpn
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+
+vscode
+^^^^^^
+
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 
 vscode-extension
 ^^^^^^^^^^^^^^^^
@@ -9734,7 +9841,6 @@ zig
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `mstdokumaci/zsort <https://github.com/mstdokumaci/zsort>`_
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
@@ -9763,7 +9869,6 @@ zig-package
 ziglang
 ^^^^^^^
 
-* `here-Leslie-Lau/zlist <https://github.com/here-Leslie-Lau/zlist>`_
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
 zlib
