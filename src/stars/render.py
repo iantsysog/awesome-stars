@@ -3,7 +3,7 @@ from collections.abc import Mapping
 from enum import StrEnum
 from functools import cache
 from itertools import chain, starmap
-from typing import TYPE_CHECKING, Final, assert_never, override
+from typing import TYPE_CHECKING, Final, assert_never
 
 if TYPE_CHECKING:
     from collections.abc import Iterable, Iterator, Sequence
@@ -20,8 +20,7 @@ class Section(StrEnum):
     LIST = "list"
 
     @property
-    @override
-    def title(self) -> str:
+    def heading(self) -> str:
         return self.value.capitalize()
 
     @property
@@ -116,7 +115,7 @@ def _readme(username: str) -> str:
         "",
         _heading("Lists", "-"),
         "",
-        *(_link(section.title, section.filename) for section in Section),
+        *(_link(section.heading, section.filename) for section in Section),
         "",
         _heading("Credits", "-"),
         "",
@@ -144,13 +143,13 @@ def _section(title: str, categories: Categories) -> str:
 def render(
     username: str,
     repositories: Sequence[Repository],
-    lists: Sequence[Lists] | None = None,
+    lists: Sequence[Lists] = (),
 ) -> Output:
     outputs: Output = {
         FILENAME: _readme(username),
         **{
             section.filename: _section(
-                section.title, _group(_repository_pairs(repositories, section))
+                section.heading, _group(_repository_pairs(repositories, section))
             )
             for section in Section
             if section is not Section.LIST
@@ -158,6 +157,6 @@ def render(
     }
     if lists:
         outputs[Section.LIST.filename] = _section(
-            Section.LIST.title, _group(_list_pairs(lists))
+            Section.LIST.heading, _group(_list_pairs(lists))
         )
     return outputs
