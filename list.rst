@@ -473,8 +473,8 @@ LANG: Zig
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
-SYS: Android
-^^^^^^^^^^^^
+PLAT: Android
+^^^^^^^^^^^^^
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
@@ -569,8 +569,8 @@ SYS: Android
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
-SYS: Linux
-^^^^^^^^^^
+PLAT: Linux
+^^^^^^^^^^^
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
@@ -624,8 +624,8 @@ SYS: Linux
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
 
-SYS: Windows
-^^^^^^^^^^^^
+PLAT: Windows
+^^^^^^^^^^^^^
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
@@ -654,8 +654,8 @@ SYS: Windows
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 
-SYS: iOS
-^^^^^^^^
+PLAT: iOS
+^^^^^^^^^
 
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
@@ -672,8 +672,8 @@ SYS: iOS
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 
-SYS: macOS
-^^^^^^^^^^
+PLAT: macOS
+^^^^^^^^^^^
 
 * `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
@@ -760,8 +760,8 @@ SYS: macOS
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_
 
-SYS: tvOS
-^^^^^^^^^
+PLAT: tvOS
+^^^^^^^^^^
 
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
