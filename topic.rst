@@ -87,23 +87,6 @@ Others
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
 * `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
-* `apple/container <https://github.com/apple/container>`_
-* `apple/coreai-models <https://github.com/apple/coreai-models>`_
-* `apple/pkl-swift <https://github.com/apple/pkl-swift>`_
-* `apple/swift-async-dns-resolver <https://github.com/apple/swift-async-dns-resolver>`_
-* `apple/swift-binary-parsing <https://github.com/apple/swift-binary-parsing>`_
-* `apple/swift-http-types <https://github.com/apple/swift-http-types>`_
-* `apple/swift-llbuild2 <https://github.com/apple/swift-llbuild2>`_
-* `apple/swift-nio-imap <https://github.com/apple/swift-nio-imap>`_
-* `apple/swift-nio-oblivious-http <https://github.com/apple/swift-nio-oblivious-http>`_
-* `apple/swift-nio-ssh <https://github.com/apple/swift-nio-ssh>`_
-* `apple/swift-nio-transport-services <https://github.com/apple/swift-nio-transport-services>`_
-* `apple/swift-ntp <https://github.com/apple/swift-ntp>`_
-* `apple/swift-profile-recorder <https://github.com/apple/swift-profile-recorder>`_
-* `apple/swift-service-discovery <https://github.com/apple/swift-service-discovery>`_
-* `apple/swift-statsd-client <https://github.com/apple/swift-statsd-client>`_
-* `apple/swift-tls <https://github.com/apple/swift-tls>`_
-* `apple/xcode-project-format <https://github.com/apple/xcode-project-format>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
@@ -186,12 +169,6 @@ Others
 * `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
-* `pointfreeco/composable-core-motion <https://github.com/pointfreeco/composable-core-motion>`_
-* `pointfreeco/episode-code-samples <https://github.com/pointfreeco/episode-code-samples>`_
-* `pointfreeco/swift-concurrency-extras <https://github.com/pointfreeco/swift-concurrency-extras>`_
-* `pointfreeco/swift-navigation <https://github.com/pointfreeco/swift-navigation>`_
-* `pointfreeco/swift-parsing <https://github.com/pointfreeco/swift-parsing>`_
-* `pointfreeco/swift-perception <https://github.com/pointfreeco/swift-perception>`_
 * `pvieito/PythonKit <https://github.com/pvieito/PythonKit>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
@@ -202,17 +179,7 @@ Others
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
-* `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
-* `swiftlang/swift-driver <https://github.com/swiftlang/swift-driver>`_
-* `swiftlang/swift-evolution <https://github.com/swiftlang/swift-evolution>`_
-* `swiftlang/swift-experimental-string-processing <https://github.com/swiftlang/swift-experimental-string-processing>`_
-* `swiftlang/swift-format <https://github.com/swiftlang/swift-format>`_
-* `swiftlang/swift-foundation <https://github.com/swiftlang/swift-foundation>`_
-* `swiftlang/swift-markdown <https://github.com/swiftlang/swift-markdown>`_
-* `swiftlang/swift-package-manager <https://github.com/swiftlang/swift-package-manager>`_
-* `swiftlang/swift-subprocess <https://github.com/swiftlang/swift-subprocess>`_
-* `swiftlang/swift-syntax <https://github.com/swiftlang/swift-syntax>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
@@ -288,16 +255,6 @@ activator
 ^^^^^^^^^
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
-
-actor-model
-^^^^^^^^^^^
-
-* `apple/swift-distributed-actors <https://github.com/apple/swift-distributed-actors>`_
-
-actors
-^^^^^^
-
-* `apple/swift-distributed-actors <https://github.com/apple/swift-distributed-actors>`_
 
 ad-blocker
 ^^^^^^^^^^
@@ -448,7 +405,6 @@ algebraic-effects
 algorithm
 ^^^^^^^^^
 
-* `apple/swift-algorithms <https://github.com/apple/swift-algorithms>`_
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
 
 algorithms
@@ -775,11 +731,6 @@ application-uninstaller
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 
-appstorage
-^^^^^^^^^^
-
-* `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
-
 arb
 ^^^
 
@@ -789,8 +740,6 @@ architecture
 ^^^^^^^^^^^^
 
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
-* `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 
 arkts
@@ -812,11 +761,6 @@ asm
 ^^^
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
-
-asn1
-^^^^
-
-* `apple/swift-asn1 <https://github.com/apple/swift-asn1>`_
 
 assert
 ^^^^^^
@@ -852,7 +796,6 @@ astro
 async
 ^^^^^
 
-* `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
@@ -863,20 +806,10 @@ async-await
 
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 
-async-context
-^^^^^^^^^^^^^
-
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
-
 async-dns
 ^^^^^^^^^
 
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
-
-asynchronous-io
-^^^^^^^^^^^^^^^
-
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
 
 asyncio
 ^^^^^^^
@@ -1006,16 +939,6 @@ backup
 
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 
-baggage
-^^^^^^^
-
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
-
-baggage-context
-^^^^^^^^^^^^^^^
-
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
-
 bank
 ^^^^
 
@@ -1093,11 +1016,6 @@ best-practices
 
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 
-beta
-^^^^
-
-* `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
-
 bibliography
 ^^^^^^^^^^^^
 
@@ -1107,12 +1025,6 @@ bibliography-style
 ^^^^^^^^^^^^^^^^^^
 
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
-
-bidirectional
-^^^^^^^^^^^^^
-
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
 
 big-sur
 ^^^^^^^
@@ -1265,7 +1177,6 @@ build
 
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 
 build-automation
 ^^^^^^^^^^^^^^^^
@@ -1276,18 +1187,11 @@ build-system
 ^^^^^^^^^^^^
 
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 
 build-tool
 ^^^^^^^^^^
 
 * `go-task/task <https://github.com/go-task/task>`_
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
-
-build-tools
-^^^^^^^^^^^
-
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 
 bulk-actions
 ^^^^^^^^^^^^
@@ -1436,11 +1340,6 @@ certificate-revocation
 ^^^^^^^^^^^^^^^^^^^^^^
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
-
-certificates
-^^^^^^^^^^^^
-
-* `apple/swift-certificates <https://github.com/apple/swift-certificates>`_
 
 chai
 ^^^^
@@ -1596,7 +1495,6 @@ cli
 
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
-* `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
@@ -1663,7 +1561,6 @@ cloudkit
 
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 
 cmp
 ^^^
@@ -1773,16 +1670,6 @@ collaboration
 
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
 
-collection
-^^^^^^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
-collections
-^^^^^^^^^^^
-
-* `pointfreeco/swift-nonempty <https://github.com/pointfreeco/swift-nonempty>`_
-
 collectionview
 ^^^^^^^^^^^^^^
 
@@ -1809,11 +1696,6 @@ combine
 
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 
-combine-framework
-^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/combine-schedulers <https://github.com/pointfreeco/combine-schedulers>`_
-
 combobox
 ^^^^^^^^
 
@@ -1829,7 +1711,6 @@ command-line
 ^^^^^^^^^^^^
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
-* `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -1882,11 +1763,6 @@ compiler
 * `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 
-complex
-^^^^^^^
-
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
-
 component-library
 ^^^^^^^^^^^^^^^^^
 
@@ -1928,12 +1804,6 @@ compose-ui
 
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 
-composition
-^^^^^^^^^^^
-
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
-* `pointfreeco/swift-gen <https://github.com/pointfreeco/swift-gen>`_
-
 compound
 ^^^^^^^^
 
@@ -1958,18 +1828,10 @@ compute-graphics
 concurrency
 ^^^^^^^^^^^
 
-* `apple/swift-atomics <https://github.com/apple/swift-atomics>`_
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
-
-conditional-conformance
-^^^^^^^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-nonempty <https://github.com/pointfreeco/swift-nonempty>`_
-* `pointfreeco/swift-tagged <https://github.com/pointfreeco/swift-tagged>`_
 
 conduit
 ^^^^^^^
@@ -1990,7 +1852,6 @@ configuration
 ^^^^^^^^^^^^^
 
 * `apple/pkl <https://github.com/apple/pkl>`_
-* `apple/swift-configuration <https://github.com/apple/swift-configuration>`_
 
 console-application
 ^^^^^^^^^^^^^^^^^^^
@@ -2001,7 +1862,6 @@ container
 ^^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 
@@ -2032,11 +1892,6 @@ content-cache
 ^^^^^^^^^^^^^
 
 * `nginx/nginx <https://github.com/nginx/nginx>`_
-
-context-propagation
-^^^^^^^^^^^^^^^^^^^
-
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 
 continuous-localization
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -2145,7 +2000,6 @@ crypto
 cryptography
 ^^^^^^^^^^^^
 
-* `apple/swift-homomorphic-encryption <https://github.com/apple/swift-homomorphic-encryption>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 
 cryptomator
@@ -2235,11 +2089,6 @@ data
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 
-data-structures
-^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-identified-collections <https://github.com/pointfreeco/swift-identified-collections>`_
-
 data-visualization
 ^^^^^^^^^^^^^^^^^^
 
@@ -2252,8 +2101,6 @@ database
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
 
 database-client
 ^^^^^^^^^^^^^^^
@@ -2315,7 +2162,6 @@ debloat
 debugging
 ^^^^^^^^^
 
-* `pointfreeco/swift-custom-dump <https://github.com/pointfreeco/swift-custom-dump>`_
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
 
 decentralized-application
@@ -2402,27 +2248,6 @@ dependency-injection
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
-* `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
-
-dependency-management
-^^^^^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
-
-deque
-^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
-dequeue
-^^^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
-der
-^^^
-
-* `apple/swift-asn1 <https://github.com/apple/swift-asn1>`_
 
 deserialization
 ^^^^^^^^^^^^^^^
@@ -2540,7 +2365,6 @@ difference
 diffing
 ^^^^^^^
 
-* `pointfreeco/swift-custom-dump <https://github.com/pointfreeco/swift-custom-dump>`_
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
 
 disassembler
@@ -2561,16 +2385,7 @@ display
 distributed-systems
 ^^^^^^^^^^^^^^^^^^^
 
-* `apple/swift-cluster-membership <https://github.com/apple/swift-cluster-membership>`_
-* `apple/swift-distributed-actors <https://github.com/apple/swift-distributed-actors>`_
-* `apple/swift-distributed-tracing <https://github.com/apple/swift-distributed-tracing>`_
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
-
-distributed-tracing
-^^^^^^^^^^^^^^^^^^^
-
-* `apple/swift-distributed-tracing <https://github.com/apple/swift-distributed-tracing>`_
 
 django
 ^^^^^^
@@ -2735,12 +2550,6 @@ dsh-plugin
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `morluto/rea <https://github.com/morluto/rea>`_
 
-dsl
-^^^
-
-* `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
-* `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
-
 dune-2000
 ^^^^^^^^^
 
@@ -2850,11 +2659,6 @@ email
 
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 
-embedded
-^^^^^^^^
-
-* `apple/swift-mmio <https://github.com/apple/swift-mmio>`_
-
 emboss
 ^^^^^^
 
@@ -2917,11 +2721,6 @@ equalizer
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
-error-handling
-^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-validated <https://github.com/pointfreeco/swift-validated>`_
-
 eruda
 ^^^^^
 
@@ -2936,11 +2735,6 @@ esp32
 ^^^^^
 
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
-
-event-driven
-^^^^^^^^^^^^
-
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
 
 everything
 ^^^^^^^^^^
@@ -3040,11 +2834,6 @@ figma
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `robb/Redline <https://github.com/robb/Redline>`_
 
-file-descriptor
-^^^^^^^^^^^^^^^
-
-* `apple/swift-system <https://github.com/apple/swift-system>`_
-
 file-hider
 ^^^^^^^^^^
 
@@ -3056,11 +2845,6 @@ file-manager
 * `devld/go-drive <https://github.com/devld/go-drive>`_
 * `lgse/strata <https://github.com/lgse/strata>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
-
-file-path
-^^^^^^^^^
-
-* `apple/swift-system <https://github.com/apple/swift-system>`_
 
 file-search
 ^^^^^^^^^^^
@@ -3087,11 +2871,6 @@ filemanager
 ^^^^^^^^^^^
 
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
-
-filestorage
-^^^^^^^^^^^
-
-* `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
 
 finance
 ^^^^^^^
@@ -3128,11 +2907,6 @@ fish-theme
 ^^^^^^^^^^
 
 * `starship/starship <https://github.com/starship/starship>`_
-
-flag
-^^^^
-
-* `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
 
 flags
 ^^^^^
@@ -3218,11 +2992,6 @@ fragments
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
-framework
-^^^^^^^^^
-
-* `vapor/vapor <https://github.com/vapor/vapor>`_
-
 free-software
 ^^^^^^^^^^^^^
 
@@ -3248,11 +3017,6 @@ frugal
 
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 
-function-composition
-^^^^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-overture <https://github.com/pointfreeco/swift-overture>`_
-
 functional
 ^^^^^^^^^^
 
@@ -3263,9 +3027,6 @@ functional-programming
 
 * `Alex-Ozun/swift-effect <https://github.com/Alex-Ozun/swift-effect>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
-* `pointfreeco/swift-gen <https://github.com/pointfreeco/swift-gen>`_
-* `pointfreeco/swift-overture <https://github.com/pointfreeco/swift-overture>`_
-* `pointfreeco/swift-validated <https://github.com/pointfreeco/swift-validated>`_
 
 future
 ^^^^^^
@@ -3656,11 +3417,6 @@ harmonyos-next
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
-hash
-^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
 haskell
 ^^^^^^^
 
@@ -3676,11 +3432,6 @@ hdr
 ^^^
 
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
-
-headers
-^^^^^^^
-
-* `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
 
 headless
 ^^^^^^^^
@@ -3718,11 +3469,6 @@ hider
 
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 
-high-performance
-^^^^^^^^^^^^^^^^
-
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-
 hledger
 ^^^^^^^
 
@@ -3759,11 +3505,6 @@ homelab
 
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 
-homomorphic-encryption
-^^^^^^^^^^^^^^^^^^^^^^
-
-* `apple/swift-homomorphic-encryption <https://github.com/apple/swift-homomorphic-encryption>`_
-
 hopper
 ^^^^^^
 
@@ -3794,20 +3535,12 @@ hridayan
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 
-html
-^^^^
-
-* `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
-* `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
-
 http
 ^^^^
 
-* `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 
 http-cache
 ^^^^^^^^^^
@@ -3829,10 +3562,8 @@ http-proxy
 http2
 ^^^^^
 
-* `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 
 http3
 ^^^^^
@@ -3933,11 +3664,6 @@ ide
 
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
-
-identifiable
-^^^^^^^^^^^^
-
-* `pointfreeco/swift-identified-collections <https://github.com/pointfreeco/swift-identified-collections>`_
 
 idevice
 ^^^^^^^
@@ -4120,12 +3846,6 @@ introspection
 
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 
-invertible
-^^^^^^^^^^
-
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
-
 invokedynamic
 ^^^^^^^^^^^^^
 
@@ -4298,16 +4018,6 @@ istat
 ^^^^^
 
 * `tw93/Mole <https://github.com/tw93/Mole>`_
-
-iterator
-^^^^^^^^
-
-* `apple/swift-algorithms <https://github.com/apple/swift-algorithms>`_
-
-itertools
-^^^^^^^^^
-
-* `apple/swift-algorithms <https://github.com/apple/swift-algorithms>`_
 
 itunes
 ^^^^^^
@@ -4516,11 +4226,6 @@ keyboard
 
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
-
-keypaths
-^^^^^^^^
-
-* `pointfreeco/swift-case-paths <https://github.com/pointfreeco/swift-case-paths>`_
 
 keypress
 ^^^^^^^^
@@ -4891,11 +4596,6 @@ location-guard-ng
 
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 
-logging
-^^^^^^^
-
-* `apple/swift-log <https://github.com/apple/swift-log>`_
-
 logic
 ^^^^^
 
@@ -5161,8 +4861,6 @@ macros
 ^^^^^^
 
 * `p-x9/AssociatedObject <https://github.com/p-x9/AssociatedObject>`_
-* `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
 
 magisk
 ^^^^^^
@@ -5292,23 +4990,12 @@ materialyou
 math
 ^^^^
 
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 
 math-rendering
 ^^^^^^^^^^^^^^
 
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
-
-mathematics
-^^^^^^^^^^^
-
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
-
-maths
-^^^^^
-
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
 
 matrix
 ^^^^^^
@@ -5432,8 +5119,6 @@ metrics
 ^^^^^^^
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
-* `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 
 microblog
@@ -5536,11 +5221,6 @@ mlx-lm
 
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 
-mmio
-^^^^
-
-* `apple/swift-mmio <https://github.com/apple/swift-mmio>`_
-
 mobile
 ^^^^^^
 
@@ -5573,11 +5253,6 @@ modular
 ^^^^^^^
 
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
-
-modularity
-^^^^^^^^^^
-
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
 
 moe
 ^^^
@@ -5778,7 +5453,6 @@ networking
 ^^^^^^^^^^
 
 * `Moya/Moya <https://github.com/Moya/Moya>`_
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
 
 neural-engine
 ^^^^^^^^^^^^^
@@ -5837,16 +5511,6 @@ nodejs
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `nubjs/nub <https://github.com/nubjs/nub>`_
-
-non-blocking
-^^^^^^^^^^^^
-
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-
-non-blocking-io
-^^^^^^^^^^^^^^^
-
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
 
 non-root
 ^^^^^^^^
@@ -5993,7 +5657,6 @@ observation
 
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 
 obsidian
 ^^^^^^^^
@@ -6195,21 +5858,6 @@ optimize
 
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
-option
-^^^^^^
-
-* `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
-
-ordered-dictionary
-^^^^^^^^^^^^^^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
-ordered-set
-^^^^^^^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
 ordo-core-package
 ^^^^^^^^^^^^^^^^^
 
@@ -6317,7 +5965,6 @@ parsing
 ^^^^^^^
 
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
 
 particles
 ^^^^^^^^^
@@ -6464,8 +6111,6 @@ persistence
 
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
-* `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
 
 persistent-history
 ^^^^^^^^^^^^^^^^^^
@@ -6566,7 +6211,6 @@ portableapps
 posix
 ^^^^^
 
-* `apple/swift-system <https://github.com/apple/swift-system>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
 
 post-quantum
@@ -6628,11 +6272,6 @@ printer
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 
-printing
-^^^^^^^^
-
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-
 privacy
 ^^^^^^^
 
@@ -6658,11 +6297,6 @@ procedural-generation
 ^^^^^^^^^^^^^^^^^^^^^
 
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
-
-process
-^^^^^^^
-
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 
 product-analytics
 ^^^^^^^^^^^^^^^^^
@@ -6866,16 +6500,6 @@ quantization
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
-query-builder
-^^^^^^^^^^^^^
-
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
-
-queue
-^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
 quic
 ^^^^
 
@@ -6924,7 +6548,6 @@ randomness
 ^^^^^^^^^^
 
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
-* `pointfreeco/swift-gen <https://github.com/pointfreeco/swift-gen>`_
 
 rawspan
 ^^^^^^^
@@ -6994,11 +6617,6 @@ reactjs
 
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
-
-real
-^^^^
-
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
 
 real-time
 ^^^^^^^^^
@@ -7072,11 +6690,6 @@ reliable-udp
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
-rendering
-^^^^^^^^^
-
-* `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
-
 requests
 ^^^^^^^^
 
@@ -7104,11 +6717,6 @@ result-builder
 
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 
-result-type
-^^^^^^^^^^^
-
-* `pointfreeco/swift-validated <https://github.com/pointfreeco/swift-validated>`_
-
 reverse
 ^^^^^^^
 
@@ -7128,12 +6736,6 @@ reverse-proxy
 
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
-
-reversible
-^^^^^^^^^^
-
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
 
 revoke
 ^^^^^^
@@ -7238,14 +6840,6 @@ router
 
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
-
-routing
-^^^^^^^
-
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
 
 rss
 ^^^
@@ -7471,11 +7065,6 @@ screenshot
 
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
 
-screenshot-testing
-^^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-
 script-runner
 ^^^^^^^^^^^^^
 
@@ -7550,11 +7139,6 @@ sensei
 
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
-sequence
-^^^^^^^^
-
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-
 serde
 ^^^^^
 
@@ -7569,24 +7153,16 @@ serialization
 server
 ^^^^^^
 
-* `apple/swift-configuration <https://github.com/apple/swift-configuration>`_
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `ergochat/ergo <https://github.com/ergochat/ergo>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 
 server-side-swift
 ^^^^^^^^^^^^^^^^^
 
-* `apple/swift-cluster-membership <https://github.com/apple/swift-cluster-membership>`_
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
-* `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
-* `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 
 service-discovery
 ^^^^^^^^^^^^^^^^^
@@ -7780,12 +7356,6 @@ smtp
 
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 
-snapshot-testing
-^^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
-* `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-
 socks5
 ^^^^^^
 
@@ -7805,11 +7375,6 @@ software-management
 ^^^^^^^^^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
-
-software-quality
-^^^^^^^^^^^^^^^^
-
-* `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 
 software-supply-chain
 ^^^^^^^^^^^^^^^^^^^^^
@@ -7854,8 +7419,6 @@ sql
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
 
 sql-editor
 ^^^^^^^^^^
@@ -7869,7 +7432,6 @@ sqlite
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
 
 sre
@@ -7902,11 +7464,6 @@ ssse3
 ^^^^^
 
 * `coregx/coregex <https://github.com/coregx/coregex>`_
-
-sswg
-^^^^
-
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
 
 standalone
 ^^^^^^^^^^
@@ -8021,11 +7578,6 @@ struct-alignment
 
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 
-structured-fields
-^^^^^^^^^^^^^^^^^
-
-* `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
-
 sttextview
 ^^^^^^^^^^
 
@@ -8124,18 +7676,6 @@ swift
 * `VergeGroup/swift-state-graph <https://github.com/VergeGroup/swift-state-graph>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
-* `apple/swift-asn1 <https://github.com/apple/swift-asn1>`_
-* `apple/swift-async-algorithms <https://github.com/apple/swift-async-algorithms>`_
-* `apple/swift-certificates <https://github.com/apple/swift-certificates>`_
-* `apple/swift-cluster-membership <https://github.com/apple/swift-cluster-membership>`_
-* `apple/swift-configuration <https://github.com/apple/swift-configuration>`_
-* `apple/swift-distributed-actors <https://github.com/apple/swift-distributed-actors>`_
-* `apple/swift-distributed-tracing <https://github.com/apple/swift-distributed-tracing>`_
-* `apple/swift-homomorphic-encryption <https://github.com/apple/swift-homomorphic-encryption>`_
-* `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
-* `apple/swift-mmio <https://github.com/apple/swift-mmio>`_
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
@@ -8175,14 +7715,6 @@ swift
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
-* `pointfreeco/swift-case-paths <https://github.com/pointfreeco/swift-case-paths>`_
-* `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
-* `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
-* `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
-* `pointfreeco/swift-nonempty <https://github.com/pointfreeco/swift-nonempty>`_
-* `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
-* `pointfreeco/swift-tagged <https://github.com/pointfreeco/swift-tagged>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -8190,8 +7722,6 @@ swift
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
-* `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
@@ -8199,7 +7729,6 @@ swift
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 
 swift-5
 ^^^^^^^
@@ -8211,11 +7740,6 @@ swift-camera
 ^^^^^^^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-
-swift-composable-architecture
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-identified-collections <https://github.com/pointfreeco/swift-identified-collections>`_
 
 swift-concurrency
 ^^^^^^^^^^^^^^^^^
@@ -8233,18 +7757,12 @@ swift-macros
 
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
-* `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 
 swift-nio
 ^^^^^^^^^
 
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
-
-swift-on-server
-^^^^^^^^^^^^^^^
-
-* `apple/swift-cluster-membership <https://github.com/apple/swift-cluster-membership>`_
 
 swift-package
 ^^^^^^^^^^^^^
@@ -8269,7 +7787,6 @@ swift-package-manager
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
 
 swift-package-manager-plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -8279,10 +7796,6 @@ swift-package-manager-plugin
 swift-server
 ^^^^^^^^^^^^
 
-* `apple/swift-log <https://github.com/apple/swift-log>`_
-* `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
 
 swift3
@@ -8299,10 +7812,6 @@ swift5
 ^^^^^^
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-* `apple/swift-nio-extras <https://github.com/apple/swift-nio-extras>`_
-* `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
-* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
@@ -8317,7 +7826,6 @@ swiftdata
 
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 
 swiftmacros
 ^^^^^^^^^^^
@@ -8328,14 +7836,6 @@ swiftmath
 ^^^^^^^^^
 
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
-
-swiftnio
-^^^^^^^^
-
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-* `apple/swift-nio-extras <https://github.com/apple/swift-nio-extras>`_
-* `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
-* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 
 swiftpackage
 ^^^^^^^^^^^^
@@ -8386,10 +7886,6 @@ swiftui
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
-* `pointfreeco/swift-identified-collections <https://github.com/pointfreeco/swift-identified-collections>`_
-* `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
 * `robb/Redline <https://github.com/robb/Redline>`_
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
@@ -8451,8 +7947,6 @@ sync-files
 synchronization
 ^^^^^^^^^^^^^^^
 
-* `apple/swift-atomics <https://github.com/apple/swift-atomics>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 
@@ -8465,11 +7959,6 @@ sysadmin
 ^^^^^^^^
 
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
-
-system
-^^^^^^
-
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
 
 system-cleaner
 ^^^^^^^^^^^^^^
@@ -8505,11 +7994,6 @@ tableview
 ^^^^^^^^^
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
-
-tagged-types
-^^^^^^^^^^^^
-
-* `pointfreeco/swift-tagged <https://github.com/pointfreeco/swift-tagged>`_
 
 tags
 ^^^^
@@ -8618,11 +8102,6 @@ test
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 
-testability
-^^^^^^^^^^^
-
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
-
 testflight
 ^^^^^^^^^^
 
@@ -8633,13 +8112,7 @@ testing
 
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `l2beat/earl <https://github.com/l2beat/earl>`_
-* `pointfreeco/combine-schedulers <https://github.com/pointfreeco/combine-schedulers>`_
-* `pointfreeco/swift-custom-dump <https://github.com/pointfreeco/swift-custom-dump>`_
-* `pointfreeco/swift-gen <https://github.com/pointfreeco/swift-gen>`_
-* `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
-* `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
-* `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 
 testing-tools
@@ -8740,14 +8213,8 @@ timezone
 tls
 ^^^
 
-* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
-
-tls-support
-^^^^^^^^^^^
-
-* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
 
 tokio
 ^^^^^
@@ -8780,21 +8247,6 @@ touchid
 ^^^^^^^
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
-
-trace-context
-^^^^^^^^^^^^^
-
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
-
-tracing
-^^^^^^^
-
-* `apple/swift-distributed-tracing <https://github.com/apple/swift-distributed-tracing>`_
-
-transformation
-^^^^^^^^^^^^^^
-
-* `pointfreeco/swift-gen <https://github.com/pointfreeco/swift-gen>`_
 
 transformer
 ^^^^^^^^^^^
@@ -8841,11 +8293,6 @@ trickystore
 ^^^^^^^^^^^
 
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
-
-trig
-^^^^
-
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
 
 trollstore
 ^^^^^^^^^^
@@ -8934,13 +8381,10 @@ type-safe
 ^^^^^^^^^
 
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
 
 type-safety
 ^^^^^^^^^^^
 
-* `pointfreeco/swift-nonempty <https://github.com/pointfreeco/swift-nonempty>`_
-* `pointfreeco/swift-tagged <https://github.com/pointfreeco/swift-tagged>`_
 * `sindresorhus/Percentage <https://github.com/sindresorhus/Percentage>`_
 
 typecheck
@@ -9077,7 +8521,6 @@ uikit
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 
 uitest
@@ -9131,7 +8574,6 @@ unit-testing
 ^^^^^^^^^^^^
 
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
-* `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
 
 universal
 ^^^^^^^^^
@@ -9188,7 +8630,6 @@ userdefaults
 ^^^^^^^^^^^^
 
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
-* `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 
 userscript
@@ -9252,7 +8693,6 @@ validation
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
-* `pointfreeco/swift-validated <https://github.com/pointfreeco/swift-validated>`_
 
 validator
 ^^^^^^^^^
@@ -9263,9 +8703,6 @@ vapor
 ^^^^^
 
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
-* `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 
 variable-font
 ^^^^^^^^^^^^^
@@ -9544,7 +8981,6 @@ web-framework
 
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
 
 web-server
 ^^^^^^^^^^
@@ -9723,11 +9159,6 @@ wwdc26
 ^^^^^^
 
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
-
-x509
-^^^^
-
-* `apple/swift-certificates <https://github.com/apple/swift-certificates>`_
 
 xcode
 ^^^^^

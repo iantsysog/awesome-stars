@@ -1,15 +1,239 @@
 List
 ====
 
-LANG:  Cangjie
+APP: Minecraft
 ^^^^^^^^^^^^^^
 
-* `cjbind/cjbind <https://github.com/cjbind/cjbind>`_
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
+* `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
+* `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
-LANG: C/C++
+APP: Miscellaneous
+^^^^^^^^^^^^^^^^^^
+
+* `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
+* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
+* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
+* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+* `anchore/syft <https://github.com/anchore/syft>`_
+* `anomalyco/rift <https://github.com/anomalyco/rift>`_
+* `apple/pkl <https://github.com/apple/pkl>`_
+* `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
+* `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
+* `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
+* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
+* `facebook/sapling <https://github.com/facebook/sapling>`_
+* `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
+* `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
+* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
+* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `inikep/lzbench <https://github.com/inikep/lzbench>`_
+* `j178/prek <https://github.com/j178/prek>`_
+* `jdx/mise <https://github.com/jdx/mise>`_
+* `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
+* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+* `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `localsend/localsend <https://github.com/localsend/localsend>`_
+* `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
+* `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
+* `ocaml/opam <https://github.com/ocaml/opam>`_
+* `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
+* `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
+* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+* `quoid/userscripts <https://github.com/quoid/userscripts>`_
+* `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
+* `squidowl/halloy <https://github.com/squidowl/halloy>`_
+* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+* `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
+* `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
+* `usebruno/bruno <https://github.com/usebruno/bruno>`_
+* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
+* `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
+* `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
+* `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
+* `zed-industries/zed <https://github.com/zed-industries/zed>`_
+
+APP: Zotero
 ^^^^^^^^^^^
 
+* `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
+* `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
+* `syt2/zotero-addons <https://github.com/syt2/zotero-addons>`_
+* `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
+* `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
+
+DOMAIN: Game
+^^^^^^^^^^^^
+
+* `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
+* `EpicGames/lore <https://github.com/EpicGames/lore>`_
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
+* `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
+* `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
+* `louis-e/arnis <https://github.com/louis-e/arnis>`_
+* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
+* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
+* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
+
+DOMAIN: IME
+^^^^^^^^^^^
+
+* `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
+* `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
+* `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
+* `iDvel/rime-ice <https://github.com/iDvel/rime-ice>`_
+* `rime/squirrel <https://github.com/rime/squirrel>`_
+* `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
+* `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+
+DOMAIN: Ledger
+^^^^^^^^^^^^^^
+
+* `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
+* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
+* `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
+
+DOMAIN: Network
+^^^^^^^^^^^^^^^
+
+* `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
+* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
+* `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
+* `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
+* `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
+* `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
+* `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+* `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
+* `go-gost/x <https://github.com/go-gost/x>`_
+* `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
+* `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
+* `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
+* `orris-inc/orris <https://github.com/orris-inc/orris>`_
+
+DOMAIN: Shell
+^^^^^^^^^^^^^
+
+* `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
+* `elves/elvish <https://github.com/elves/elvish>`_
+* `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
+* `mvdan/sh <https://github.com/mvdan/sh>`_
+* `nushell/nushell <https://github.com/nushell/nushell>`_
+* `starship/starship <https://github.com/starship/starship>`_
+
+DOMAIN: Typography
+^^^^^^^^^^^^^^^^^^
+
+* `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
+* `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
+* `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
+* `d2lang/d2 <https://github.com/d2lang/d2>`_
+* `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
+* `latex3/latex3 <https://github.com/latex3/latex3>`_
+* `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
+* `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
+* `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+* `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
+* `zotero/zotero <https://github.com/zotero/zotero>`_
+
+DOMAIN: VPS / VDS
+^^^^^^^^^^^^^^^^^
+
+* `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
+* `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
+* `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
+* `akazwz/hostc <https://github.com/akazwz/hostc>`_
+* `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
+* `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
+* `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+* `bohanwood/debi <https://github.com/bohanwood/debi>`_
+* `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
+* `denoland/celld <https://github.com/denoland/celld>`_
+* `devld/go-drive <https://github.com/devld/go-drive>`_
+* `ergochat/ergo <https://github.com/ergochat/ergo>`_
+* `go-acme/lego <https://github.com/go-acme/lego>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
+* `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
+* `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
+* `mjl-/mox <https://github.com/mjl-/mox>`_
+* `nginx/nginx <https://github.com/nginx/nginx>`_
+* `obbyworld/obby <https://github.com/obbyworld/obby>`_
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
+* `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
+* `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
+* `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
+* `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+* `umami-software/umami <https://github.com/umami-software/umami>`_
+* `usememos/memos <https://github.com/usememos/memos>`_
+* `useplunk/plunk <https://github.com/useplunk/plunk>`_
+* `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
+* `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
+
+KNOWHOW: Agent
+^^^^^^^^^^^^^^
+
+* `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
+* `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
+* `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
+* `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
+* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+* `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
+* `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
+* `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
+* `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
+* `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
+* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `android/skills <https://github.com/android/skills>`_
+* `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `earendil-works/pi <https://github.com/earendil-works/pi>`_
+* `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
+* `laosb/agentc <https://github.com/laosb/agentc>`_
+* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
+* `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
+* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
+* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
+* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+* `morluto/rea <https://github.com/morluto/rea>`_
+* `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
+
+KNOWHOW: Guidance
+^^^^^^^^^^^^^^^^^
+
+* `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
+* `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
+* `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
+
+LANG: C / C++
+^^^^^^^^^^^^^
+
+* `libffi/libffi <https://github.com/libffi/libffi>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
+
+LANG: Cangjie
+^^^^^^^^^^^^^
+
+* `cjbind/cjbind <https://github.com/cjbind/cjbind>`_
 
 LANG: Go
 ^^^^^^^^
@@ -197,94 +421,6 @@ LANG: Swift
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
 * `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 
-LANG: Swift (Apple / Swift)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `apple/container <https://github.com/apple/container>`_
-* `apple/coreai-models <https://github.com/apple/coreai-models>`_
-* `apple/pkl-swift <https://github.com/apple/pkl-swift>`_
-* `apple/swift-algorithms <https://github.com/apple/swift-algorithms>`_
-* `apple/swift-argument-parser <https://github.com/apple/swift-argument-parser>`_
-* `apple/swift-asn1 <https://github.com/apple/swift-asn1>`_
-* `apple/swift-async-algorithms <https://github.com/apple/swift-async-algorithms>`_
-* `apple/swift-async-dns-resolver <https://github.com/apple/swift-async-dns-resolver>`_
-* `apple/swift-atomics <https://github.com/apple/swift-atomics>`_
-* `apple/swift-binary-parsing <https://github.com/apple/swift-binary-parsing>`_
-* `apple/swift-certificates <https://github.com/apple/swift-certificates>`_
-* `apple/swift-cluster-membership <https://github.com/apple/swift-cluster-membership>`_
-* `apple/swift-collections <https://github.com/apple/swift-collections>`_
-* `apple/swift-configuration <https://github.com/apple/swift-configuration>`_
-* `apple/swift-distributed-actors <https://github.com/apple/swift-distributed-actors>`_
-* `apple/swift-distributed-tracing <https://github.com/apple/swift-distributed-tracing>`_
-* `apple/swift-homomorphic-encryption <https://github.com/apple/swift-homomorphic-encryption>`_
-* `apple/swift-http-structured-headers <https://github.com/apple/swift-http-structured-headers>`_
-* `apple/swift-http-types <https://github.com/apple/swift-http-types>`_
-* `apple/swift-llbuild2 <https://github.com/apple/swift-llbuild2>`_
-* `apple/swift-log <https://github.com/apple/swift-log>`_
-* `apple/swift-metrics <https://github.com/apple/swift-metrics>`_
-* `apple/swift-mmio <https://github.com/apple/swift-mmio>`_
-* `apple/swift-nio <https://github.com/apple/swift-nio>`_
-* `apple/swift-nio-extras <https://github.com/apple/swift-nio-extras>`_
-* `apple/swift-nio-http2 <https://github.com/apple/swift-nio-http2>`_
-* `apple/swift-nio-imap <https://github.com/apple/swift-nio-imap>`_
-* `apple/swift-nio-oblivious-http <https://github.com/apple/swift-nio-oblivious-http>`_
-* `apple/swift-nio-ssh <https://github.com/apple/swift-nio-ssh>`_
-* `apple/swift-nio-ssl <https://github.com/apple/swift-nio-ssl>`_
-* `apple/swift-nio-transport-services <https://github.com/apple/swift-nio-transport-services>`_
-* `apple/swift-ntp <https://github.com/apple/swift-ntp>`_
-* `apple/swift-numerics <https://github.com/apple/swift-numerics>`_
-* `apple/swift-profile-recorder <https://github.com/apple/swift-profile-recorder>`_
-* `apple/swift-service-context <https://github.com/apple/swift-service-context>`_
-* `apple/swift-service-discovery <https://github.com/apple/swift-service-discovery>`_
-* `apple/swift-statsd-client <https://github.com/apple/swift-statsd-client>`_
-* `apple/swift-system <https://github.com/apple/swift-system>`_
-* `apple/swift-system-metrics <https://github.com/apple/swift-system-metrics>`_
-* `apple/swift-tls <https://github.com/apple/swift-tls>`_
-* `apple/xcode-project-format <https://github.com/apple/xcode-project-format>`_
-* `swiftlang/swift-build <https://github.com/swiftlang/swift-build>`_
-* `swiftlang/swift-corelibs-foundation <https://github.com/swiftlang/swift-corelibs-foundation>`_
-* `swiftlang/swift-driver <https://github.com/swiftlang/swift-driver>`_
-* `swiftlang/swift-evolution <https://github.com/swiftlang/swift-evolution>`_
-* `swiftlang/swift-experimental-string-processing <https://github.com/swiftlang/swift-experimental-string-processing>`_
-* `swiftlang/swift-format <https://github.com/swiftlang/swift-format>`_
-* `swiftlang/swift-foundation <https://github.com/swiftlang/swift-foundation>`_
-* `swiftlang/swift-markdown <https://github.com/swiftlang/swift-markdown>`_
-* `swiftlang/swift-package-manager <https://github.com/swiftlang/swift-package-manager>`_
-* `swiftlang/swift-subprocess <https://github.com/swiftlang/swift-subprocess>`_
-* `swiftlang/swift-syntax <https://github.com/swiftlang/swift-syntax>`_
-* `swiftlang/swift-testing <https://github.com/swiftlang/swift-testing>`_
-* `vapor/vapor <https://github.com/vapor/vapor>`_
-
-LANG: Swift (Point-Free)
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `pointfreeco/combine-schedulers <https://github.com/pointfreeco/combine-schedulers>`_
-* `pointfreeco/composable-core-motion <https://github.com/pointfreeco/composable-core-motion>`_
-* `pointfreeco/episode-code-samples <https://github.com/pointfreeco/episode-code-samples>`_
-* `pointfreeco/sqlite-data <https://github.com/pointfreeco/sqlite-data>`_
-* `pointfreeco/swift-case-paths <https://github.com/pointfreeco/swift-case-paths>`_
-* `pointfreeco/swift-composable-architecture <https://github.com/pointfreeco/swift-composable-architecture>`_
-* `pointfreeco/swift-concurrency-extras <https://github.com/pointfreeco/swift-concurrency-extras>`_
-* `pointfreeco/swift-custom-dump <https://github.com/pointfreeco/swift-custom-dump>`_
-* `pointfreeco/swift-dependencies <https://github.com/pointfreeco/swift-dependencies>`_
-* `pointfreeco/swift-gen <https://github.com/pointfreeco/swift-gen>`_
-* `pointfreeco/swift-html <https://github.com/pointfreeco/swift-html>`_
-* `pointfreeco/swift-html-vapor <https://github.com/pointfreeco/swift-html-vapor>`_
-* `pointfreeco/swift-identified-collections <https://github.com/pointfreeco/swift-identified-collections>`_
-* `pointfreeco/swift-macro-testing <https://github.com/pointfreeco/swift-macro-testing>`_
-* `pointfreeco/swift-navigation <https://github.com/pointfreeco/swift-navigation>`_
-* `pointfreeco/swift-nonempty <https://github.com/pointfreeco/swift-nonempty>`_
-* `pointfreeco/swift-overture <https://github.com/pointfreeco/swift-overture>`_
-* `pointfreeco/swift-parsing <https://github.com/pointfreeco/swift-parsing>`_
-* `pointfreeco/swift-perception <https://github.com/pointfreeco/swift-perception>`_
-* `pointfreeco/swift-sharing <https://github.com/pointfreeco/swift-sharing>`_
-* `pointfreeco/swift-snapshot-testing <https://github.com/pointfreeco/swift-snapshot-testing>`_
-* `pointfreeco/swift-structured-queries <https://github.com/pointfreeco/swift-structured-queries>`_
-* `pointfreeco/swift-tagged <https://github.com/pointfreeco/swift-tagged>`_
-* `pointfreeco/swift-url-routing <https://github.com/pointfreeco/swift-url-routing>`_
-* `pointfreeco/swift-validated <https://github.com/pointfreeco/swift-validated>`_
-* `pointfreeco/vapor-routing <https://github.com/pointfreeco/vapor-routing>`_
-
 LANG: TypeScript / JavaScript
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -333,62 +469,6 @@ LANG: Zig
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
-PLAT: Game
-^^^^^^^^^^
-
-* `ra2-games/ra2 <https://github.com/ra2-games/ra2>`_
-* `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
-
-PLAT: Minecraft
-^^^^^^^^^^^^^^^
-
-* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
-* `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
-* `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
-* `louis-e/arnis <https://github.com/louis-e/arnis>`_
-
-PLAT: Shell
-^^^^^^^^^^^
-
-* `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
-* `elves/elvish <https://github.com/elves/elvish>`_
-* `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
-* `mvdan/sh <https://github.com/mvdan/sh>`_
-* `nushell/nushell <https://github.com/nushell/nushell>`_
-* `starship/starship <https://github.com/starship/starship>`_
-
-PLAT: Typography
-^^^^^^^^^^^^^^^^
-
-* `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
-* `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
-* `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
-* `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
-* `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
-* `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
-* `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
-* `latex3/latex3 <https://github.com/latex3/latex3>`_
-* `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
-* `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
-* `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
-
-PLAT: Zotero
-^^^^^^^^^^^^
-
-* `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
-* `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
-* `syt2/zotero-addons <https://github.com/syt2/zotero-addons>`_
-* `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
-* `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
-
-RES: Guidance
-^^^^^^^^^^^^^
-
-* `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
-* `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
-* `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
-
 SYS: Android
 ^^^^^^^^^^^^
 
@@ -429,6 +509,7 @@ SYS: Android
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
+* `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
@@ -484,104 +565,42 @@ SYS: Android
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
-SYS: General
-^^^^^^^^^^^^
-
-* `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
-* `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
-* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
-* `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
-* `EpicGames/lore <https://github.com/EpicGames/lore>`_
-* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
-* `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
-* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
-* `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
-* `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
-* `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
-* `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
-* `anchore/syft <https://github.com/anchore/syft>`_
-* `anomalyco/rift <https://github.com/anomalyco/rift>`_
-* `apple/pkl <https://github.com/apple/pkl>`_
-* `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
-* `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
-* `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
-* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
-* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
-* `d2lang/d2 <https://github.com/d2lang/d2>`_
-* `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
-* `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
-* `facebook/sapling <https://github.com/facebook/sapling>`_
-* `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
-* `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
-* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
-* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
-* `iDvel/rime-ice <https://github.com/iDvel/rime-ice>`_
-* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
-* `inikep/lzbench <https://github.com/inikep/lzbench>`_
-* `j178/prek <https://github.com/j178/prek>`_
-* `jdx/mise <https://github.com/jdx/mise>`_
-* `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
-* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
-* `libffi/libffi <https://github.com/libffi/libffi>`_
-* `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
-* `localsend/localsend <https://github.com/localsend/localsend>`_
-* `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
-* `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
-* `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
-* `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
-* `obbyworld/obby <https://github.com/obbyworld/obby>`_
-* `ocaml/opam <https://github.com/ocaml/opam>`_
-* `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
-* `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
-* `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
-* `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
-* `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
-* `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
-* `squidowl/halloy <https://github.com/squidowl/halloy>`_
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-* `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
-* `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
-* `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
-* `usebruno/bruno <https://github.com/usebruno/bruno>`_
-* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
-* `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
-* `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
-* `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
-* `zed-industries/zed <https://github.com/zed-industries/zed>`_
-* `zotero/zotero <https://github.com/zotero/zotero>`_
-
 SYS: Linux
 ^^^^^^^^^^
 
-* `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
-* `lgse/strata <https://github.com/lgse/strata>`_
-* `lyricat/inua <https://github.com/lyricat/inua>`_
-
-SYS: POSIX
-^^^^^^^^^^
-
-* `abiosoft/colima <https://github.com/abiosoft/colima>`_
-* `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
-
-SYS: VPS
-^^^^^^^^
-
+* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
+* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `devld/go-drive <https://github.com/devld/go-drive>`_
+* `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
 * `ergochat/ergo <https://github.com/ergochat/ergo>`_
+* `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
+* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
+* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `lgse/strata <https://github.com/lgse/strata>`_
+* `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `localsend/localsend <https://github.com/localsend/localsend>`_
+* `lyricat/inua <https://github.com/lyricat/inua>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
@@ -591,10 +610,14 @@ SYS: VPS
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
+* `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
+* `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
+* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
+* `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
 
 SYS: Windows
@@ -603,12 +626,29 @@ SYS: Windows
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
+* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
+* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
+* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
+* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `localsend/localsend <https://github.com/localsend/localsend>`_
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
+* `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
+* `usebruno/bruno <https://github.com/usebruno/bruno>`_
+* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
+* `zed-industries/zed <https://github.com/zed-industries/zed>`_
 
 SYS: iOS
 ^^^^^^^^
@@ -620,8 +660,10 @@ SYS: iOS
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `claration/feather <https://github.com/claration/feather>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
+* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
+* `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
@@ -632,7 +674,10 @@ SYS: macOS
 * `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
 * `Lakr233/Asspp <https://github.com/Lakr233/Asspp>`_
 * `Lakr233/BBackupp <https://github.com/Lakr233/BBackupp>`_
@@ -645,11 +690,13 @@ SYS: macOS
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
+* `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
@@ -657,17 +704,27 @@ SYS: macOS
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
+* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `f/textream <https://github.com/f/textream>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
+* `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
+* `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
+* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `iina/iina <https://github.com/iina/iina>`_
+* `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `localsend/localsend <https://github.com/localsend/localsend>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
@@ -688,12 +745,15 @@ SYS: macOS
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
-* `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+* `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 * `unixzii/SimRun <https://github.com/unixzii/SimRun>`_
+* `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+* `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
+* `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_
 
 SYS: tvOS
@@ -701,57 +761,3 @@ SYS: tvOS
 
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
-
-UTILS: Agent
-^^^^^^^^^^^^
-
-* `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
-* `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-* `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
-* `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
-* `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
-* `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
-* `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
-* `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
-* `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
-* `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
-* `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
-* `android/skills <https://github.com/android/skills>`_
-* `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
-* `earendil-works/pi <https://github.com/earendil-works/pi>`_
-* `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
-* `laosb/agentc <https://github.com/laosb/agentc>`_
-* `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
-* `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
-* `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
-* `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
-* `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
-* `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
-* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
-* `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
-* `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
-
-UTILS: Entry
-^^^^^^^^^^^^
-
-* `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
-* `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
-* `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
-
-UTILS: Network
-^^^^^^^^^^^^^^
-
-* `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
-* `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
-* `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
-* `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
-* `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
-* `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
-* `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
-* `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
-* `go-gost/x <https://github.com/go-gost/x>`_
-* `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
-* `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
-* `orris-inc/orris <https://github.com/orris-inc/orris>`_
