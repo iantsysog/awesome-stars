@@ -49,6 +49,7 @@ C++
 
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
+* `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
@@ -674,7 +675,6 @@ TypeScript
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_

@@ -217,7 +217,6 @@ KNOWHOW: Agent
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
 KNOWHOW: Guidance
@@ -510,6 +509,7 @@ PLAT: Android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+* `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_

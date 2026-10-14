@@ -56,6 +56,7 @@ Others
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+* `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
@@ -289,11 +290,6 @@ agent
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
-agent-skills
-^^^^^^^^^^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
-
 agentic-ai
 ^^^^^^^^^^
 
@@ -319,7 +315,6 @@ ai-agents
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 ai-arena
 ^^^^^^^^
@@ -1042,11 +1037,6 @@ binary
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
-binary-analysis
-^^^^^^^^^^^^^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
-
 binaural
 ^^^^^^^^
 
@@ -1461,7 +1451,6 @@ claude-code
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 clean
 ^^^^^
@@ -1499,7 +1488,6 @@ cli
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -1642,7 +1630,6 @@ codex
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 coding-agent
 ^^^^^^^^^^^^
@@ -1913,11 +1900,6 @@ conversational-awareness
 
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 
-cordis
-^^^^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
-
 core-data
 ^^^^^^^^^
 
@@ -2041,7 +2023,6 @@ ctex
 ctf
 ^^^
 
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 cups
@@ -2198,7 +2179,6 @@ decompiler
 ^^^^^^^^^^
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 decompression
 ^^^^^^^^^^^^^
@@ -2307,7 +2287,6 @@ developer-tools
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -2366,11 +2345,6 @@ diffing
 ^^^^^^^
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
-
-disassembler
-^^^^^^^^^^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 disk-space
 ^^^^^^^^^^
@@ -2539,16 +2513,10 @@ driverstore
 
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 
-dsh
-^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
-
 dsh-plugin
 ^^^^^^^^^^
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 dune-2000
 ^^^^^^^^^
@@ -3133,11 +3101,6 @@ gh-pages
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
-ghidra
-^^^^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
-
 git
 ^^^
 
@@ -3504,11 +3467,6 @@ homelab
 ^^^^^^^
 
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
-
-hopper
-^^^^^^
-
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 hosting
 ^^^^^^^
@@ -4544,7 +4502,6 @@ llm
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 llm-inference
 ^^^^^^^^^^^^^
@@ -5029,7 +4986,6 @@ mcp
 ^^^
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 md3
 ^^^
@@ -5242,7 +5198,6 @@ model-context-protocol
 ^^^^^^^^^^^^^^^^^^^^^^
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 
 modernbert
 ^^^^^^^^^^
@@ -6728,7 +6683,6 @@ reverse-engineering
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 reverse-proxy
@@ -7505,7 +7459,6 @@ static-analysis
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
-* `morluto/rea <https://github.com/morluto/rea>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
 static-code-analysis
