@@ -27,6 +27,7 @@ Others
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
+* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
@@ -138,6 +139,7 @@ Others
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
+* `lingqiqi5211/CrashCatcher <https://github.com/lingqiqi5211/CrashCatcher>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
@@ -180,6 +182,7 @@ Others
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
+* `suqi8/coui <https://github.com/suqi8/coui>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
@@ -214,6 +217,11 @@ aboutlibraries
 ^^^^^^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
+accent-color
+^^^^^^^^^^^^
+
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 
 accessibility
 ^^^^^^^^^^^^^
@@ -454,6 +462,9 @@ android
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
+* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
+* `Dr-TSNG/altdb <https://github.com/Dr-TSNG/altdb>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -1672,11 +1683,27 @@ color-difference
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 
+color-scheme
+^^^^^^^^^^^^
+
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
+
 coloros
 ^^^^^^^
 
 * `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+
+coloros-16
+^^^^^^^^^^
+
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+
+coloros-17
+^^^^^^^^^^
+
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 combine
 ^^^^^^^
@@ -4158,6 +4185,7 @@ kernelsu
 ^^^^^^^^
 
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
+* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
@@ -4166,6 +4194,7 @@ kernelsu
 kernelsu-module
 ^^^^^^^^^^^^^^^
 
+* `Dr-TSNG/altdb <https://github.com/Dr-TSNG/altdb>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
@@ -4582,6 +4611,7 @@ lsposed
 lsposed-module
 ^^^^^^^^^^^^^^
 
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 
 lsposeed
@@ -4823,6 +4853,7 @@ magisk
 ^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
@@ -4908,6 +4939,11 @@ massgravel
 ^^^^^^^^^^
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
+
+material
+^^^^^^^^
+
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 
 material-3-expressive
 ^^^^^^^^^^^^^^^^^^^^^
@@ -5694,6 +5730,7 @@ oneplus
 
 * `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 online-store
 ^^^^^^^^^^^^
@@ -5802,6 +5839,11 @@ openwrt
 ^^^^^^^
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
+
+oppo
+^^^^
+
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 ops
 ^^^
@@ -6584,6 +6626,11 @@ real-time-strategy
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
+realme
+^^^^^^
+
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+
 recursor
 ^^^^^^^^
 
@@ -6773,6 +6820,7 @@ root
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
@@ -6956,6 +7004,11 @@ sass
 ^^^^
 
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
+
+saturation
+^^^^^^^^^^
+
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 
 satysfi
 ^^^^^^^
@@ -8133,6 +8186,11 @@ theme
 
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 
+theme-ui
+^^^^^^^^
+
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
+
 thorium-browser
 ^^^^^^^^^^^^^^^
 
@@ -9160,6 +9218,7 @@ xml
 xposed
 ^^^^^^
 
+* `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
@@ -9172,6 +9231,7 @@ xposed-module
 
 * `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 xposedmodule

@@ -18,6 +18,7 @@ C
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
@@ -192,6 +193,7 @@ Kotlin
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
 * `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
@@ -202,7 +204,9 @@ Kotlin
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
@@ -213,6 +217,7 @@ Kotlin
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
+* `android/skills <https://github.com/android/skills>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
@@ -238,6 +243,7 @@ Kotlin
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `suqi8/coui <https://github.com/suqi8/coui>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 * `whyorean/AuroraStore <https://github.com/whyorean/AuroraStore>`_
@@ -337,7 +343,6 @@ Python
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
-* `android/skills <https://github.com/android/skills>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
@@ -382,6 +387,8 @@ Rust
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
+* `Dr-TSNG/altdb <https://github.com/Dr-TSNG/altdb>`_
+* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `EpicGames/lore <https://github.com/EpicGames/lore>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
@@ -417,6 +424,7 @@ Rust
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 * `lgse/strata <https://github.com/lgse/strata>`_
+* `lingqiqi5211/CrashCatcher <https://github.com/lingqiqi5211/CrashCatcher>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_

@@ -272,6 +272,7 @@ LANG: Kotlin / Java
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
+* `suqi8/coui <https://github.com/suqi8/coui>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
 LANG: Lua
@@ -488,6 +489,10 @@ PLAT: Android
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
+* `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
+* `Dr-TSNG/altdb <https://github.com/Dr-TSNG/altdb>`_
+* `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
@@ -504,7 +509,9 @@ PLAT: Android
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
+* `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
+* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
@@ -550,6 +557,7 @@ PLAT: Android
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `lingqiqi5211/CrashCatcher <https://github.com/lingqiqi5211/CrashCatcher>`_
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
