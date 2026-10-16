@@ -129,6 +129,7 @@ HTML
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
+* `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
 
 Haskell
 ^^^^^^^
@@ -170,6 +171,7 @@ JavaScript
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
@@ -272,6 +274,11 @@ Markdown
 ^^^^^^^^
 
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+
+Nim
+^^^
+
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 Nushell
 ^^^^^^^
@@ -563,6 +570,7 @@ Swift
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
@@ -668,6 +676,7 @@ TypeScript
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `honojs/hono <https://github.com/honojs/hono>`_

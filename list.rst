@@ -47,8 +47,10 @@ APP: Miscellaneous
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
+* `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 APP: Zotero
 ^^^^^^^^^^^
@@ -207,6 +209,7 @@ KNOWHOW: Agent
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
@@ -538,6 +541,7 @@ PLAT: Android
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+* `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
@@ -731,6 +735,7 @@ PLAT: macOS
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_

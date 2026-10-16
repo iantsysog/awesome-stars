@@ -92,6 +92,7 @@ Others
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
+* `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
@@ -198,6 +199,7 @@ Others
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
 * `whyorean/AuroraStore <https://github.com/whyorean/AuroraStore>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
+* `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
 * `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
@@ -1244,6 +1246,11 @@ c99
 ^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+
+cache-cleaner
+^^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 
 caching
 ^^^^^^^
@@ -2311,6 +2318,7 @@ developer-tools
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
@@ -2372,6 +2380,11 @@ diffing
 ^^^^^^^
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
+
+disk-cleanup
+^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 
 disk-space
 ^^^^^^^^^^
@@ -2987,10 +3000,20 @@ fragments
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
+free-disk-space
+^^^^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
 free-software
 ^^^^^^^^^^^^^
 
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
+
+free-space
+^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 
 fresh
 ^^^^^
@@ -4123,6 +4146,21 @@ jsx
 
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 
+junk-cleaner
+^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
+junk-removal
+^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
+junk-remover
+^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
 jvm
 ^^^
 
@@ -4688,6 +4726,11 @@ mac-catalyst
 
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 
+mac-cleaner
+^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
 mac-mini
 ^^^^^^^^
 
@@ -4810,6 +4853,7 @@ macos-app
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
@@ -5021,7 +5065,13 @@ maven
 mcp
 ^^^
 
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+
+mcp-server
+^^^^^^^^^^
+
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 
 md3
 ^^^
@@ -5233,7 +5283,13 @@ mocha
 model-context-protocol
 ^^^^^^^^^^^^^^^^^^^^^^
 
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+
+model-context-protocol-servers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 
 modernbert
 ^^^^^^^^^^
@@ -5474,6 +5530,11 @@ ngrok-alternative
 ^^^^^^^^^^^^^^^^^
 
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
+
+nim
+^^^
+
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 nits
 ^^^^
@@ -5751,6 +5812,7 @@ open-source
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
@@ -6278,6 +6340,7 @@ privacy
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 privacy-protection
 ^^^^^^^^^^^^^^^^^^
@@ -7124,6 +7187,7 @@ self-hosted
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 self-updating
 ^^^^^^^^^^^^^
@@ -7557,6 +7621,11 @@ storage
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
 
+storage-manager
+^^^^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
 strategy-game
 ^^^^^^^^^^^^^
 
@@ -7882,6 +7951,7 @@ swiftui
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
@@ -8001,6 +8071,11 @@ tableview
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
 
+tag-non-production
+^^^^^^^^^^^^^^^^^^
+
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
+
 tags
 ^^^^
 
@@ -8088,6 +8163,11 @@ tee
 ^^^
 
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
+
+telegram-cleanup
+^^^^^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 
 templates
 ^^^^^^^^^
@@ -8357,6 +8437,11 @@ twisted
 ^^^^^^^
 
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
+
+twitter
+^^^^^^^
+
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 type
 ^^^^
@@ -9122,6 +9207,7 @@ windows
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 windows-10
 ^^^^^^^^^^
@@ -9171,11 +9257,17 @@ wwdc26
 
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 
+x
+^
+
+* `zedeus/nitter <https://github.com/zedeus/nitter>`_
+
 xcode
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
@@ -9185,10 +9277,20 @@ xcode
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
 
+xcode-cleaner
+^^^^^^^^^^^^^
+
+* `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+
 xcode-releases
 ^^^^^^^^^^^^^^
 
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+
+xcodebuild
+^^^^^^^^^^
+
+* `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 
 xcodeproj
 ^^^^^^^^^
