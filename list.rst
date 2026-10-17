@@ -110,6 +110,7 @@ DOMAIN: Network
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 
 DOMAIN: Security
@@ -218,7 +219,6 @@ KNOWHOW: Agent
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
-* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
@@ -434,6 +434,7 @@ LANG: TypeScript / JavaScript
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
+* `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
@@ -672,7 +673,6 @@ PLAT: iOS
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
-* `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `claration/feather <https://github.com/claration/feather>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_

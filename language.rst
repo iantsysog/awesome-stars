@@ -110,10 +110,10 @@ Go
 * `go-task/task <https://github.com/go-task/task>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
-* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -538,7 +538,6 @@ Swift
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
-* `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
@@ -666,6 +665,7 @@ TypeScript
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_

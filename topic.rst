@@ -84,7 +84,6 @@ Others
 * `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
-* `altstoreio/AltStore <https://github.com/altstoreio/AltStore>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
@@ -92,6 +91,7 @@ Others
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
+* `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
@@ -147,7 +147,6 @@ Others
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
-* `mhtsec/ARTEX <https://github.com/mhtsec/ARTEX>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
@@ -702,6 +701,7 @@ apple
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -6619,6 +6619,11 @@ raycast-extension
 
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 
+rdp
+^^^
+
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
+
 react
 ^^^^^
 
@@ -6884,6 +6889,7 @@ root
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+* `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
@@ -7124,6 +7130,11 @@ scrcpy
 ^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+
+screen-sharing
+^^^^^^^^^^^^^^
+
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 screenrecording
 ^^^^^^^^^^^^^^^
@@ -8943,6 +8954,11 @@ vm
 ^^
 
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
+
+vnc-viewer
+^^^^^^^^^^
+
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 volume-control
 ^^^^^^^^^^^^^^
