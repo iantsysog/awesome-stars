@@ -26,6 +26,7 @@ C
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
+* `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_

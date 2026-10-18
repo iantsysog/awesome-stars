@@ -141,6 +141,7 @@ Others
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `lingqiqi5211/CrashCatcher <https://github.com/lingqiqi5211/CrashCatcher>`_
+* `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_

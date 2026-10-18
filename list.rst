@@ -109,6 +109,7 @@ DOMAIN: Network
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
+* `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
 * `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
