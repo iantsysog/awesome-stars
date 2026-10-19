@@ -210,6 +210,7 @@ KNOWHOW: Agent
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
@@ -220,6 +221,7 @@ KNOWHOW: Agent
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 

@@ -172,6 +172,7 @@ JavaScript
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
@@ -199,7 +200,6 @@ Kotlin
 * `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
-* `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
@@ -271,11 +271,6 @@ Makefile
 
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
 
-Markdown
-^^^^^^^^
-
-* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-
 Nim
 ^^^
 
@@ -314,6 +309,7 @@ Others
 ^^^^^^
 
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
+* `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
@@ -363,6 +359,7 @@ Python
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
@@ -554,6 +551,7 @@ Swift
 * `davedelong/time <https://github.com/davedelong/time>`_
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_
 * `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `f/textream <https://github.com/f/textream>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_

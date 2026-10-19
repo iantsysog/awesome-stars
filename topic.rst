@@ -670,6 +670,11 @@ app
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 
+app-store
+^^^^^^^^^
+
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+
 app-store-connect
 ^^^^^^^^^^^^^^^^^
 
@@ -719,6 +724,11 @@ apple-music
 
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 
+apple-neural-engine
+^^^^^^^^^^^^^^^^^^^
+
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
+
 apple-pay
 ^^^^^^^^^
 
@@ -727,7 +737,9 @@ apple-pay
 apple-silicon
 ^^^^^^^^^^^^^
 
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 application-manager
@@ -1813,6 +1825,7 @@ compose-multiplatform
 ^^^^^^^^^^^^^^^^^^^^^
 
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 
@@ -1946,6 +1959,11 @@ coredata
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
+
+coreml
+^^^^^^
+
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 
 coreutils
 ^^^^^^^^^
@@ -2188,6 +2206,7 @@ decentralized-application
 decision-model
 ^^^^^^^^^^^^^^
 
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 decoder
@@ -2300,7 +2319,6 @@ desktop
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 dev-tools
 ^^^^^^^^^
@@ -3117,6 +3135,21 @@ gemini-cli
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
+gemma
+^^^^^
+
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+
+gemma4
+^^^^^^
+
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+
+gemma4-26b-a4b
+^^^^^^^^^^^^^^
+
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+
 gen-ui
 ^^^^^^
 
@@ -3183,11 +3216,6 @@ github-api
 
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
-github-app
-^^^^^^^^^^
-
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
-
 github-markdown
 ^^^^^^^^^^^^^^^
 
@@ -3197,11 +3225,6 @@ github-sdk
 ^^^^^^^^^^
 
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
-
-github-store
-^^^^^^^^^^^^
-
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 glsl
 ^^^^
@@ -3285,6 +3308,11 @@ google-drive
 ^^^^^^^^^^^^
 
 * `devld/go-drive <https://github.com/devld/go-drive>`_
+
+gpgpu
+^^^^^
+
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 
 gpl-3
 ^^^^^
@@ -4097,6 +4125,7 @@ jetpack-compose
 
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 jit
 ^^^
@@ -4325,18 +4354,12 @@ kotlin-android
 
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
 kotlin-coroutines
 ^^^^^^^^^^^^^^^^^
 
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
-
-kotlin-desktop
-^^^^^^^^^^^^^^
-
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 kotlin-flow
 ^^^^^^^^^^^
@@ -4420,6 +4443,7 @@ latex3-development
 laya
 ^^^^
 
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 layout
@@ -4568,6 +4592,7 @@ llm
 ^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 
@@ -4575,6 +4600,7 @@ llm-inference
 ^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 
 lm-studio
 ^^^^^^^^^
@@ -4589,6 +4615,8 @@ load-balancer
 local-ai
 ^^^^^^^^
 
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 local-development
@@ -4797,6 +4825,7 @@ macos
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `f/textream <https://github.com/f/textream>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
@@ -4855,7 +4884,6 @@ macos-app
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -5144,6 +5172,7 @@ metal
 ^^^^^
 
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 
 metamodule
@@ -5295,6 +5324,7 @@ model-context-protocol-servers
 modernbert
 ^^^^^^^^^^
 
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 modular
@@ -5780,7 +5810,14 @@ omniphony
 on-device-ai
 ^^^^^^^^^^^^
 
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
+
+on-device-llm
+^^^^^^^^^^^^^
+
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 
 onedrive
 ^^^^^^^^
@@ -5793,11 +5830,6 @@ oneplus
 * `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
-
-online-store
-^^^^^^^^^^^^
-
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 opam
 ^^^^
@@ -5815,14 +5847,8 @@ open-source
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
-
-open-source-project
-^^^^^^^^^^^^^^^^^^^
-
-* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
 openapi
 ^^^^^^^
@@ -6340,6 +6366,7 @@ privacy
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
+* `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
@@ -7771,6 +7798,7 @@ swift
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
 * `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
+* `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
@@ -8513,6 +8541,7 @@ typechecking
 typed-decisions
 ^^^^^^^^^^^^^^^
 
+* `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 
 typeface
