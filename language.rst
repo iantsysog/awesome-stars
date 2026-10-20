@@ -24,6 +24,7 @@ C
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
@@ -85,6 +86,7 @@ Elixir
 Go
 ^^
 
+* `Createitv/agc-cli <https://github.com/Createitv/agc-cli>`_
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
@@ -152,6 +154,7 @@ Java
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `Vstory/ColorOSGalleryNomediaGuard <https://github.com/Vstory/ColorOSGalleryNomediaGuard>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
@@ -402,7 +405,7 @@ Rust
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
@@ -440,6 +443,7 @@ Rust
 * `nubjs/nub <https://github.com/nubjs/nub>`_
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
+* `ohos-rs/oxc-ark <https://github.com/ohos-rs/oxc-ark>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
@@ -453,6 +457,7 @@ Rust
 * `storytold/photocraft <https://github.com/storytold/photocraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
+* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 

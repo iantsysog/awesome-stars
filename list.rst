@@ -236,6 +236,7 @@ KNOWHOW: Guidance
 LANG: C / C++
 ^^^^^^^^^^^^^
 
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 
@@ -467,6 +468,7 @@ LANG: TypeScript / JavaScript
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `toss/es-toolkit <https://github.com/toss/es-toolkit>`_
 * `unocss/unocss <https://github.com/unocss/unocss>`_
+* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 
 LANG: Zig
@@ -534,7 +536,8 @@ PLAT: Android
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `Vstory/ColorOSGalleryNomediaGuard <https://github.com/Vstory/ColorOSGalleryNomediaGuard>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
@@ -584,6 +587,12 @@ PLAT: Android
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+
+PLAT: HarmonyOS
+^^^^^^^^^^^^^^^
+
+* `Createitv/agc-cli <https://github.com/Createitv/agc-cli>`_
+* `ohos-rs/oxc-ark <https://github.com/ohos-rs/oxc-ark>`_
 
 PLAT: Linux
 ^^^^^^^^^^^

@@ -25,6 +25,7 @@ Others
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
+* `Createitv/agc-cli <https://github.com/Createitv/agc-cli>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
@@ -164,6 +165,7 @@ Others
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
+* `ohos-rs/oxc-ark <https://github.com/ohos-rs/oxc-ark>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
@@ -197,6 +199,7 @@ Others
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
 * `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
+* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `whyorean/AuroraStore <https://github.com/whyorean/AuroraStore>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
 * `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
@@ -483,7 +486,7 @@ android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
@@ -561,7 +564,7 @@ android-library
 android-root
 ^^^^^^^^^^^^
 
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 android-tweaks
@@ -628,7 +631,7 @@ aot
 apatch
 ^^^^^^
 
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
@@ -636,7 +639,7 @@ apatch
 apatch-module
 ^^^^^^^^^^^^^
 
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 
 api-26
 ^^^^^^
@@ -1117,6 +1120,7 @@ bonjour
 bootloader
 ^^^^^^^^^^
 
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 
 bot
@@ -1797,6 +1801,11 @@ compiler
 * `Vexu/toy-lang <https://github.com/Vexu/toy-lang>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 
+compilers
+^^^^^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
 component-library
 ^^^^^^^^^^^^^^^^^
 
@@ -1985,6 +1994,42 @@ cpp
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp-programming
+^^^^^^^^^^^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp11
+^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp14
+^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp17
+^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp20
+^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp23
+^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+
+cpp98
+^^^^^
+
+* `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 
 cpu-inference
 ^^^^^^^^^^^^^
@@ -2636,6 +2681,11 @@ easyconnect
 ^^^^^^^^^^^
 
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+
+ecdsa-signature
+^^^^^^^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 
 editor
 ^^^^^^
@@ -3444,6 +3494,11 @@ hardbrick
 
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 
+hardware-attestation
+^^^^^^^^^^^^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
+
 hardware-simulation
 ^^^^^^^^^^^^^^^^^^^
 
@@ -3701,6 +3756,11 @@ ide
 
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+
+identity
+^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 
 idevice
 ^^^^^^^
@@ -4254,7 +4314,7 @@ kernelsu
 
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
@@ -4263,7 +4323,7 @@ kernelsu-module
 ^^^^^^^^^^^^^^^
 
 * `Dr-TSNG/altdb <https://github.com/Dr-TSNG/altdb>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 kernelsu-next
@@ -4276,11 +4336,26 @@ kext
 
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 
+key-attestation
+^^^^^^^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
+
 keyboard
 ^^^^^^^^
 
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+
+keymaster
+^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
+
+keymint
+^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 
 keypress
 ^^^^^^^^
@@ -4927,7 +5002,7 @@ magisk
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
@@ -4946,7 +5021,7 @@ magisk-module
 ^^^^^^^^^^^^^
 
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 mail
@@ -6918,7 +6993,7 @@ root
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
-* `VeryBaaad/ZygiskNextNext <https://github.com/VeryBaaad/ZygiskNextNext>`_
+* `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
@@ -6939,6 +7014,11 @@ router
 
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
+
+rsa-signature
+^^^^^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 
 rss
 ^^^
@@ -7260,6 +7340,11 @@ serialization
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 
+serialnumber
+^^^^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
+
 server
 ^^^^^^
 
@@ -7321,6 +7406,7 @@ shizuku
 ^^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
@@ -7480,6 +7566,11 @@ software-architecture
 ^^^^^^^^^^^^^^^^^^^^^
 
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
+
+software-attestation
+^^^^^^^^^^^^^^^^^^^^
+
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 
 software-management
 ^^^^^^^^^^^^^^^^^^^
@@ -8203,6 +8294,7 @@ tee
 ^^^
 
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
+* `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 
 telegram-cleanup
 ^^^^^^^^^^^^^^^^
