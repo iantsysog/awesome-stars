@@ -144,6 +144,7 @@ Haskell
 Java
 ^^^^
 
+* `Adkimsm/Cirno <https://github.com/Adkimsm/Cirno>`_
 * `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
@@ -404,6 +405,7 @@ Rust
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
@@ -674,6 +676,8 @@ TypeScript
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `codse/animata <https://github.com/codse/animata>`_
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
+* `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `dip/cmdk <https://github.com/dip/cmdk>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_

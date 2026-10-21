@@ -210,6 +210,7 @@ KNOWHOW: Agent
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
@@ -230,6 +231,7 @@ KNOWHOW: Guidance
 
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 
@@ -437,6 +439,7 @@ LANG: TypeScript / JavaScript
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
@@ -490,6 +493,7 @@ PLAT: Android
 * `5ec1cff/payload-dumper <https://github.com/5ec1cff/payload-dumper>`_
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
+* `Adkimsm/Cirno <https://github.com/Adkimsm/Cirno>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
 * `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_

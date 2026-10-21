@@ -15,6 +15,7 @@ Others
 * `5ec1cff/FuseFixer <https://github.com/5ec1cff/FuseFixer>`_
 * `5ec1cff/payload-dumper <https://github.com/5ec1cff/payload-dumper>`_
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
+* `Adkimsm/Cirno <https://github.com/Adkimsm/Cirno>`_
 * `Aeastr/Loupe <https://github.com/Aeastr/Loupe>`_
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
@@ -326,6 +327,7 @@ ai-agents
 
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 
@@ -485,6 +487,7 @@ android
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
@@ -1794,6 +1797,11 @@ compass
 
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
 
+compile
+^^^^^^^
+
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
+
 compiler
 ^^^^^^^^
 
@@ -1956,6 +1964,11 @@ conversational-awareness
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
+
+cordis
+^^^^^^
+
+* `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 
 core-data
 ^^^^^^^^^
@@ -2617,9 +2630,15 @@ driverstore
 
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 
+dsh
+^^^
+
+* `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
+
 dsh-plugin
 ^^^^^^^^^^
 
+* `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 dune-2000
@@ -2705,6 +2724,11 @@ education
 ^^^^^^^^^
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
+
+effect
+^^^^^^
+
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 
 effects
 ^^^^^^^
@@ -3068,6 +3092,11 @@ fragments
 ^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
+framework
+^^^^^^^^^
+
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 
 free-disk-space
 ^^^^^^^^^^^^^^^
@@ -3507,6 +3536,7 @@ hardware-simulation
 harmonyos
 ^^^^^^^^^
 
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
 harmonyos-next
@@ -3960,6 +3990,7 @@ ios
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
@@ -3977,6 +4008,7 @@ ios
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
@@ -4677,6 +4709,11 @@ llm-inference
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 
+llvm
+^^^^
+
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
+
 lm-studio
 ^^^^^^^^^
 
@@ -4892,6 +4929,7 @@ macos
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
@@ -5569,6 +5607,7 @@ native
 ^^^^^^
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -5666,6 +5705,7 @@ nodejs
 ^^^^^^
 
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `nubjs/nub <https://github.com/nubjs/nub>`_
@@ -6323,6 +6363,11 @@ playwright
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+
+plugin
+^^^^^^
+
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 
 plugin-gradle
 ^^^^^^^^^^^^^
@@ -7516,6 +7561,11 @@ smart-home
 
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 
+smc
+^^^
+
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
+
 smooth
 ^^^^^^
 
@@ -8651,6 +8701,7 @@ typescript
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
@@ -9159,6 +9210,7 @@ watchos
 ^^^^^^^
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 
@@ -9340,6 +9392,7 @@ windows
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
+* `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
