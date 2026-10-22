@@ -638,6 +638,7 @@ PLAT: Linux
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
@@ -677,6 +678,7 @@ PLAT: Windows
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
@@ -764,6 +766,7 @@ PLAT: macOS
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_

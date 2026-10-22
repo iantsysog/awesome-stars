@@ -341,6 +341,11 @@ ai-assisted-development
 
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
+ai-blocker
+^^^^^^^^^^
+
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
+
 ai-coding-assistant
 ^^^^^^^^^^^^^^^^^^^
 
@@ -595,6 +600,11 @@ animation
 * `codse/animata <https://github.com/codse/animata>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 
+anti-ai
+^^^^^^^
+
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
+
 anti-rollback
 ^^^^^^^^^^^^^
 
@@ -643,6 +653,11 @@ apatch-module
 ^^^^^^^^^^^^^
 
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
+
+api
+^^^
+
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 
 api-26
 ^^^^^^
@@ -1256,6 +1271,7 @@ c
 ^
 
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 
 c-api
 ^^^^^
@@ -4802,6 +4818,7 @@ lua
 ^^^
 
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
 
 luaformatter
@@ -5626,6 +5643,11 @@ neoforge
 
 * `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 
+neovim
+^^^^^^
+
+* `neovim/neovim <https://github.com/neovim/neovim>`_
+
 nerdctl
 ^^^^^^^
 
@@ -5800,6 +5822,11 @@ nvidia
 ^^^^^^
 
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
+
+nvim
+^^^^
+
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 
 obfuscation
 ^^^^^^^^^^^
@@ -8416,6 +8443,7 @@ text-editor
 ^^^^^^^^^^^
 
 * `microsoft/edit <https://github.com/microsoft/edit>`_
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 
 text-to-diagram
@@ -9057,6 +9085,11 @@ video-player
 
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `iina/iina <https://github.com/iina/iina>`_
+
+vim
+^^^
+
+* `neovim/neovim <https://github.com/neovim/neovim>`_
 
 violentmonkey
 ^^^^^^^^^^^^^

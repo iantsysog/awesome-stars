@@ -716,6 +716,11 @@ TypeScript
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 
+Vim Script
+^^^^^^^^^^
+
+* `neovim/neovim <https://github.com/neovim/neovim>`_
+
 Vue
 ^^^
 
