@@ -495,10 +495,10 @@ PLAT: Android
 * `AcardiaX/Amalor <https://github.com/AcardiaX/Amalor>`_
 * `Adkimsm/Cirno <https://github.com/Adkimsm/Cirno>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `CHIZI-0618/ColorOS-Google-Firewall-Fixer <https://github.com/CHIZI-0618/ColorOS-Google-Firewall-Fixer>`_
 * `Chimioo/InxLocker <https://github.com/Chimioo/InxLocker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
@@ -535,6 +535,7 @@ PLAT: Android
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
+* `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
 * `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
@@ -591,6 +592,13 @@ PLAT: Android
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+
+PLAT: Apple TV / Android TV
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
+* `pengchujin/aerial-tv <https://github.com/pengchujin/aerial-tv>`_
+* `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
 
 PLAT: HarmonyOS
 ^^^^^^^^^^^^^^^
@@ -789,11 +797,6 @@ PLAT: macOS
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_
-
-PLAT: tvOS
-^^^^^^^^^^
-
-* `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
-* `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_

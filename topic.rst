@@ -71,6 +71,7 @@ Others
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
+* `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
 * `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
@@ -174,6 +175,7 @@ Others
 * `p-x9/ObfuscateMacro <https://github.com/p-x9/ObfuscateMacro>`_
 * `p-x9/swift-asm-macro <https://github.com/p-x9/swift-asm-macro>`_
 * `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
+* `pengchujin/aerial-tv <https://github.com/pengchujin/aerial-tv>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `pvieito/PythonKit <https://github.com/pvieito/PythonKit>`_
@@ -442,6 +444,11 @@ alipay-records
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 
+alt-tab
+^^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
+
 altstore
 ^^^^^^^^
 
@@ -470,9 +477,9 @@ android
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
 * `AdAway/AdAway <https://github.com/AdAway/AdAway>`_
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `BinTianqi/OwnDroid <https://github.com/BinTianqi/OwnDroid>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 * `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
@@ -701,6 +708,11 @@ app-store-connect
 
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 
+app-uninstaller
+^^^^^^^^^^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
+
 appcleaner
 ^^^^^^^^^^
 
@@ -719,6 +731,7 @@ appkit
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 apple
 ^^^^^
@@ -1734,8 +1747,8 @@ color-scheme
 coloros
 ^^^^^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 coloros-16
@@ -2902,7 +2915,7 @@ fcitx5
 fcm
 ^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 
 fdroid
 ^^^^^^
@@ -2994,10 +3007,15 @@ finance
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
+finder
+^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
+
 firebase-cloud-messaging
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 
 firewall
 ^^^^^^^^
@@ -3113,6 +3131,11 @@ framework
 ^^^^^^^^^
 
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
+
+free
+^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 free-disk-space
 ^^^^^^^^^^^^^^^
@@ -3521,6 +3544,7 @@ hacktoberfest
 * `iina/iina <https://github.com/iina/iina>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
@@ -4335,6 +4359,11 @@ kdbx
 
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
 
+keep-awake
+^^^^^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
+
 keepass
 ^^^^^^^
 
@@ -4795,7 +4824,7 @@ lsp
 lsposed
 ^^^^^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
@@ -4893,6 +4922,11 @@ mac-mini
 ^^^^^^^^
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+
+mac-os
+^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 macbook
 ^^^^^^^
@@ -5272,6 +5306,7 @@ menu-bar
 ^^^^^^^^
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 menubar
 ^^^^^^^
@@ -5280,6 +5315,7 @@ menubar
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 menubar-app
 ^^^^^^^^^^^
@@ -5969,8 +6005,8 @@ onedrive
 oneplus
 ^^^^^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 opam
@@ -5990,6 +6026,7 @@ open-source
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
 openapi
@@ -6675,7 +6712,7 @@ push
 push-notifications
 ^^^^^^^^^^^^^^^^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 
 pydantic
 ^^^^^^^^
@@ -8012,6 +8049,7 @@ swift
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 swift-5
 ^^^^^^^
@@ -8080,6 +8118,11 @@ swift-server
 ^^^^^^^^^^^^
 
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
+
+swift-ui
+^^^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 swift3
 ^^^^^^
@@ -8258,6 +8301,7 @@ system-monitor
 ^^^^^^^^^^^^^^
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 system-one
 ^^^^^^^^^^
@@ -8872,6 +8916,7 @@ uninstaller
 ^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 unioinpay
 ^^^^^^^^^
@@ -9175,6 +9220,7 @@ volume-mixer
 ^^^^^^^^^^^^
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 vpn
 ^^^
@@ -9420,6 +9466,11 @@ windicss
 
 * `unocss/unocss <https://github.com/unocss/unocss>`_
 
+window-switcher
+^^^^^^^^^^^^^^^
+
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
+
 windows
 ^^^^^^^
 
@@ -9555,7 +9606,7 @@ xposed
 xposed-module
 ^^^^^^^^^^^^^
 
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_

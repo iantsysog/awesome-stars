@@ -145,7 +145,7 @@ Java
 ^^^^
 
 * `Adkimsm/Cirno <https://github.com/Adkimsm/Cirno>`_
-* `Artifical0/fcmfix-coloros <https://github.com/Artifical0/fcmfix-coloros>`_
+* `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
@@ -245,6 +245,7 @@ Kotlin
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `pengchujin/aerial-tv <https://github.com/pengchujin/aerial-tv>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
@@ -314,6 +315,7 @@ Others
 
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
+* `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
@@ -644,6 +646,7 @@ Swift
 * `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
+* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
 * `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
