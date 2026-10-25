@@ -24,6 +24,7 @@ APP: Miscellaneous
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
@@ -86,6 +87,15 @@ DOMAIN: IME
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+
+DOMAIN: LANG
+^^^^^^^^^^^^
+
+* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+* `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
+* `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
+* `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
+* `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 
 DOMAIN: Ledger
 ^^^^^^^^^^^^^^
@@ -231,13 +241,14 @@ KNOWHOW: Guidance
 
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 
-LANG: C / C++
-^^^^^^^^^^^^^
+LANG: C / C++ / C#
+^^^^^^^^^^^^^^^^^^
 
+* `belav/csharpier <https://github.com/belav/csharpier>`_
+* `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
@@ -260,11 +271,6 @@ LANG: Go
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 
-LANG: Haskell
-^^^^^^^^^^^^^
-
-* `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
-
 LANG: Kotlin / Java
 ^^^^^^^^^^^^^^^^^^^
 
@@ -283,12 +289,6 @@ LANG: Kotlin / Java
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `suqi8/coui <https://github.com/suqi8/coui>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
-
-LANG: Lua
-^^^^^^^^^
-
-* `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
-* `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 
 LANG: Python
 ^^^^^^^^^^^^
@@ -309,11 +309,6 @@ LANG: Python
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
-
-LANG: Ruby
-^^^^^^^^^^
-
-* `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 
 LANG: Rust
 ^^^^^^^^^^
@@ -530,6 +525,7 @@ PLAT: Android
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_

@@ -133,6 +133,7 @@ Others
 * `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
 * `joshpuckett/bloom <https://github.com/joshpuckett/bloom>`_
+* `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
 * `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
@@ -500,6 +501,7 @@ android
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
@@ -2133,6 +2135,8 @@ csharp
 ^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `belav/csharpier <https://github.com/belav/csharpier>`_
+* `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 
 csl
 ^^^
@@ -2623,6 +2627,8 @@ dotnet
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+* `belav/csharpier <https://github.com/belav/csharpier>`_
+* `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 
 double-entry-accounting
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -2881,6 +2887,11 @@ expl3
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
 
+expressive
+^^^^^^^^^^
+
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
+
 extension
 ^^^^^^^^^
 
@@ -2946,6 +2957,7 @@ ffi-layer
 ffmpeg
 ^^^^^^
 
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 
 ffmpeg-android
@@ -3104,6 +3116,7 @@ formatter
 ^^^^^^^^^
 
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
+* `belav/csharpier <https://github.com/belav/csharpier>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
@@ -4488,6 +4501,7 @@ kotlin
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
@@ -5271,6 +5285,11 @@ md3
 
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
+
+md3e
+^^^^
+
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 
 media3
 ^^^^^^
@@ -6529,6 +6548,7 @@ presentation
 prettier
 ^^^^^^^^
 
+* `belav/csharpier <https://github.com/belav/csharpier>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 
 pretty-printer
@@ -7117,6 +7137,11 @@ root-solution
 ^^^^^^^^^^^^^
 
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
+
+roslyn
+^^^^^^
+
+* `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 
 router
 ^^^^^^
@@ -9116,6 +9141,7 @@ vibe-coding
 video
 ^^^^^
 
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `iina/iina <https://github.com/iina/iina>`_
@@ -9130,6 +9156,11 @@ video-player
 
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `iina/iina <https://github.com/iina/iina>`_
+
+videoplayer
+^^^^^^^^^^^
+
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 
 vim
 ^^^
@@ -9172,6 +9203,11 @@ visual-effect
 ^^^^^^^^^^^^^
 
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+
+visual-studio
+^^^^^^^^^^^^^
+
+* `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 
 vite
 ^^^^

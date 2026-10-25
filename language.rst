@@ -26,6 +26,7 @@ C
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
+* `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
@@ -43,6 +44,8 @@ C#
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `Uotan-Dev/UotanToolboxNT <https://github.com/Uotan-Dev/UotanToolboxNT>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+* `belav/csharpier <https://github.com/belav/csharpier>`_
+* `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
@@ -217,6 +220,7 @@ Kotlin
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+* `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
