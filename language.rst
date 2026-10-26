@@ -465,6 +465,7 @@ Rust
 * `storytold/photocraft <https://github.com/storytold/photocraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 * `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
@@ -484,6 +485,7 @@ Shell
 * `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
+* `eweOS/packages <https://github.com/eweOS/packages>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_

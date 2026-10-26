@@ -25,6 +25,7 @@ APP: Miscellaneous
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
+* `eweOS/packages <https://github.com/eweOS/packages>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
@@ -234,6 +235,7 @@ KNOWHOW: Agent
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+* `trycua/cua <https://github.com/trycua/cua>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
 KNOWHOW: Guidance
