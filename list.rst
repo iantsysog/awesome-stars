@@ -16,6 +16,8 @@ APP: Miscellaneous
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
+* `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
@@ -33,6 +35,7 @@ APP: Miscellaneous
 * `j178/prek <https://github.com/j178/prek>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
@@ -43,7 +46,8 @@ APP: Miscellaneous
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
@@ -81,6 +85,7 @@ DOMAIN: Game
 DOMAIN: IME
 ^^^^^^^^^^^
 
+* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
@@ -130,6 +135,7 @@ DOMAIN: Security
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
@@ -154,6 +160,7 @@ DOMAIN: Typography
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `cmhughes/latexindent.pl <https://github.com/cmhughes/latexindent.pl>`_
@@ -207,6 +214,7 @@ DOMAIN: VPS / VDS
 KNOWHOW: Agent
 ^^^^^^^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
@@ -224,6 +232,7 @@ KNOWHOW: Agent
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
+* `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
@@ -566,6 +575,7 @@ PLAT: Android
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
+* `inforcqb/susfs4ksu-lkm <https://github.com/inforcqb/susfs4ksu-lkm>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
@@ -650,6 +660,8 @@ PLAT: Linux
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
@@ -664,12 +676,15 @@ PLAT: Windows
 ^^^^^^^^^^^^^
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
+* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
@@ -686,6 +701,8 @@ PLAT: Windows
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `neovim/neovim <https://github.com/neovim/neovim>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
@@ -712,10 +729,12 @@ PLAT: macOS
 ^^^^^^^^^^^
 
 * `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
+* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
@@ -730,8 +749,11 @@ PLAT: macOS
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
+* `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
+* `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
@@ -763,6 +785,7 @@ PLAT: macOS
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
@@ -785,6 +808,8 @@ PLAT: macOS
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `syncthing/syncthing <https://github.com/syncthing/syncthing>`_

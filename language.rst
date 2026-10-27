@@ -21,10 +21,12 @@ C
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+* `inforcqb/susfs4ksu-lkm <https://github.com/inforcqb/susfs4ksu-lkm>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
@@ -91,6 +93,7 @@ Go
 
 * `Createitv/agc-cli <https://github.com/Createitv/agc-cli>`_
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
+* `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
@@ -132,8 +135,11 @@ Go
 HTML
 ^^^^
 
+* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+* `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 * `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
 
@@ -169,6 +175,7 @@ Java
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `rikumi/coloros-mod <https://github.com/rikumi/coloros-mod>`_
 
 JavaScript
@@ -354,6 +361,7 @@ Python
 * `Lakr233/ui-copy-polish <https://github.com/Lakr233/ui-copy-polish>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
+* `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
@@ -462,7 +470,8 @@ Rust
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
@@ -535,6 +544,7 @@ Swift
 * `Moya/Moya <https://github.com/Moya/Moya>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
@@ -670,6 +680,7 @@ TeX
 TypeScript
 ^^^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `EveryInc/compound-engineering-plugin <https://github.com/EveryInc/compound-engineering-plugin>`_

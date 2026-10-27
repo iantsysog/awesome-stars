@@ -20,6 +20,7 @@ Others
 * `Aeastr/SettingsKit <https://github.com/Aeastr/SettingsKit>`_
 * `AhmetCanArslan/ShizuWall <https://github.com/AhmetCanArslan/ShizuWall>`_
 * `AnInsomniacy/rayburst <https://github.com/AnInsomniacy/rayburst>`_
+* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `AvdLee/appstoreconnect-swift-sdk <https://github.com/AvdLee/appstoreconnect-swift-sdk>`_
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `CHANTXU64/MoviePilot-TV <https://github.com/CHANTXU64/MoviePilot-TV>`_
@@ -30,6 +31,7 @@ Others
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DocCLab/VersionedDocC <https://github.com/DocCLab/VersionedDocC>`_
 * `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
+* `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `Droid-VM/DroidVM <https://github.com/Droid-VM/DroidVM>`_
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
@@ -61,6 +63,7 @@ Others
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
+* `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
@@ -69,6 +72,7 @@ Others
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
+* `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
 * `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
@@ -114,6 +118,7 @@ Others
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
+* `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
@@ -130,6 +135,7 @@ Others
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `inforcqb/susfs4ksu-lkm <https://github.com/inforcqb/susfs4ksu-lkm>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
@@ -275,6 +281,11 @@ activator
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
+activity-monitor
+^^^^^^^^^^^^^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+
 ad-blocker
 ^^^^^^^^^^
 
@@ -313,6 +324,11 @@ agentic-ai
 ^^^^^^^^^^
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
+
+agents-md
+^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 
 ai
 ^^
@@ -518,6 +534,7 @@ android
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
@@ -545,6 +562,11 @@ android-application
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
+
+android-apps
+^^^^^^^^^^^^
+
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 
 android-development
 ^^^^^^^^^^^^^^^^^^^
@@ -580,6 +602,11 @@ android-library
 ^^^^^^^^^^^^^^^
 
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+
+android-on-mac
+^^^^^^^^^^^^^^
+
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 
 android-root
 ^^^^^^^^^^^^
@@ -732,6 +759,7 @@ appkit
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
@@ -777,10 +805,17 @@ apple-pay
 apple-silicon
 ^^^^^^^^^^^^^
 
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+
+apple-silicon-mac
+^^^^^^^^^^^^^^^^^
+
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 
 application-manager
 ^^^^^^^^^^^^^^^^^^^
@@ -808,10 +843,15 @@ arkts
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
+arm64
+^^^^^
+
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
+
 art
 ^^^
 
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 
 arthook
 ^^^^^^^
@@ -1113,6 +1153,21 @@ biometrics
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 
+bitmap
+^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+bitmap-font
+^^^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+bitmap-fonts
+^^^^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
 bitwarden
 ^^^^^^^^^
 
@@ -1223,6 +1278,11 @@ browser-automation
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+
+btop
+^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 
 bugtracker
 ^^^^^^^^^^
@@ -1433,7 +1493,18 @@ chinese
 ^^^^^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
+
+chinese-simplified
+^^^^^^^^^^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+chinese-traditional
+^^^^^^^^^^^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 
 chrome
 ^^^^^^
@@ -1512,6 +1583,17 @@ cjk
 ^^^
 
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+cjk-font
+^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+cjk-fonts
+^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 
 clamav
 ^^^^^^
@@ -1707,6 +1789,7 @@ codex
 coding-agent
 ^^^^^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 
 coding-agents
@@ -1831,6 +1914,11 @@ compass
 ^^^^^^^
 
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
+
+compatibility-layer
+^^^^^^^^^^^^^^^^^^^
+
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 
 compile
 ^^^^^^^
@@ -2095,6 +2183,11 @@ cpu-inference
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+cpu-monitor
+^^^^^^^^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+
 cranelift
 ^^^^^^^^^
 
@@ -2354,6 +2447,11 @@ deep-learning
 ^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+
+deepseek-harness
+^^^^^^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 
 defaults
 ^^^^^^^^
@@ -2626,6 +2724,16 @@ docker-image
 
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 
+document-processing
+^^^^^^^^^^^^^^^^^^^
+
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+
+documents
+^^^^^^^^^
+
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+
 doh
 ^^^
 
@@ -2693,13 +2801,40 @@ driverstore
 dsh
 ^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
+
+dsh-desktop
+^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 
 dsh-plugin
 ^^^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+
+dsh-plugin-market
+^^^^^^^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+dsh-plugin-pack
+^^^^^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+dsh-plugins
+^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+dsh-skill
+^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 
 dune-2000
 ^^^^^^^^^
@@ -3115,7 +3250,13 @@ font
 ^^^^
 
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
+
+fonts
+^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 
 force-push-warning
 ^^^^^^^^^^^^^^^^^^
@@ -3485,6 +3626,11 @@ gpu
 
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
+gpu-monitor
+^^^^^^^^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+
 gpui
 ^^^^
 
@@ -3736,6 +3882,11 @@ hridayan
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 
+htop
+^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+
 http
 ^^^^
 
@@ -3892,30 +4043,10 @@ image-compression
 
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 
-image-editing
-^^^^^^^^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
-image-editing-software
-^^^^^^^^^^^^^^^^^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
-image-editor
-^^^^^^^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
-
 image-optimization
 ^^^^^^^^^^^^^^^^^^
 
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
-
-images
-^^^^^^
-
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
 
 imap
 ^^^^
@@ -4248,6 +4379,11 @@ jamstack
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 
+japanese
+^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
 java
 ^^^^
 
@@ -4518,6 +4654,11 @@ kms38
 ^^^^^
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
+
+korean
+^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 
 kotlin
 ^^^^^^
@@ -4824,6 +4965,7 @@ local-development
 local-llm
 ^^^^^^^^^
 
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
 localhost
@@ -5024,6 +5166,7 @@ macos
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
@@ -5049,6 +5192,7 @@ macos
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
@@ -5090,10 +5234,12 @@ macos-27
 macos-app
 ^^^^^^^^^
 
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -5368,6 +5514,7 @@ menubar
 ^^^^^^^
 
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
@@ -5395,6 +5542,7 @@ metal
 
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+* `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 
 metamodule
@@ -6341,6 +6489,7 @@ pdf
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
 
 pdf-generation
 ^^^^^^^^^^^^^^
@@ -6348,11 +6497,23 @@ pdf-generation
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+
+pdf-processing
+^^^^^^^^^^^^^^
+
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+
+pdf-tools
+^^^^^^^^^
+
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
 
 pdf-viewer
 ^^^^^^^^^^
 
 * `GrapheneOS/PdfViewer <https://github.com/GrapheneOS/PdfViewer>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
 
 pdfjs
 ^^^^^
@@ -6417,6 +6578,11 @@ performance-metrics
 
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 
+performance-monitor
+^^^^^^^^^^^^^^^^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+
 performance-monitoring
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -6443,10 +6609,30 @@ persistent-history
 
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 
-photo-editing
+pi-agent
+^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+pi-coding-agent
+^^^^^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+pi-extension
+^^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+pi-extensions
 ^^^^^^^^^^^^^
 
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
+pi-package
+^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 
 pikevm
 ^^^^^^
@@ -6457,6 +6643,21 @@ ping
 ^^^^
 
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
+
+pixel
+^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+pixel-font
+^^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+pixel-fonts
+^^^^^^^^^^^
+
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 
 pkl
 ^^^
@@ -7277,7 +7478,8 @@ rust
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
-* `storytold/photocraft <https://github.com/storytold/photocraft>`_
+* `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 
 rust-crate
@@ -7289,6 +7491,7 @@ rust-lang
 ^^^^^^^^^
 
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 
 rustpython
@@ -8027,6 +8230,12 @@ svg
 
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
+
+svg-editor
+^^^^^^^^^^
+
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 
 svg-icons
 ^^^^^^^^^
@@ -8053,6 +8262,7 @@ swift
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `Moya/Moya <https://github.com/Moya/Moya>`_
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `Swift-CowBox/Swift-CowBox <https://github.com/Swift-CowBox/Swift-CowBox>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
@@ -8368,6 +8578,7 @@ system-information
 system-monitor
 ^^^^^^^^^^^^^^
 
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
@@ -9144,6 +9355,11 @@ vchewing
 ^^^^^^^^
 
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+
+vector-graphics
+^^^^^^^^^^^^^^^
+
+* `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 
 veracrypt
 ^^^^^^^^^
