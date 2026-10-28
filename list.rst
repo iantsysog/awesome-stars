@@ -14,8 +14,11 @@ APP: Miscellaneous
 
 * `AlDanial/cloc <https://github.com/AlDanial/cloc>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
+* `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
+* `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
@@ -27,6 +30,7 @@ APP: Miscellaneous
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
@@ -43,6 +47,7 @@ APP: Miscellaneous
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 * `package-url/purl-spec <https://github.com/package-url/purl-spec>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
@@ -86,6 +91,7 @@ DOMAIN: IME
 ^^^^^^^^^^^
 
 * `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
@@ -127,6 +133,7 @@ DOMAIN: Network
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 
@@ -171,6 +178,7 @@ DOMAIN: Typography
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
+* `storytold/indd-utils <https://github.com/storytold/indd-utils>`_
 * `subframe7536/maple-font <https://github.com/subframe7536/maple-font>`_
 * `subframe7536/obsidian-theme-maple <https://github.com/subframe7536/obsidian-theme-maple>`_
 
@@ -287,6 +295,8 @@ LANG: Kotlin / Java
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
+* `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
@@ -575,7 +585,6 @@ PLAT: Android
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
-* `inforcqb/susfs4ksu-lkm <https://github.com/inforcqb/susfs4ksu-lkm>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
@@ -713,9 +722,11 @@ PLAT: iOS
 
 * `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
+* `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
 * `claration/feather <https://github.com/claration/feather>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
@@ -736,6 +747,7 @@ PLAT: macOS
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
 * `Lakr233/Asspp <https://github.com/Lakr233/Asspp>`_
@@ -747,6 +759,7 @@ PLAT: macOS
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
+* `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
@@ -802,6 +815,7 @@ PLAT: macOS
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
@@ -820,6 +834,5 @@ PLAT: macOS
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zqxwce/vphone-ws <https://github.com/zqxwce/vphone-ws>`_

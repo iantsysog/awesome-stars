@@ -56,11 +56,11 @@ Others
 * `LiYanan2004/MathShape <https://github.com/LiYanan2004/MathShape>`_
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
+* `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
-* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
@@ -118,7 +118,6 @@ Others
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
-* `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
 * `facebook/lexical <https://github.com/facebook/lexical>`_
 * `facebook/sapling <https://github.com/facebook/sapling>`_
@@ -135,7 +134,6 @@ Others
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
-* `inforcqb/susfs4ksu-lkm <https://github.com/inforcqb/susfs4ksu-lkm>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
@@ -196,6 +194,7 @@ Others
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
+* `storytold/indd-utils <https://github.com/storytold/indd-utils>`_
 * `suqi8/coui <https://github.com/suqi8/coui>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
@@ -320,6 +319,11 @@ agent
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
+agent-skills
+^^^^^^^^^^^^
+
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+
 agentic-ai
 ^^^^^^^^^^
 
@@ -347,6 +351,7 @@ ai-agent
 ai-agents
 ^^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
@@ -464,11 +469,6 @@ alipay-records
 
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 
-alt-tab
-^^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
-
 altstore
 ^^^^^^^^
 
@@ -519,6 +519,7 @@ android
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
@@ -550,6 +551,11 @@ android
 * `you-apps/ClockYou <https://github.com/you-apps/ClockYou>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
 
+android-anr
+^^^^^^^^^^^
+
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
+
 android-app
 ^^^^^^^^^^^
 
@@ -559,6 +565,7 @@ android-application
 ^^^^^^^^^^^^^^^^^^^
 
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `zhanghai/MaterialFiles <https://github.com/zhanghai/MaterialFiles>`_
@@ -622,6 +629,7 @@ android-tweaks
 android-ui
 ^^^^^^^^^^
 
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 
 androidmath
@@ -638,6 +646,11 @@ animation
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
+
+animations
+^^^^^^^^^^
+
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 
 anti-ai
 ^^^^^^^
@@ -730,6 +743,16 @@ app
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 
+app-error
+^^^^^^^^^
+
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
+
+app-errors
+^^^^^^^^^^
+
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
+
 app-store
 ^^^^^^^^^
 
@@ -739,11 +762,6 @@ app-store-connect
 ^^^^^^^^^^^^^^^^^
 
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
-
-app-uninstaller
-^^^^^^^^^^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 appcleaner
 ^^^^^^^^^^
@@ -764,7 +782,6 @@ appkit
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 apple
 ^^^^^
@@ -1603,6 +1620,7 @@ clamav
 claude-code
 ^^^^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
@@ -1782,6 +1800,7 @@ codemirror6
 codex
 ^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
@@ -1964,6 +1983,7 @@ compose
 compose-multiplatform
 ^^^^^^^^^^^^^^^^^^^^^
 
+* `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
@@ -2400,6 +2420,7 @@ debloat
 debugging
 ^^^^^^^^^
 
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
 
 decentralized-application
@@ -2516,6 +2537,7 @@ design-review
 design-system
 ^^^^^^^^^^^^^
 
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 
 design-tool
@@ -3017,6 +3039,11 @@ equalizer
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
+error-tracker
+^^^^^^^^^^^^^
+
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
+
 eruda
 ^^^^^
 
@@ -3179,11 +3206,6 @@ finance
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
-finder
-^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
-
 firebase-cloud-messaging
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -3310,11 +3332,6 @@ framework
 ^^^^^^^^^
 
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
-
-free
-^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 free-disk-space
 ^^^^^^^^^^^^^^^
@@ -3522,6 +3539,11 @@ github-sdk
 ^^^^^^^^^^
 
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
+
+glassmorphism
+^^^^^^^^^^^^^
+
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 
 glsl
 ^^^^
@@ -3892,6 +3914,7 @@ http
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 http-cache
@@ -3915,6 +3938,7 @@ http2
 ^^^^^
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 http3
@@ -4015,6 +4039,7 @@ ide
 ^^^
 
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 
 identity
@@ -4113,6 +4138,7 @@ inno-setup
 input-method
 ^^^^^^^^^^^^
 
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
@@ -4205,6 +4231,7 @@ ios
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
 * `claration/feather <https://github.com/claration/feather>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
@@ -4263,6 +4290,12 @@ ios-swift
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
+
+ios-ui
+^^^^^^
+
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 
 iosmath
 ^^^^^^^
@@ -4374,6 +4407,11 @@ jailbreak-detection
 
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 
+jailed
+^^^^^^
+
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
+
 jamstack
 ^^^^^^^^
 
@@ -4399,6 +4437,7 @@ java
 javascript
 ^^^^^^^^^^
 
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
@@ -4431,6 +4470,8 @@ jetpack-compose
 ^^^^^^^^^^^^^^^
 
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
+* `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 
@@ -4534,11 +4575,6 @@ kdbx
 
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
 
-keep-awake
-^^^^^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
-
 keepass
 ^^^^^^^
 
@@ -4554,6 +4590,7 @@ kernel
 ^^^^^^
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 
 kernel-module
@@ -4668,6 +4705,7 @@ kotlin
 * `Droid-ify/client <https://github.com/Droid-ify/client>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `IacobIonut01/ReFra <https://github.com/IacobIonut01/ReFra>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `apple/pkl <https://github.com/apple/pkl>`_
@@ -4893,6 +4931,9 @@ liquid-glass
 ^^^^^^^^^^^^
 
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
+* `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 
 liquidglass
@@ -4915,6 +4956,7 @@ live-preview
 ^^^^^^^^^^^^
 
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 
 llama-cpp
 ^^^^^^^^^
@@ -5110,11 +5152,6 @@ mac-mini
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 
-mac-os
-^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
-
 macbook
 ^^^^^^^
 
@@ -5163,6 +5200,7 @@ macos
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
@@ -5206,6 +5244,7 @@ macos
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `sindresorhus/Defaults <https://github.com/sindresorhus/Defaults>`_
@@ -5335,6 +5374,11 @@ malware-analysis
 
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 
+man-in-the-middle
+^^^^^^^^^^^^^^^^^
+
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
+
 manus
 ^^^^^
 
@@ -5353,6 +5397,7 @@ markdown-editor
 ^^^^^^^^^^^^^^^
 
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 
 markup-language
 ^^^^^^^^^^^^^^^
@@ -5508,7 +5553,6 @@ menu-bar
 ^^^^^^^^
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 menubar
 ^^^^^^^
@@ -5518,7 +5562,6 @@ menubar
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 menubar-app
 ^^^^^^^^^^^
@@ -5630,6 +5673,11 @@ mipush
 ^^^^^^
 
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
+
+mitmproxy
+^^^^^^^^^
+
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 
 miui
 ^^^^
@@ -6169,6 +6217,11 @@ office365
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
+offline
+^^^^^^^
+
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
+
 oh-my-zsh
 ^^^^^^^^^
 
@@ -6229,8 +6282,8 @@ open-source
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
 openapi
@@ -6246,6 +6299,7 @@ openapi3
 opencode
 ^^^^^^^^
 
+* `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 
 opencore
@@ -6491,6 +6545,11 @@ pdf
 * `sile-typesetter/sile <https://github.com/sile-typesetter/sile>`_
 * `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
 
+pdf-annotation
+^^^^^^^^^^^^^^
+
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
+
 pdf-generation
 ^^^^^^^^^^^^^^
 
@@ -6503,6 +6562,11 @@ pdf-processing
 ^^^^^^^^^^^^^^
 
 * `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
+
+pdf-reader
+^^^^^^^^^^
+
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 
 pdf-tools
 ^^^^^^^^^
@@ -6945,6 +7009,7 @@ proxy
 ^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 
 ptp
 ^^^
@@ -6997,6 +7062,7 @@ python
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
@@ -7668,6 +7734,7 @@ security
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 
@@ -7795,6 +7862,11 @@ shizuku-api
 
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 
+shortcuts
+^^^^^^^^^
+
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
+
 sideload
 ^^^^^^^^
 
@@ -7832,6 +7904,7 @@ signing
 ^^^^^^^
 
 * `claration/feather <https://github.com/claration/feather>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 
 sile
 ^^^^
@@ -7879,6 +7952,7 @@ skills
 
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
+* `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 
 slack
 ^^^^^
@@ -7997,6 +8071,11 @@ spm
 
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 
+spotlight
+^^^^^^^^^
+
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
+
 sql
 ^^^
 
@@ -8034,6 +8113,11 @@ ssh
 
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
+
+ssl
+^^^
+
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 
 sslvpn
 ^^^^^^
@@ -8257,6 +8341,7 @@ swift
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
@@ -8281,6 +8366,7 @@ swift
 * `davedelong/time <https://github.com/davedelong/time>`_
 * `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `fatbobman/CoreDataEvolution <https://github.com/fatbobman/CoreDataEvolution>`_
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
@@ -8312,6 +8398,7 @@ swift
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -8327,7 +8414,6 @@ swift
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 swift-5
 ^^^^^^^
@@ -8396,11 +8482,6 @@ swift-server
 ^^^^^^^^^^^^
 
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
-
-swift-ui
-^^^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 swift3
 ^^^^^^
@@ -8580,7 +8661,6 @@ system-monitor
 
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 system-one
 ^^^^^^^^^^
@@ -8838,6 +8918,7 @@ tls
 ^^^
 
 * `go-acme/lego <https://github.com/go-acme/lego>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
 
 tokio
@@ -9107,6 +9188,7 @@ ui
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
+* `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
@@ -9120,6 +9202,7 @@ ui-annotation
 ui-components
 ^^^^^^^^^^^^^
 
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 
 ui-design
@@ -9131,6 +9214,7 @@ ui-library
 ^^^^^^^^^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 
 uicolor
 ^^^^^^^
@@ -9195,7 +9279,6 @@ uninstaller
 ^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 unioinpay
 ^^^^^^^^^
@@ -9525,7 +9608,6 @@ volume-mixer
 ^^^^^^^^^^^^
 
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 vpn
 ^^^
@@ -9678,6 +9760,7 @@ websocket
 
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
 
 webui
@@ -9761,6 +9844,11 @@ weixin-tweak
 
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 
+wetype
+^^^^^^
+
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+
 wifi-direct
 ^^^^^^^^^^^
 
@@ -9770,11 +9858,6 @@ windicss
 ^^^^^^^^
 
 * `unocss/unocss <https://github.com/unocss/unocss>`_
-
-window-switcher
-^^^^^^^^^^^^^^^
-
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 
 windows
 ^^^^^^^
@@ -9920,6 +10003,7 @@ xposed-module
 * `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+* `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 xposedmodule

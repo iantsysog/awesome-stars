@@ -26,7 +26,7 @@ C
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
-* `inforcqb/susfs4ksu-lkm <https://github.com/inforcqb/susfs4ksu-lkm>`_
+* `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
@@ -175,6 +175,7 @@ Java
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
+* `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `rikumi/coloros-mod <https://github.com/rikumi/coloros-mod>`_
 
@@ -220,12 +221,14 @@ Kotlin
 * `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
+* `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
+* `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
@@ -246,7 +249,6 @@ Kotlin
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
-* `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `juanma0511/kknd_Root_Detector <https://github.com/juanma0511/kknd_Root_Detector>`_
 * `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
@@ -377,6 +379,7 @@ Python
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
@@ -470,6 +473,7 @@ Rust
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
+* `storytold/indd-utils <https://github.com/storytold/indd-utils>`_
 * `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
 * `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
@@ -523,6 +527,7 @@ Swift
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `InnoSquadCorp/InnoDI <https://github.com/InnoSquadCorp/InnoDI>`_
+* `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `Iron-Ham/Lists <https://github.com/Iron-Ham/Lists>`_
 * `Jitsusama/UInt128 <https://github.com/Jitsusama/UInt128>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
@@ -537,6 +542,7 @@ Swift
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
 * `LiYanan2004/MathShape <https://github.com/LiYanan2004/MathShape>`_
+* `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
@@ -635,6 +641,7 @@ Swift
 * `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
+* `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 * `pvieito/PythonKit <https://github.com/pvieito/PythonKit>`_
 * `quoid/userscripts <https://github.com/quoid/userscripts>`_
@@ -662,7 +669,6 @@ Swift
 * `vanvoorden/MemoProperty <https://github.com/vanvoorden/MemoProperty>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 * `vmanot/Swallow <https://github.com/vmanot/Swallow>`_
-* `vorssaint/vorssaint-utils <https://github.com/vorssaint/vorssaint-utils>`_
 * `windingwind/zotero-spotlight-search <https://github.com/windingwind/zotero-spotlight-search>`_
 * `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
