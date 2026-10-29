@@ -32,7 +32,6 @@ APP: Miscellaneous
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
-* `facebook/sapling <https://github.com/facebook/sapling>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
@@ -42,6 +41,7 @@ APP: Miscellaneous
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
+* `meta/sapling <https://github.com/meta/sapling>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
@@ -128,6 +128,7 @@ DOMAIN: Network
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
@@ -321,12 +322,12 @@ LANG: Python
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `astral-sh/uv <https://github.com/astral-sh/uv>`_
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
@@ -465,7 +466,6 @@ LANG: TypeScript / JavaScript
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `dip/cmdk <https://github.com/dip/cmdk>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
-* `facebook/lexical <https://github.com/facebook/lexical>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
@@ -475,6 +475,7 @@ LANG: TypeScript / JavaScript
 * `l2beat/earl <https://github.com/l2beat/earl>`_
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
+* `meta/lexical <https://github.com/meta/lexical>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
@@ -581,6 +582,7 @@ PLAT: Android
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
+* `emanuele-f/PCAPdroid-mitm <https://github.com/emanuele-f/PCAPdroid-mitm>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
@@ -744,6 +746,7 @@ PLAT: macOS
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_

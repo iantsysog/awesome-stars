@@ -91,6 +91,7 @@ Elixir
 Go
 ^^
 
+* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `Createitv/agc-cli <https://github.com/Createitv/agc-cli>`_
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
@@ -135,7 +136,6 @@ Go
 HTML
 ^^^^
 
-* `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
@@ -173,6 +173,8 @@ Java
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+* `emanuele-f/PCAPdroid-mitm <https://github.com/emanuele-f/PCAPdroid-mitm>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
 * `google/guice <https://github.com/google/guice>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
@@ -441,8 +443,6 @@ Rust
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
-* `facebook/sapling <https://github.com/facebook/sapling>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `j178/prek <https://github.com/j178/prek>`_
@@ -455,6 +455,8 @@ Rust
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `meta/sapling <https://github.com/meta/sapling>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
@@ -522,6 +524,7 @@ Swift
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
@@ -708,7 +711,6 @@ TypeScript
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
-* `facebook/lexical <https://github.com/facebook/lexical>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
@@ -723,6 +725,7 @@ TypeScript
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
+* `meta/lexical <https://github.com/meta/lexical>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_

@@ -118,9 +118,8 @@ Others
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `eltavine/Duck-ToolBox <https://github.com/eltavine/Duck-ToolBox>`_
+* `emanuele-f/PCAPdroid-mitm <https://github.com/emanuele-f/PCAPdroid-mitm>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
-* `facebook/lexical <https://github.com/facebook/lexical>`_
-* `facebook/sapling <https://github.com/facebook/sapling>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
@@ -156,6 +155,8 @@ Others
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
+* `meta/lexical <https://github.com/meta/lexical>`_
+* `meta/sapling <https://github.com/meta/sapling>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
@@ -532,6 +533,7 @@ android
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
@@ -741,6 +743,7 @@ app
 ^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 
 app-error
@@ -777,6 +780,7 @@ appkit
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
@@ -787,6 +791,7 @@ apple
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
@@ -1435,6 +1440,11 @@ canvas
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 
+capture-traffic
+^^^^^^^^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
 carddav
 ^^^^^^^
 
@@ -1759,9 +1769,20 @@ codable
 
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 
+code
+^^^^
+
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
+
+code-edit
+^^^^^^^^^
+
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
+
 code-editor
 ^^^^^^^^^^^
 
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 
 code-generation
@@ -1773,7 +1794,7 @@ code-generation
 code-quality
 ^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 
 codegen
@@ -2464,6 +2485,11 @@ decompression
 
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 
+decryption
+^^^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
 deep-learning
 ^^^^^^^^^^^^^
 
@@ -2927,6 +2953,7 @@ editor
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
@@ -3214,6 +3241,7 @@ firebase-cloud-messaging
 firewall
 ^^^^^^^^
 
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 
 firmware
@@ -4038,9 +4066,10 @@ icons
 ide
 ^^^
 
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 identity
 ^^^^^^^^
@@ -4218,6 +4247,7 @@ ios
 ^^^
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -4784,12 +4814,12 @@ language
 language-server
 ^^^^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 language-server-protocol
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 laravel
 ^^^^^^^
@@ -5043,7 +5073,7 @@ logicola
 lsp
 ^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 lsposed
 ^^^^^^^
@@ -5124,6 +5154,7 @@ mac
 ^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
@@ -5178,11 +5209,6 @@ mach-o
 
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
-machbox
-^^^^^^^
-
-* `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
-
 machine-learning
 ^^^^^^^^^^^^^^^^
 
@@ -5199,6 +5225,7 @@ macos
 
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
@@ -5368,11 +5395,6 @@ makefile
 ^^^^^^^^
 
 * `go-task/task <https://github.com/go-task/task>`_
-
-malware-analysis
-^^^^^^^^^^^^^^^^
-
-* `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 
 man-in-the-middle
 ^^^^^^^^^^^^^^^^^
@@ -5951,6 +5973,11 @@ network
 
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 
+network-analysis
+^^^^^^^^^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
 networking
 ^^^^^^^^^^
 
@@ -6000,6 +6027,11 @@ no-revoke
 ^^^^^^^^^
 
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
+
+no-root
+^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
 
 node
 ^^^^
@@ -6276,6 +6308,7 @@ open-source
 ^^^^^^^^^^^
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `EpicGames/lore <https://github.com/EpicGames/lore>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
@@ -6524,6 +6557,16 @@ paul-heckel-algorithm
 ^^^^^^^^^^^^^^^^^^^^^
 
 * `ra1028/DifferenceKit <https://github.com/ra1028/DifferenceKit>`_
+
+pcap
+^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
+pcap-files
+^^^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
 
 pcb
 ^^^
@@ -7056,12 +7099,12 @@ python
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
 * `astral-sh/uv <https://github.com/astral-sh/uv>`_
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
@@ -7525,7 +7568,6 @@ rust
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
@@ -7535,6 +7577,7 @@ rust
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
@@ -8010,6 +8053,16 @@ smtp
 
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 
+sniffer
+^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
+sniffing
+^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
 socks5
 ^^^^^^
 
@@ -8338,6 +8391,7 @@ swift
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -8546,6 +8600,7 @@ swiftui
 ^^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
@@ -8953,6 +9008,11 @@ touchid
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 
+traffic-monitor
+^^^^^^^^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
 transformer
 ^^^^^^^^^^^
 
@@ -9065,22 +9125,22 @@ type
 type-annotations
 ^^^^^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 type-check
 ^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 type-checker
 ^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 type-hints
 ^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 type-inference
 ^^^^^^^^^^^^^^
@@ -9100,17 +9160,17 @@ type-safety
 typecheck
 ^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 typechecker
 ^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 typechecking
 ^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 typed-decisions
 ^^^^^^^^^^^^^^^
@@ -9126,7 +9186,7 @@ typeface
 types
 ^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 typescript
 ^^^^^^^^^^
@@ -9165,7 +9225,7 @@ typesetting-system
 typing
 ^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 typography
 ^^^^^^^^^^
@@ -9624,7 +9684,7 @@ vscode
 vscode-extension
 ^^^^^^^^^^^^^^^^
 
-* `facebook/pyrefly <https://github.com/facebook/pyrefly>`_
+* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 
 vue
 ^^^
@@ -9904,6 +9964,11 @@ wireless-debugging
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 
+wireshark
+^^^^^^^^^
+
+* `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
 woodpeckerci
 ^^^^^^^^^^^^
 
@@ -9912,6 +9977,7 @@ woodpeckerci
 workflow
 ^^^^^^^^
 
+* `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
@@ -9935,6 +10001,7 @@ xcode
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
