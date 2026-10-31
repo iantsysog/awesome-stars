@@ -41,6 +41,7 @@ APP: Miscellaneous
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
+* `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
 * `meta/sapling <https://github.com/meta/sapling>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
@@ -418,6 +419,7 @@ LANG: Swift
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
@@ -804,6 +806,7 @@ PLAT: macOS
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `localsend/localsend <https://github.com/localsend/localsend>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_

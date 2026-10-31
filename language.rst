@@ -63,6 +63,7 @@ C++
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
+* `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
@@ -426,6 +427,7 @@ Rust
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
+* `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
@@ -614,6 +616,7 @@ Swift
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mattt/Uncertain <https://github.com/mattt/Uncertain>`_
@@ -633,6 +636,7 @@ Swift
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
@@ -749,11 +753,6 @@ Vim Script
 ^^^^^^^^^^
 
 * `neovim/neovim <https://github.com/neovim/neovim>`_
-
-Vue
-^^^
-
-* `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 
 XML
 ^^^

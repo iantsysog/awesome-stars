@@ -151,6 +151,7 @@ Others
 * `lingqiqi5211/CrashCatcher <https://github.com/lingqiqi5211/CrashCatcher>`_
 * `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
+* `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
@@ -784,6 +785,7 @@ appkit
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 
@@ -1080,6 +1082,11 @@ bash
 * `mvdan/sh <https://github.com/mvdan/sh>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
+
+battery
+^^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 battery-monitor
 ^^^^^^^^^^^^^^^
@@ -2745,6 +2752,11 @@ dnssec
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 
+dock
+^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
+
 docker
 ^^^^^^
 
@@ -2888,6 +2900,11 @@ dune-2000
 ^^^^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+
+duobar
+^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 durable-objects
 ^^^^^^^^^^^^^^^
@@ -3416,6 +3433,31 @@ futures
 ^^^^^^^
 
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
+
+fuzzy
+^^^^^
+
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
+
+fuzzy-finder
+^^^^^^^^^^^^
+
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
+
+fuzzy-logic
+^^^^^^^^^^^
+
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
+
+fuzzy-matching
+^^^^^^^^^^^^^^
+
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
+
+fuzzy-search
+^^^^^^^^^^^^
+
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
 
 gallery
 ^^^^^^^
@@ -4353,6 +4395,11 @@ iphone
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 
+iphone-duo
+^^^^^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
+
 ipod
 ^^^^
 
@@ -5261,6 +5308,7 @@ macos
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
@@ -5306,6 +5354,7 @@ macos-app
 * `f/textream <https://github.com/f/textream>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -5574,6 +5623,7 @@ mental-omega
 menu-bar
 ^^^^^^^^
 
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
 menubar
@@ -5582,12 +5632,14 @@ menubar
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
 menubar-app
 ^^^^^^^^^^^
 
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
@@ -6422,6 +6474,7 @@ optimize
 ordo-core-package
 ^^^^^^^^^^^^^^^^^
 
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 
 orm
@@ -8251,10 +8304,20 @@ status
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 
+status-bar
+^^^^^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
+
 status-page
 ^^^^^^^^^^^
 
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+
+statusbar
+^^^^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 statusitem
 ^^^^^^^^^^
@@ -8436,6 +8499,7 @@ swift
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
@@ -8446,6 +8510,7 @@ swift
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
 * `ordo-one/benchmark <https://github.com/ordo-one/benchmark>`_
 * `ordo-one/equatable <https://github.com/ordo-one/equatable>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
@@ -8490,6 +8555,7 @@ swift-library
 
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
+* `ordo-one/FuzzyMatch <https://github.com/ordo-one/FuzzyMatch>`_
 
 swift-macros
 ^^^^^^^^^^^^
@@ -8621,6 +8687,7 @@ swiftui
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
@@ -8943,6 +9010,11 @@ thorium-browser
 ^^^^^^^^^^^^^^^
 
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
+
+three-in-one
+^^^^^^^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 threejs
 ^^^^^^^
@@ -9428,6 +9500,7 @@ userscripts
 utility
 ^^^^^^^
 
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
 utm
@@ -9658,6 +9731,11 @@ vnc-viewer
 ^^^^^^^^^^
 
 * `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
+
+volume
+^^^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 volume-control
 ^^^^^^^^^^^^^^
@@ -9908,6 +9986,11 @@ wetype
 ^^^^^^
 
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+
+wifi
+^^^^
+
+* `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 wifi-direct
 ^^^^^^^^^^^
