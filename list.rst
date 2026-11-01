@@ -21,6 +21,7 @@ APP: Miscellaneous
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
@@ -254,6 +255,7 @@ KNOWHOW: Agent
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
@@ -262,6 +264,7 @@ KNOWHOW: Guidance
 
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 
@@ -567,6 +570,7 @@ PLAT: Android
 * `Vstory/ColorOSGalleryNomediaGuard <https://github.com/Vstory/ColorOSGalleryNomediaGuard>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
@@ -638,6 +642,7 @@ PLAT: Linux
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
@@ -698,6 +703,7 @@ PLAT: Windows
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
@@ -748,7 +754,6 @@ PLAT: macOS
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -776,6 +781,7 @@ PLAT: macOS
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_

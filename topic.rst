@@ -145,6 +145,7 @@ Others
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
@@ -325,6 +326,7 @@ agent-skills
 ^^^^^^^^^^^^
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 agentic-ai
 ^^^^^^^^^^
@@ -744,7 +746,6 @@ app
 ^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 
 app-error
@@ -781,7 +782,6 @@ appkit
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
@@ -793,7 +793,6 @@ apple
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
@@ -1641,6 +1640,17 @@ claude-code
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
+
+claude-plugin
+^^^^^^^^^^^^^
+
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
+
+claude-skills
+^^^^^^^^^^^^^
+
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 clean
 ^^^^^
@@ -1689,6 +1699,11 @@ cli-tool
 ^^^^^^^^
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+
+clippy
+^^^^^^
+
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 cloc
 ^^^^
@@ -1776,20 +1791,9 @@ codable
 
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 
-code
-^^^^
-
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
-
-code-edit
-^^^^^^^^^
-
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
-
 code-editor
 ^^^^^^^^^^^
 
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 
 code-generation
@@ -1803,6 +1807,11 @@ code-quality
 
 * `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
+
+code-review
+^^^^^^^^^^^
+
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 codegen
 ^^^^^^^
@@ -1838,6 +1847,7 @@ coding-agent
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 coding-agents
 ^^^^^^^^^^^^^
@@ -2002,6 +2012,7 @@ compose
 ^^^^^^^
 
 * `AChep/keyguard-app <https://github.com/AChep/keyguard-app>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
@@ -2339,6 +2350,7 @@ cursor
 ^^^^^^
 
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 cyclonedx
 ^^^^^^^^^
@@ -2970,7 +2982,6 @@ editor
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
@@ -4108,7 +4119,6 @@ icons
 ide
 ^^^
 
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `meta/pyrefly <https://github.com/meta/pyrefly>`_
@@ -4289,7 +4299,6 @@ ios
 ^^^
 
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -5201,7 +5210,6 @@ mac
 ^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
@@ -5272,7 +5280,6 @@ macos
 
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
@@ -5761,6 +5768,7 @@ miui
 miuix
 ^^^^^
 
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 
@@ -6360,7 +6368,6 @@ open-source
 ^^^^^^^^^^^
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `EpicGames/lore <https://github.com/EpicGames/lore>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
@@ -7632,6 +7639,7 @@ rust
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
@@ -8381,6 +8389,7 @@ style-guide
 ^^^^^^^^^^^
 
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 styleguide
 ^^^^^^^^^^
@@ -8454,7 +8463,6 @@ swift
 * `Boris-Em/ColorKit <https://github.com/Boris-Em/ColorKit>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -8666,7 +8674,6 @@ swiftui
 ^^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `Kyle-Ye/ScreenShieldKit <https://github.com/Kyle-Ye/ScreenShieldKit>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
@@ -10084,7 +10091,6 @@ xcode
 ^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_

@@ -141,6 +141,7 @@ HTML
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 * `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
 
@@ -163,7 +164,6 @@ Java
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
-* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
@@ -233,12 +233,14 @@ Kotlin
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
+* `NekoyaHouse/Epsilon <https://github.com/NekoyaHouse/Epsilon>`_
 * `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `VegaBobo/DSU-Sideloader <https://github.com/VegaBobo/DSU-Sideloader>`_
 * `VeryBaaad/HMA-OSS <https://github.com/VeryBaaad/HMA-OSS>`_
+* `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `android/skills <https://github.com/android/skills>`_
@@ -385,6 +387,7 @@ Python
 * `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+* `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `oozoofrog/swiftlang-wiki <https://github.com/oozoofrog/swiftlang-wiki>`_
@@ -526,7 +529,6 @@ Swift
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Cocoanetics/SwiftScript <https://github.com/Cocoanetics/SwiftScript>`_
-* `CodeEditApp/CodeEdit <https://github.com/CodeEditApp/CodeEdit>`_
 * `Dave861/swift-span-algorithms <https://github.com/Dave861/swift-span-algorithms>`_
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
