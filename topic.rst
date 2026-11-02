@@ -58,6 +58,7 @@ Others
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
 * `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
+* `Losses/rune <https://github.com/Losses/rune>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
@@ -2267,6 +2268,11 @@ crash-tracking
 
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 
+create-dmg
+^^^^^^^^^^
+
+* `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
+
 creative-coding
 ^^^^^^^^^^^^^^^
 
@@ -2709,6 +2715,7 @@ django
 dmg
 ^^^
 
+* `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
 * `ungoogled-software/ungoogled-chromium-macos <https://github.com/ungoogled-software/ungoogled-chromium-macos>`_
 
 dns
@@ -5295,6 +5302,7 @@ macos
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
+* `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
@@ -8487,6 +8495,7 @@ swift
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `brightdigit/MistKit <https://github.com/brightdigit/MistKit>`_
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
+* `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `davedelong/time <https://github.com/davedelong/time>`_
 * `dimasusername/TaskGate <https://github.com/dimasusername/TaskGate>`_

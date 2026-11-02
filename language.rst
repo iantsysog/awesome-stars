@@ -402,7 +402,6 @@ QML
 ^^^
 
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
-* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 
 Roff
 ^^^^
@@ -427,6 +426,7 @@ Rust
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
+* `Losses/rune <https://github.com/Losses/rune>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
@@ -450,6 +450,7 @@ Rust
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
+* `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `j178/prek <https://github.com/j178/prek>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
@@ -583,6 +584,7 @@ Swift
 * `brokenhandsio/swift-cbor <https://github.com/brokenhandsio/swift-cbor>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
 * `cashwu/iphoneLocationMove <https://github.com/cashwu/iphoneLocationMove>`_
+* `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
 * `claration/feather <https://github.com/claration/feather>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_

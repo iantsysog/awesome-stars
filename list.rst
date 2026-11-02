@@ -638,6 +638,7 @@ PLAT: Linux
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
+* `Losses/rune <https://github.com/Losses/rune>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
@@ -700,6 +701,7 @@ PLAT: Windows
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `Losses/rune <https://github.com/Losses/rune>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
@@ -768,6 +770,7 @@ PLAT: macOS
 * `Lakr233/MuseAmp <https://github.com/Lakr233/MuseAmp>`_
 * `Lakr233/vphone-cli <https://github.com/Lakr233/vphone-cli>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
+* `Losses/rune <https://github.com/Losses/rune>`_
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
@@ -790,6 +793,7 @@ PLAT: macOS
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
+* `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
