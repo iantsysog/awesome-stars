@@ -163,6 +163,7 @@ Java
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
+* `MorpheApp/morphe-patches <https://github.com/MorpheApp/morphe-patches>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `VisionR1/KeyAttestation <https://github.com/VisionR1/KeyAttestation>`_
@@ -193,6 +194,7 @@ JavaScript
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
+* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
@@ -225,10 +227,10 @@ Kotlin
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
 * `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
-* `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
@@ -378,12 +380,14 @@ Python
 * `dwolfhub/zxcvbn-python <https://github.com/dwolfhub/zxcvbn-python>`_
 * `gidgethub/gidgethub <https://github.com/gidgethub/gidgethub>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 * `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
@@ -440,7 +444,6 @@ Rust
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
-* `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
 * `dani-garcia/vaultwarden <https://github.com/dani-garcia/vaultwarden>`_
 * `denoland/celld <https://github.com/denoland/celld>`_

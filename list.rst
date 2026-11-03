@@ -246,6 +246,7 @@ KNOWHOW: Agent
 * `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
@@ -253,6 +254,7 @@ KNOWHOW: Agent
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
@@ -542,11 +544,12 @@ PLAT: Android
 * `Kr0oked/Compass <https://github.com/Kr0oked/Compass>`_
 * `LSPosed/DirtySepolicy <https://github.com/LSPosed/DirtySepolicy>`_
 * `LSPosed/DisableFlagSecure <https://github.com/LSPosed/DisableFlagSecure>`_
-* `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
 * `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
+* `MorpheApp/morphe-patches <https://github.com/MorpheApp/morphe-patches>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_

@@ -57,7 +57,6 @@ Others
 * `Liam0205/fdwm <https://github.com/Liam0205/fdwm>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
-* `LoliLin/journal-android-multilingual <https://github.com/LoliLin/journal-android-multilingual>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
@@ -319,6 +318,7 @@ agent
 ^^^^^
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
@@ -392,6 +392,11 @@ ai-generated
 ^^^^^^^^^^^^
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
+
+ai-skill
+^^^^^^^^
+
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 
 ai-vs-ai
 ^^^^^^^^
@@ -522,6 +527,8 @@ android
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
+* `MorpheApp/morphe-patches <https://github.com/MorpheApp/morphe-patches>`_
 * `MuntashirAkon/AppManager <https://github.com/MuntashirAkon/AppManager>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
@@ -546,6 +553,7 @@ android
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
@@ -735,6 +743,7 @@ api-testing
 apk
 ^^^
 
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `wxxsfxyzm/InstallerX-Revived <https://github.com/wxxsfxyzm/InstallerX-Revived>`_
 
 apks
@@ -747,6 +756,7 @@ app
 ^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 
 app-error
@@ -797,6 +807,7 @@ apple
 * `DnV1eX/LiquidGlassKit <https://github.com/DnV1eX/LiquidGlassKit>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
@@ -2573,6 +2584,7 @@ design
 ^^^^^^
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `robb/Redline <https://github.com/robb/Redline>`_
 
 design-engineering
@@ -2589,12 +2601,18 @@ design-system
 ^^^^^^^^^^^^^
 
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 
 design-tool
 ^^^^^^^^^^^
 
 * `lnkiai/m3e-canvas <https://github.com/lnkiai/m3e-canvas>`_
+
+designsystem
+^^^^^^^^^^^^
+
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 
 desktop
 ^^^^^^^
@@ -2733,11 +2751,13 @@ dns-over-https
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 
 dns-over-tls
 ^^^^^^^^^^^^
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 
 dns-privacy
 ^^^^^^^^^^^
@@ -2770,6 +2790,7 @@ dnssec
 
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `jawah/niquests <https://github.com/jawah/niquests>`_
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 
 dock
 ^^^^
@@ -4567,6 +4588,7 @@ jetpack-compose
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 
 jit
 ^^^
@@ -4806,6 +4828,7 @@ kotlin
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
@@ -5604,6 +5627,7 @@ md3e
 ^^^^
 
 * `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
+* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 
 media3
 ^^^^^^
@@ -5882,6 +5906,12 @@ monospaced-font
 ^^^^^^^^^^^^^^^
 
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
+
+morphe
+^^^^^^
+
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
+* `MorpheApp/morphe-patches <https://github.com/MorpheApp/morphe-patches>`_
 
 morphing
 ^^^^^^^^
@@ -6302,6 +6332,11 @@ octokit
 
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
+odoh
+^^^^
+
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
+
 odometer
 ^^^^^^^^
 
@@ -6619,7 +6654,13 @@ password-store
 patcher
 ^^^^^^^
 
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
+
+patches
+^^^^^^^
+
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 
 paul-heckel-algorithm
 ^^^^^^^^^^^^^^^^^^^^^
@@ -6990,6 +7031,7 @@ privacy
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
 privacy-protection
@@ -7863,6 +7905,7 @@ self-hosted
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
 * `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
@@ -8065,6 +8108,7 @@ skills
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
+* `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 
 slack
 ^^^^^
@@ -10195,6 +10239,7 @@ yara
 youtube
 ^^^^^^^
 
+* `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 
 youtube-api
