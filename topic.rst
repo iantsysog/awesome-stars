@@ -145,7 +145,6 @@ Others
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
-* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
@@ -323,6 +322,11 @@ agent
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
+agent-sandbox
+^^^^^^^^^^^^^
+
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
+
 agent-skills
 ^^^^^^^^^^^^
 
@@ -362,6 +366,7 @@ ai-agents
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 ai-arena
 ^^^^^^^^
@@ -1808,6 +1813,11 @@ code-editor
 
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 
+code-execution
+^^^^^^^^^^^^^^
+
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
+
 code-generation
 ^^^^^^^^^^^^^^^
 
@@ -2144,6 +2154,7 @@ containers
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
 * `anchore/syft <https://github.com/anchore/syft>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 content-cache
 ^^^^^^^^^^^^^
@@ -2299,6 +2310,11 @@ crowdsourcing
 ^^^^^^^^^^^^^
 
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
+
+crun
+^^^^
+
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 crypto
 ^^^^^^
@@ -3614,6 +3630,7 @@ git
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
 * `j178/prek <https://github.com/j178/prek>`_
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 
@@ -4927,6 +4944,11 @@ latex3-development
 
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
 
+law
+^^^
+
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
+
 laya
 ^^^^
 
@@ -4949,6 +4971,16 @@ ledger
 * `deb-sig/double-entry-generator <https://github.com/deb-sig/double-entry-generator>`_
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
+legal-tech
+^^^^^^^^^^
+
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
+
+legislation
+^^^^^^^^^^^
+
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
+
 letsencrypt
 ^^^^^^^^^^^
 
@@ -4958,6 +4990,11 @@ lexer
 ^^^^^
 
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
+
+libkrun
+^^^^^^^
+
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 libraries
 ^^^^^^^^^
@@ -5086,6 +5123,7 @@ llm
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 llm-inference
 ^^^^^^^^^^^^^
@@ -5611,6 +5649,7 @@ mcp
 
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 
 mcp-server
 ^^^^^^^^^^
@@ -5738,6 +5777,11 @@ microsoft365
 ^^^^^^^^^^^^
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
+
+microvm
+^^^^^^^
+
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 midi
 ^^^^
@@ -6406,6 +6450,11 @@ opam
 
 * `gfngfn/SATySFi <https://github.com/gfngfn/SATySFi>`_
 * `ocaml/opam <https://github.com/ocaml/opam>`_
+
+open-data
+^^^^^^^^^
+
+* `lexifina/global-law <https://github.com/lexifina/global-law>`_
 
 open-source
 ^^^^^^^^^^^
@@ -7695,6 +7744,7 @@ rust
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
@@ -7760,6 +7810,7 @@ sandbox
 
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 sangfor
 ^^^^^^^
@@ -9716,6 +9767,7 @@ virtual-machine
 ^^^^^^^^^^^^^^^
 
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 virtual-machines
 ^^^^^^^^^^^^^^^^
@@ -9725,6 +9777,7 @@ virtual-machines
 virtualization
 ^^^^^^^^^^^^^^
 
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 
 virtualization-framework

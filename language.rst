@@ -481,6 +481,7 @@ Rust
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 * `squidowl/halloy <https://github.com/squidowl/halloy>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
 * `starship/starship <https://github.com/starship/starship>`_
@@ -490,7 +491,6 @@ Rust
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
-* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 
@@ -754,6 +754,7 @@ TypeScript
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 * `unocss/unocss <https://github.com/unocss/unocss>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
+* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 
 Vim Script

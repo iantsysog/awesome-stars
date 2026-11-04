@@ -258,6 +258,7 @@ KNOWHOW: Agent
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
+* `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
 
