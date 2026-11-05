@@ -33,6 +33,7 @@ APP: Miscellaneous
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
+* `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `git-bug/git-bug <https://github.com/git-bug/git-bug>`_
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_

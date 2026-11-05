@@ -123,6 +123,7 @@ Others
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
+* `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `go-gost/x <https://github.com/go-gost/x>`_

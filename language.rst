@@ -723,6 +723,7 @@ TypeScript
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
+* `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
