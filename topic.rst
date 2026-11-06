@@ -172,6 +172,7 @@ Others
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
 * `naan/FocusOnAppear <https://github.com/naan/FocusOnAppear>`_
+* `nfzerox/VirtualIntelMacOnAppleSilicon <https://github.com/nfzerox/VirtualIntelMacOnAppleSilicon>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_
 * `nodes-app/swift-markdown-engine <https://github.com/nodes-app/swift-markdown-engine>`_
@@ -196,6 +197,7 @@ Others
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
 * `shihabal3amri/DiPlay <https://github.com/shihabal3amri/DiPlay>`_
+* `silentbicycle/greatest <https://github.com/silentbicycle/greatest>`_
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `storytold/indd-utils <https://github.com/storytold/indd-utils>`_
 * `suqi8/coui <https://github.com/suqi8/coui>`_
@@ -1395,13 +1397,20 @@ bytecode
 c
 ^
 
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
 * `neovim/neovim <https://github.com/neovim/neovim>`_
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 
 c-api
 ^^^^^
 
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+
+c-plus-plus
+^^^^^^^^^^^
+
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 
 c99
 ^^^
@@ -1918,17 +1927,6 @@ coloros
 
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
-
-coloros-16
-^^^^^^^^^^
-
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
-
-coloros-17
-^^^^^^^^^^
-
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 combine
 ^^^^^^^
@@ -2225,6 +2223,7 @@ cpp
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 
 cpp-programming
 ^^^^^^^^^^^^^^^
@@ -2305,6 +2304,7 @@ cross-platform
 ^^^^^^^^^^^^^^
 
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 
 crowdsourcing
@@ -3432,6 +3432,7 @@ fragments
 framework
 ^^^^^^^^^
 
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
 
 free-disk-space
@@ -4799,6 +4800,11 @@ kimi-k3
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+kiss
+^^^^
+
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
+
 kmm
 ^^^
 
@@ -5214,7 +5220,6 @@ lsposed
 lsposed-module
 ^^^^^^^^^^^^^^
 
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 
 lsposeed
@@ -6444,7 +6449,6 @@ oneplus
 
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 opam
 ^^^^
@@ -6555,11 +6559,6 @@ operator
 ^^^^^^^^
 
 * `trycua/cua <https://github.com/trycua/cua>`_
-
-oppo
-^^^^
-
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 
 ops
 ^^^
@@ -7438,11 +7437,6 @@ real-time-strategy
 * `OpenRA/OpenRA <https://github.com/OpenRA/OpenRA>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
 
-realme
-^^^^^^
-
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
-
 recursor
 ^^^^^^^^
 
@@ -7632,7 +7626,6 @@ root
 * `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
@@ -9044,8 +9037,14 @@ testing
 
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `l2beat/earl <https://github.com/l2beat/earl>`_
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
+
+testing-framework
+^^^^^^^^^^^^^^^^^
+
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 
 testing-tools
 ^^^^^^^^^^^^^
@@ -9529,9 +9528,15 @@ unioinpay
 
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
 
+unit-test
+^^^^^^^^^
+
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
+
 unit-testing
 ^^^^^^^^^^^^
 
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
 
 universal
@@ -10265,7 +10270,6 @@ xposed-module
 
 * `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `NEORUAA/WeType_UI_Enhanced <https://github.com/NEORUAA/WeType_UI_Enhanced>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 

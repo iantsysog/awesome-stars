@@ -275,11 +275,14 @@ KNOWHOW: Guidance
 LANG: C / C++ / C#
 ^^^^^^^^^^^^^^^^^^
 
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `belav/csharpier <https://github.com/belav/csharpier>`_
 * `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
+* `silentbicycle/greatest <https://github.com/silentbicycle/greatest>`_
 
 LANG: Cangjie
 ^^^^^^^^^^^^^
@@ -549,7 +552,6 @@ PLAT: Android
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `MorpheApp/morphe-patches <https://github.com/MorpheApp/morphe-patches>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
@@ -830,6 +832,7 @@ PLAT: macOS
 * `missuo/kumone <https://github.com/missuo/kumone>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `neovim/neovim <https://github.com/neovim/neovim>`_
+* `nfzerox/VirtualIntelMacOnAppleSilicon <https://github.com/nfzerox/VirtualIntelMacOnAppleSilicon>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `ninxsoft/Mist <https://github.com/ninxsoft/Mist>`_

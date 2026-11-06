@@ -21,6 +21,7 @@ C
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
@@ -34,7 +35,9 @@ C
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
+* `nfzerox/VirtualIntelMacOnAppleSilicon <https://github.com/nfzerox/VirtualIntelMacOnAppleSilicon>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
+* `silentbicycle/greatest <https://github.com/silentbicycle/greatest>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
 * `zx2c4/cgit <https://github.com/zx2c4/cgit>`_
@@ -66,6 +69,7 @@ C++
 * `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
 * `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
+* `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 
@@ -229,7 +233,6 @@ Kotlin
 * `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
 * `Mahmud0808/ColorBlendr <https://github.com/Mahmud0808/ColorBlendr>`_
 * `MaintainTeam/Hypatia <https://github.com/MaintainTeam/Hypatia>`_
-* `MiToverG422/ONextBox <https://github.com/MiToverG422/ONextBox>`_
 * `MorpheApp/morphe-manager <https://github.com/MorpheApp/morphe-manager>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
 * `Mygod/VPNHotspot <https://github.com/Mygod/VPNHotspot>`_
@@ -336,6 +339,7 @@ Others
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
+* `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
@@ -433,7 +437,6 @@ Rust
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
-* `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
