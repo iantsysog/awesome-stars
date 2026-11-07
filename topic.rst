@@ -221,6 +221,7 @@ Others
 * `yellowplushq/ScribbleLetterView <https://github.com/yellowplushq/ScribbleLetterView>`_
 * `yichengchen/ATV-Bilibili-demo <https://github.com/yichengchen/ATV-Bilibili-demo>`_
 * `you-apps/CalcYou <https://github.com/you-apps/CalcYou>`_
+* `yunheshiguang/yunheshiguang-droid <https://github.com/yunheshiguang/yunheshiguang-droid>`_
 * `zgwl/chinese-buy-us-stock-guide <https://github.com/zgwl/chinese-buy-us-stock-guide>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_

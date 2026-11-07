@@ -143,7 +143,6 @@ HTML
 
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
-* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
@@ -377,6 +376,7 @@ Python
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `Rainbow-Dreamer/musicpy <https://github.com/Rainbow-Dreamer/musicpy>`_
 * `ReactiveX/RxPY <https://github.com/ReactiveX/RxPY>`_
+* `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
@@ -760,6 +760,7 @@ TypeScript
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
 * `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
+* `yunheshiguang/yunheshiguang-droid <https://github.com/yunheshiguang/yunheshiguang-droid>`_
 
 Vim Script
 ^^^^^^^^^^

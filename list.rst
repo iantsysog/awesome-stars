@@ -63,6 +63,7 @@ APP: Miscellaneous
 * `wolfpld/tracy <https://github.com/wolfpld/tracy>`_
 * `wy51ai/floorplan-3d <https://github.com/wy51ai/floorplan-3d>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
+* `yunheshiguang/yunheshiguang-droid <https://github.com/yunheshiguang/yunheshiguang-droid>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zedeus/nitter <https://github.com/zedeus/nitter>`_
 
