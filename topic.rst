@@ -286,6 +286,11 @@ activator
 
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
+active
+^^^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+
 activity-monitor
 ^^^^^^^^^^^^^^^^
 
@@ -803,7 +808,6 @@ appkit
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
@@ -1117,6 +1121,7 @@ bazel
 ^^^^^
 
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 beancount
 ^^^^^^^^^
@@ -1488,6 +1493,7 @@ cargo
 ^^^^^
 
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 cbor
 ^^^^
@@ -1727,6 +1733,11 @@ cli-tool
 ^^^^^^^^
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
+
+clickhouse
+^^^^^^^^^^
+
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 
 clippy
 ^^^^^^
@@ -2445,11 +2456,6 @@ database-gui
 
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 
-database-management
-^^^^^^^^^^^^^^^^^^^
-
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
-
 datastore
 ^^^^^^^^^
 
@@ -2954,6 +2960,11 @@ dsh-skill
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 
+duckdb
+^^^^^^
+
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
+
 dune-2000
 ^^^^^^^^^
 
@@ -3072,6 +3083,11 @@ eleventy
 ^^^^^^^^
 
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
+
+elixir
+^^^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 email
 ^^^^^
@@ -3844,6 +3860,7 @@ groovy
 gtk4
 ^^^^
 
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `lgse/strata <https://github.com/lgse/strata>`_
 
 gui
@@ -4359,6 +4376,7 @@ ios
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `claration/feather <https://github.com/claration/feather>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
@@ -4385,7 +4403,6 @@ ios
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
 * `terrakok/kmp-awesome <https://github.com/terrakok/kmp-awesome>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
 ios-app
@@ -5076,6 +5093,7 @@ linter
 linux
 ^^^^^
 
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `lgse/strata <https://github.com/lgse/strata>`_
@@ -5432,7 +5450,6 @@ macos-app
 ^^^^^^^^^
 
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
@@ -5445,6 +5462,11 @@ macos-application
 ^^^^^^^^^^^^^^^^^
 
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
+
+macos-apps
+^^^^^^^^^^
+
+* `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 
 macos-scripts
 ^^^^^^^^^^^^^
@@ -5537,6 +5559,11 @@ manus
 ^^^^^
 
 * `trycua/cua <https://github.com/trycua/cua>`_
+
+mariadb
+^^^^^^^
+
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 
 markdown
 ^^^^^^^^
@@ -6074,17 +6101,11 @@ mysql
 * `drizzle-team/drizzle-orm <https://github.com/drizzle-team/drizzle-orm>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 
-mysql-client
-^^^^^^^^^^^^
-
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
-
 native
 ^^^^^^
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
 native-aot
@@ -6339,7 +6360,6 @@ objective-c
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 observability
 ^^^^^^^^^^^^^
@@ -6439,6 +6459,11 @@ on-device-llm
 ^^^^^^^^^^^^^
 
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+
+once
+^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 onedrive
 ^^^^^^^^
@@ -7106,11 +7131,6 @@ product-analytics
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 
-productivity
-^^^^^^^^^^^^
-
-* `tuist/tuist <https://github.com/tuist/tuist>`_
-
 profiler
 ^^^^^^^^
 
@@ -7713,6 +7733,7 @@ rust
 
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `astral-sh/ruff <https://github.com/astral-sh/ruff>`_
@@ -7847,11 +7868,6 @@ scala
 ^^^^^
 
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
-
-scalability
-^^^^^^^^^^^
-
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 scalable
 ^^^^^^^^
@@ -8636,7 +8652,6 @@ swift
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
@@ -8780,7 +8795,6 @@ swiftui
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
@@ -8899,11 +8913,6 @@ systems-programming
 ^^^^^^^^^^^^^^^^^^^
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
-
-tableplus
-^^^^^^^^^
-
-* `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 
 tableview
 ^^^^^^^^^
@@ -10213,7 +10222,6 @@ xcode
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 xcode-cleaner
 ^^^^^^^^^^^^^
@@ -10229,6 +10237,7 @@ xcodebuild
 ^^^^^^^^^^
 
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 xcodeproj
 ^^^^^^^^^
