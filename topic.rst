@@ -2939,6 +2939,7 @@ dsh-plugin
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 dsh-plugin-market
 ^^^^^^^^^^^^^^^^^
@@ -3592,6 +3593,11 @@ gemini-cli
 ^^^^^^^^^^
 
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+
+gemini-cli-extension
+^^^^^^^^^^^^^^^^^^^^
+
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 gemma
 ^^^^^
@@ -8652,7 +8658,6 @@ swift
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
-* `tw93/Mole <https://github.com/tw93/Mole>`_
 * `typelift/SwiftCheck <https://github.com/typelift/SwiftCheck>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 
@@ -8822,7 +8827,6 @@ swiftui
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
-* `tw93/Mole <https://github.com/tw93/Mole>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_
 
 swiftui-camera
