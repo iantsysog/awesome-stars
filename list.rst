@@ -748,6 +748,7 @@ PLAT: iOS
 * `claration/feather <https://github.com/claration/feather>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
+* `huamidev/GestaltX <https://github.com/huamidev/GestaltX>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_

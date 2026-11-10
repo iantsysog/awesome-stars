@@ -123,6 +123,7 @@ Go
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
@@ -609,6 +610,7 @@ Swift
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
+* `huamidev/GestaltX <https://github.com/huamidev/GestaltX>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `iina/iina <https://github.com/iina/iina>`_
@@ -728,7 +730,6 @@ TypeScript
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
-* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_

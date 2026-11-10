@@ -129,6 +129,7 @@ Others
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `google/guice <https://github.com/google/guice>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
+* `huamidev/GestaltX <https://github.com/huamidev/GestaltX>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
@@ -1354,6 +1355,16 @@ build-automation
 
 * `kingsword09/gvc <https://github.com/kingsword09/gvc>`_
 
+build-cache
+^^^^^^^^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
+
+build-infrastructure
+^^^^^^^^^^^^^^^^^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
+
 build-system
 ^^^^^^^^^^^^
 
@@ -1598,6 +1609,7 @@ chromium-browser
 ci
 ^^
 
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `woodpecker-ci/woodpecker <https://github.com/woodpecker-ci/woodpecker>`_
 
 cicd
@@ -1897,6 +1909,7 @@ coding-agents
 ^^^^^^^^^^^^^
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 coding-font
 ^^^^^^^^^^^
@@ -2559,6 +2572,7 @@ deepseek-harness
 ^^^^^^^^^^^^^^^^
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 defaults
 ^^^^^^^^
@@ -2673,6 +2687,7 @@ developer-tools
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 
 device-owner
@@ -2960,6 +2975,7 @@ dsh-skill
 ^^^^^^^^^
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
+* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 duckdb
 ^^^^^^
@@ -5315,7 +5331,6 @@ mac
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
-* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 mac-app
 ^^^^^^^
@@ -6112,7 +6127,6 @@ native
 
 * `Fadouse/neko-obfuscator <https://github.com/Fadouse/neko-obfuscator>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
-* `tw93/Mole <https://github.com/tw93/Mole>`_
 
 native-aot
 ^^^^^^^^^^
@@ -7524,6 +7538,11 @@ reliable-udp
 ^^^^^^^^^^^^
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+
+remote-cache
+^^^^^^^^^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 requests
 ^^^^^^^^
@@ -9053,6 +9072,7 @@ testing
 * `l2beat/earl <https://github.com/l2beat/earl>`_
 * `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 
 testing-framework
