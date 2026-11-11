@@ -123,9 +123,9 @@ Go
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
-* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
@@ -253,6 +253,7 @@ Kotlin
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
+* `d4rken-org/capod <https://github.com/d4rken-org/capod>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
@@ -339,7 +340,6 @@ Others
 * `HammingDev/haiming-app-monetization <https://github.com/HammingDev/haiming-app-monetization>`_
 * `HuangZhuoRui/LocationSpoofer <https://github.com/HuangZhuoRui/LocationSpoofer>`_
 * `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
-* `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
 * `awesome-foss/awesome-sysadmin <https://github.com/awesome-foss/awesome-sysadmin>`_
@@ -438,6 +438,7 @@ Rust
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
@@ -495,6 +496,7 @@ Rust
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
+* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 
@@ -730,6 +732,7 @@ TypeScript
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
@@ -759,7 +762,6 @@ TypeScript
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 * `unocss/unocss <https://github.com/unocss/unocss>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
-* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 * `yunheshiguang/yunheshiguang-droid <https://github.com/yunheshiguang/yunheshiguang-droid>`_
 

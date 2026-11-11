@@ -431,7 +431,13 @@ airplay
 airpods
 ^^^^^^^
 
+* `d4rken-org/capod <https://github.com/d4rken-org/capod>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
+
+airpods-battery
+^^^^^^^^^^^^^^^
+
+* `d4rken-org/capod <https://github.com/d4rken-org/capod>`_
 
 airprint
 ^^^^^^^^
@@ -556,6 +562,7 @@ android
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
+* `d4rken-org/capod <https://github.com/d4rken-org/capod>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `eltavine/Duck-Detector-Refactoring <https://github.com/eltavine/Duck-Detector-Refactoring>`_
@@ -823,6 +830,7 @@ apple
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
@@ -875,6 +883,11 @@ application-uninstaller
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
+
+appstore
+^^^^^^^^
+
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 
 arb
 ^^^
@@ -1258,6 +1271,7 @@ bluetooth-low-energy
 ^^^^^^^^^^^^^^^^^^^^
 
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `d4rken-org/capod <https://github.com/d4rken-org/capod>`_
 
 bonjour
 ^^^^^^^
@@ -1734,6 +1748,7 @@ cli
 * `arxanas/git-branchless <https://github.com/arxanas/git-branchless>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -1973,6 +1988,7 @@ command-line
 ^^^^^^^^^^^^
 
 * `alecthomas/kong <https://github.com/alecthomas/kong>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -1980,6 +1996,7 @@ command-line-tool
 ^^^^^^^^^^^^^^^^^
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 
@@ -3738,6 +3755,7 @@ go
 * `elves/elvish <https://github.com/elves/elvish>`_
 * `go-task/task <https://github.com/go-task/task>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
@@ -3773,11 +3791,17 @@ golang
 * `d2lang/d2 <https://github.com/d2lang/d2>`_
 * `devld/go-drive <https://github.com/devld/go-drive>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
 * `ssut/payload-dumper-go <https://github.com/ssut/payload-dumper-go>`_
+
+golang-library
+^^^^^^^^^^^^^^
+
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 
 google-analytics
 ^^^^^^^^^^^^^^^^
@@ -4411,6 +4435,7 @@ ios
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
@@ -4474,6 +4499,7 @@ ipa
 ^^^
 
 * `claration/feather <https://github.com/claration/feather>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 
 ipad
 ^^^^
@@ -4568,6 +4594,7 @@ itunes
 ^^^^^^
 
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 
 jailbreak
 ^^^^^^^^^
@@ -5432,6 +5459,7 @@ macos
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
@@ -7549,6 +7577,11 @@ requests
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 
+research
+^^^^^^^^
+
+* `majd/ipatool <https://github.com/majd/ipatool>`_
+
 resolver
 ^^^^^^^^
 
@@ -7582,6 +7615,7 @@ reverse-engineering
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 reverse-proxy
@@ -7974,6 +8008,7 @@ security
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
 * `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
@@ -8648,6 +8683,7 @@ swift
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
@@ -9202,6 +9238,7 @@ tool
 ^^^^
 
 * `anchore/syft <https://github.com/anchore/syft>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 
 tools
@@ -9836,6 +9873,7 @@ visionos
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 
 visual-effect
 ^^^^^^^^^^^^^

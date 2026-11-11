@@ -590,6 +590,7 @@ PLAT: Android
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
+* `d4rken-org/capod <https://github.com/d4rken-org/capod>`_
 * `d4rken-org/sdmaid-se <https://github.com/d4rken-org/sdmaid-se>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
@@ -829,6 +830,7 @@ PLAT: macOS
 * `localsend/localsend <https://github.com/localsend/localsend>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
+* `majd/ipatool <https://github.com/majd/ipatool>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
