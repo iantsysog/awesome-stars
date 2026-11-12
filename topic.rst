@@ -58,6 +58,7 @@ Others
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
+* `LuaJIT/LuaJIT <https://github.com/LuaJIT/LuaJIT>`_
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
@@ -73,9 +74,12 @@ Others
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
+* `SukkaW/nolyfill <https://github.com/SukkaW/nolyfill>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
 * `TWRP-Test/platform_manifest_twrp_aosp <https://github.com/TWRP-Test/platform_manifest_twrp_aosp>`_
+* `TelegramMessenger/twidget <https://github.com/TelegramMessenger/twidget>`_
+* `TelegramMessenger/widget-sandbox <https://github.com/TelegramMessenger/widget-sandbox>`_
 * `TheKingBucket001/txtoi <https://github.com/TheKingBucket001/txtoi>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `TuringSoftware/CrystalFetch <https://github.com/TuringSoftware/CrystalFetch>`_
@@ -162,6 +166,7 @@ Others
 * `meta/sapling <https://github.com/meta/sapling>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
 * `mickadesign/fluid-functionalism <https://github.com/mickadesign/fluid-functionalism>`_
+* `microsoft/Procexp-Mac <https://github.com/microsoft/Procexp-Mac>`_
 * `microsoft/WindowsDeveloperConfig <https://github.com/microsoft/WindowsDeveloperConfig>`_
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
@@ -192,6 +197,7 @@ Others
 * `pvieito/PythonKit <https://github.com/pvieito/PythonKit>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
+* `quickjs-ng/quickjs <https://github.com/quickjs-ng/quickjs>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `rikumi/coloros-mod <https://github.com/rikumi/coloros-mod>`_
@@ -202,7 +208,9 @@ Others
 * `simplex-chat/simplexmq <https://github.com/simplex-chat/simplexmq>`_
 * `storytold/indd-utils <https://github.com/storytold/indd-utils>`_
 * `suqi8/coui <https://github.com/suqi8/coui>`_
+* `swiftlang/swift-crashlog-processing <https://github.com/swiftlang/swift-crashlog-processing>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
+* `swiftlang/swift-markdown <https://github.com/swiftlang/swift-markdown>`_
 * `thedjchi/Shizuku <https://github.com/thedjchi/Shizuku>`_
 * `tigerbeetle/tigerbeetle <https://github.com/tigerbeetle/tigerbeetle>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
@@ -673,6 +681,11 @@ androidmath
 
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 
+angular
+^^^^^^^
+
+* `angular/angular <https://github.com/angular/angular>`_
+
 animation
 ^^^^^^^^^
 
@@ -864,6 +877,7 @@ apple-silicon
 
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
@@ -1057,6 +1071,11 @@ avfoundation
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 
+avif
+^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
 avx2
 ^^^^
 
@@ -1120,6 +1139,16 @@ bash
 * `mvdan/sh <https://github.com/mvdan/sh>`_
 * `starship/starship <https://github.com/starship/starship>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
+
+batch-conversion
+^^^^^^^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
+batch-rename
+^^^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 
 battery
 ^^^^^^^
@@ -3215,6 +3244,11 @@ everything
 
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
 
+exif
+^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
 exoplayer
 ^^^^^^^^^
 
@@ -3997,6 +4031,7 @@ haskell-applications
 hdr
 ^^^
 
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 
 headless
@@ -4019,6 +4054,11 @@ hearing-aids
 ^^^^^^^^^^^^
 
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
+
+heic
+^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 
 hex
 ^^^
@@ -4260,10 +4300,25 @@ image-compression
 
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
 
+image-converter
+^^^^^^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
 image-optimization
 ^^^^^^^^^^^^^^^^^^
 
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
+
+image-viewer
+^^^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
+imageio
+^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 
 imap
 ^^^^
@@ -4638,6 +4693,7 @@ javascript
 ^^^^^^^^^^
 
 * `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
+* `angular/angular <https://github.com/angular/angular>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
@@ -4700,6 +4756,11 @@ journal
 ^^^^^^^
 
 * `northword/zotero-format-metadata <https://github.com/northword/zotero-format-metadata>`_
+
+jpeg-xl
+^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 
 json
 ^^^^
@@ -4836,6 +4897,11 @@ keyboard
 
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
+
+keyboard-driven
+^^^^^^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 
 keymaster
 ^^^^^^^^^
@@ -5444,6 +5510,7 @@ macos
 * `fatbobman/ObservableDefaults <https://github.com/fatbobman/ObservableDefaults>`_
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `iina/iina <https://github.com/iina/iina>`_
@@ -5501,6 +5568,7 @@ macos-app
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
@@ -6948,6 +7016,11 @@ persistent-history
 
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 
+photo-viewer
+^^^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
 pi-agent
 ^^^^^^^^
 
@@ -7313,6 +7386,11 @@ push-notifications
 
 * `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 
+pwa
+^^^
+
+* `angular/angular <https://github.com/angular/angular>`_
+
 pydantic
 ^^^^^^^^
 
@@ -7387,6 +7465,7 @@ quickcheck
 quicklook
 ^^^^^^^^^
 
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 
 quicklook-plugin
@@ -8672,6 +8751,7 @@ swift
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
@@ -8709,6 +8789,7 @@ swift
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
+* `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
@@ -8860,6 +8941,7 @@ swiftui
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
@@ -8904,6 +8986,11 @@ swiftui-views
 ^^^^^^^^^^^^^
 
 * `nalexn/ViewInspector <https://github.com/nalexn/ViewInspector>`_
+
+swiftwasm
+^^^^^^^^^
+
+* `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
 
 swifty
 ^^^^^^
@@ -9202,6 +9289,11 @@ threejs
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 
+thumbnails
+^^^^^^^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
+
 tiberian-dawn
 ^^^^^^^^^^^^^
 
@@ -9448,6 +9540,7 @@ typescript
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `angular/angular <https://github.com/angular/angular>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `denoland/deno <https://github.com/denoland/deno>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
@@ -10022,6 +10115,7 @@ wear-os
 web
 ^^^
 
+* `angular/angular <https://github.com/angular/angular>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `devld/go-drive <https://github.com/devld/go-drive>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
@@ -10060,8 +10154,14 @@ web-extension
 web-framework
 ^^^^^^^^^^^^^
 
+* `angular/angular <https://github.com/angular/angular>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
+
+web-performance
+^^^^^^^^^^^^^^^
+
+* `angular/angular <https://github.com/angular/angular>`_
 
 web-server
 ^^^^^^^^^^
@@ -10077,12 +10177,23 @@ webassembly
 ^^^^^^^^^^^
 
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
+* `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
+
+webassembly-runtime
+^^^^^^^^^^^^^^^^^^^
+
+* `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
 
 webdav
 ^^^^^^
 
 * `devld/go-drive <https://github.com/devld/go-drive>`_
 * `stalwartlabs/stalwart <https://github.com/stalwartlabs/stalwart>`_
+
+webp
+^^^^
+
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 
 websocket
 ^^^^^^^^^

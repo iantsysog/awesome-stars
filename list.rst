@@ -109,6 +109,7 @@ DOMAIN: LANG
 
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
+* `LuaJIT/LuaJIT <https://github.com/LuaJIT/LuaJIT>`_
 * `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
@@ -310,6 +311,8 @@ LANG: Kotlin / Java
 * `Kotlin/ktfmt <https://github.com/Kotlin/ktfmt>`_
 * `Kyant0/AndroidLiquidGlass <https://github.com/Kyant0/AndroidLiquidGlass>`_
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
+* `TelegramMessenger/twidget <https://github.com/TelegramMessenger/twidget>`_
+* `TelegramMessenger/widget-sandbox <https://github.com/TelegramMessenger/widget-sandbox>`_
 * `compose-miuix-ui/miuix <https://github.com/compose-miuix-ui/miuix>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
@@ -385,6 +388,8 @@ LANG: Swift
 * `Swift-CowBox/Swift-CowBox <https://github.com/Swift-CowBox/Swift-CowBox>`_
 * `SwiftDevStudent/PhoneNumberKitSwiftUI <https://github.com/SwiftDevStudent/PhoneNumberKitSwiftUI>`_
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
+* `TelegramMessenger/twidget <https://github.com/TelegramMessenger/twidget>`_
+* `TelegramMessenger/widget-sandbox <https://github.com/TelegramMessenger/widget-sandbox>`_
 * `VergeGroup/swift-state-graph <https://github.com/VergeGroup/swift-state-graph>`_
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
@@ -451,7 +456,10 @@ LANG: Swift
 * `sindresorhus/Percentage <https://github.com/sindresorhus/Percentage>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
+* `swiftlang/swift-crashlog-processing <https://github.com/swiftlang/swift-crashlog-processing>`_
 * `swiftlang/swift-docc-render-artifact <https://github.com/swiftlang/swift-docc-render-artifact>`_
+* `swiftlang/swift-markdown <https://github.com/swiftlang/swift-markdown>`_
+* `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
@@ -470,7 +478,9 @@ LANG: TypeScript / JavaScript
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `SukkaW/nolyfill <https://github.com/SukkaW/nolyfill>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
+* `angular/angular <https://github.com/angular/angular>`_
 * `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
@@ -496,6 +506,7 @@ LANG: TypeScript / JavaScript
 * `nubjs/nub <https://github.com/nubjs/nub>`_
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
+* `quickjs-ng/quickjs <https://github.com/quickjs-ng/quickjs>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
@@ -809,6 +820,7 @@ PLAT: macOS
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `f/textream <https://github.com/f/textream>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
@@ -832,6 +844,7 @@ PLAT: macOS
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
 * `majd/ipatool <https://github.com/majd/ipatool>`_
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
+* `microsoft/Procexp-Mac <https://github.com/microsoft/Procexp-Mac>`_
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_

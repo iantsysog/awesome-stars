@@ -20,6 +20,7 @@ C
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `LuaJIT/LuaJIT <https://github.com/LuaJIT/LuaJIT>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
@@ -37,6 +38,7 @@ C
 * `mulle-objc/mulle-objc-runtime <https://github.com/mulle-objc/mulle-objc-runtime>`_
 * `nfzerox/VirtualIntelMacOnAppleSilicon <https://github.com/nfzerox/VirtualIntelMacOnAppleSilicon>`_
 * `nginx/nginx <https://github.com/nginx/nginx>`_
+* `quickjs-ng/quickjs <https://github.com/quickjs-ng/quickjs>`_
 * `silentbicycle/greatest <https://github.com/silentbicycle/greatest>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `veracrypt/VeraCrypt <https://github.com/veracrypt/VeraCrypt>`_
@@ -61,6 +63,7 @@ C++
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
 * `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
+* `TelegramMessenger/twidget <https://github.com/TelegramMessenger/twidget>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
@@ -144,6 +147,7 @@ HTML
 
 * `Hisn00w/ASu-skills <https://github.com/Hisn00w/ASu-skills>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
+* `TelegramMessenger/widget-sandbox <https://github.com/TelegramMessenger/widget-sandbox>`_
 * `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `lexifina/global-law <https://github.com/lexifina/global-law>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
@@ -608,6 +612,7 @@ Swift
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
+* `featherview/featherview <https://github.com/featherview/featherview>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
@@ -637,6 +642,7 @@ Swift
 * `maxgoedjen/secretive <https://github.com/maxgoedjen/secretive>`_
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
+* `microsoft/Procexp-Mac <https://github.com/microsoft/Procexp-Mac>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/Zoomit-Mac <https://github.com/microsoft/Zoomit-Mac>`_
 * `missuo/kumone <https://github.com/missuo/kumone>`_
@@ -681,6 +687,9 @@ Swift
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
+* `swiftlang/swift-crashlog-processing <https://github.com/swiftlang/swift-crashlog-processing>`_
+* `swiftlang/swift-markdown <https://github.com/swiftlang/swift-markdown>`_
+* `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
 * `tokijh/ViewCondition <https://github.com/tokijh/ViewCondition>`_
 * `trickart/PBXProjKit <https://github.com/trickart/PBXProjKit>`_
 * `tuist/XcodeProj <https://github.com/tuist/XcodeProj>`_
@@ -714,10 +723,12 @@ TypeScript
 * `Ikaleio/lm-detector <https://github.com/Ikaleio/lm-detector>`_
 * `KOWX712/PlayIntegrityFix <https://github.com/KOWX712/PlayIntegrityFix>`_
 * `SukkaW/location-guard-ng <https://github.com/SukkaW/location-guard-ng>`_
+* `SukkaW/nolyfill <https://github.com/SukkaW/nolyfill>`_
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `angular/angular <https://github.com/angular/angular>`_
 * `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
