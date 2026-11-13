@@ -199,7 +199,6 @@ JavaScript
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
@@ -303,6 +302,11 @@ Makefile
 ^^^^^^^^
 
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
+
+Markdown
+^^^^^^^^
+
+* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 Nim
 ^^^
@@ -442,6 +446,7 @@ Rust
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_

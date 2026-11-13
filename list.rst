@@ -724,6 +724,7 @@ PLAT: Windows
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_

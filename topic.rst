@@ -3881,6 +3881,7 @@ gpu-monitor
 gpui
 ^^^^
 
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 
 gradle
@@ -7246,6 +7247,11 @@ procedural-generation
 
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 
+process-manager
+^^^^^^^^^^^^^^^
+
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
+
 product-analytics
 ^^^^^^^^^^^^^^^^^
 
@@ -7871,6 +7877,7 @@ rust
 
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
@@ -9048,6 +9055,7 @@ system-monitor
 ^^^^^^^^^^^^^^
 
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 
 system-one
@@ -9104,6 +9112,11 @@ task
 ^^^^
 
 * `go-task/task <https://github.com/go-task/task>`_
+
+task-manager
+^^^^^^^^^^^^
+
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 
 task-runner
 ^^^^^^^^^^^
@@ -10310,6 +10323,7 @@ windows
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `BCUninstaller/Bulk-Crap-Uninstaller <https://github.com/BCUninstaller/Bulk-Crap-Uninstaller>`_
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
@@ -10327,6 +10341,7 @@ windows-10
 windows-11
 ^^^^^^^^^^
 
+* `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `massgravel/Microsoft-Activation-Scripts <https://github.com/massgravel/Microsoft-Activation-Scripts>`_
 
 windows-app
