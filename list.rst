@@ -243,6 +243,7 @@ KNOWHOW: Agent
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
+* `deepseek-ai/chat-demo <https://github.com/deepseek-ai/chat-demo>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `earendil-works/pi <https://github.com/earendil-works/pi>`_
@@ -342,9 +343,9 @@ LANG: Python
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
 LANG: Rust
@@ -507,6 +508,7 @@ LANG: TypeScript / JavaScript
 * `open-circle/valibot <https://github.com/open-circle/valibot>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `quickjs-ng/quickjs <https://github.com/quickjs-ng/quickjs>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `slorber/trailing-slash-guide <https://github.com/slorber/trailing-slash-guide>`_
 * `toss/es-git <https://github.com/toss/es-git>`_

@@ -91,11 +91,6 @@ EJS
 
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
 
-Elixir
-^^^^^^
-
-* `tuist/tuist <https://github.com/tuist/tuist>`_
-
 Go
 ^^
 
@@ -206,6 +201,7 @@ JavaScript
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `l0o0/translators_CN <https://github.com/l0o0/translators_CN>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 * `usebruno/bruno <https://github.com/usebruno/bruno>`_
 * `zotero/zotero <https://github.com/zotero/zotero>`_
 
@@ -478,7 +474,6 @@ Rust
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `meta/sapling <https://github.com/meta/sapling>`_
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
@@ -491,6 +486,7 @@ Rust
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `rust-alert/ra2.exe <https://github.com/rust-alert/ra2.exe>`_
@@ -505,6 +501,7 @@ Rust
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
@@ -740,6 +737,7 @@ TypeScript
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `codse/animata <https://github.com/codse/animata>`_
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
+* `deepseek-ai/chat-demo <https://github.com/deepseek-ai/chat-demo>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `dip/cmdk <https://github.com/dip/cmdk>`_
 * `dpejoh/specter <https://github.com/dpejoh/specter>`_

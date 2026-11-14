@@ -116,6 +116,7 @@ Others
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_
 * `daxiaamu/Guise_Reborn <https://github.com/daxiaamu/Guise_Reborn>`_
+* `deepseek-ai/chat-demo <https://github.com/deepseek-ai/chat-demo>`_
 * `denoland/celld <https://github.com/denoland/celld>`_
 * `dfed/swift-async-queue <https://github.com/dfed/swift-async-queue>`_
 * `diinki/linux-antiquity <https://github.com/diinki/linux-antiquity>`_
@@ -1905,8 +1906,8 @@ code-generation
 code-quality
 ^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 code-review
 ^^^^^^^^^^^
@@ -2086,10 +2087,16 @@ compilers
 
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 
+component
+^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
 component-library
 ^^^^^^^^^^^^^^^^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 components
 ^^^^^^^^^^
@@ -2097,6 +2104,7 @@ components
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 
@@ -2420,11 +2428,22 @@ css
 
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 css-animations
 ^^^^^^^^^^^^^^
 
 * `codse/animata <https://github.com/codse/animata>`_
+
+css-components
+^^^^^^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
+css-framework
+^^^^^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 css-grid
 ^^^^^^^^
@@ -2472,6 +2491,11 @@ daisydisk
 ^^^^^^^^^
 
 * `tw93/Mole <https://github.com/tw93/Mole>`_
+
+daisyui
+^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 dart
 ^^^^
@@ -2687,6 +2711,12 @@ design-system
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
+design-systems
+^^^^^^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 design-tool
 ^^^^^^^^^^^
@@ -3545,6 +3575,11 @@ from-scratch
 
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
 
+front-end
+^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
 frontend
 ^^^^^^^^
 
@@ -4273,7 +4308,7 @@ ide
 
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 identity
 ^^^^^^^^
@@ -5058,12 +5093,12 @@ language
 language-server
 ^^^^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 language-server-protocol
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 laravel
 ^^^^^^^
@@ -5339,7 +5374,7 @@ logicola
 lsp
 ^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 lsposed
 ^^^^^^^
@@ -7163,6 +7198,11 @@ post-quantum
 
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 
+postcss
+^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
 postgres
 ^^^^^^^^
 
@@ -7416,9 +7456,9 @@ python
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
 python-2
@@ -7897,12 +7937,12 @@ rust
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 * `nushell/nushell <https://github.com/nushell/nushell>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `sharkdp/hyperfine <https://github.com/sharkdp/hyperfine>`_
 * `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
@@ -8687,6 +8727,7 @@ svelte
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
 sveltekit
@@ -9086,7 +9127,13 @@ tags
 tailwind
 ^^^^^^^^
 
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
+
+tailwind-css
+^^^^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 tailwindcss
 ^^^^^^^^^^^
@@ -9095,6 +9142,7 @@ tailwindcss
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
 * `michael-andreuzza/bearnie <https://github.com/michael-andreuzza/bearnie>`_
 * `obbyworld/obby <https://github.com/obbyworld/obby>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
@@ -9484,22 +9532,22 @@ type
 type-annotations
 ^^^^^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 type-check
 ^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 type-checker
 ^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 type-hints
 ^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 type-inference
 ^^^^^^^^^^^^^^
@@ -9519,17 +9567,17 @@ type-safety
 typecheck
 ^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 typechecker
 ^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 typechecking
 ^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 typed-decisions
 ^^^^^^^^^^^^^^^
@@ -9545,7 +9593,7 @@ typeface
 types
 ^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 typescript
 ^^^^^^^^^^
@@ -9585,7 +9633,7 @@ typesetting-system
 typing
 ^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 typography
 ^^^^^^^^^^
@@ -9629,12 +9677,29 @@ ui-design
 ^^^^^^^^^
 
 * `lucide-icons/lucide <https://github.com/lucide-icons/lucide>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
+ui-framework
+^^^^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
+ui-kit
+^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 ui-library
 ^^^^^^^^^^
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
+
+ui-pattern
+^^^^^^^^^^
+
+* `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
 uicolor
 ^^^^^^^
@@ -10059,7 +10124,7 @@ vscode
 vscode-extension
 ^^^^^^^^^^^^^^^^
 
-* `meta/pyrefly <https://github.com/meta/pyrefly>`_
+* `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 vue
 ^^^
