@@ -127,7 +127,6 @@ Go
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -268,6 +267,7 @@ Kotlin
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `pengchujin/aerial-tv <https://github.com/pengchujin/aerial-tv>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
@@ -324,6 +324,7 @@ Objective-C
 ^^^^^^^^^^^
 
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
+* `claration/cis <https://github.com/claration/cis>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_

@@ -112,6 +112,7 @@ Others
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
 * `chianjin/zhvt-classic <https://github.com/chianjin/zhvt-classic>`_
 * `cjbind/cjbind <https://github.com/cjbind/cjbind>`_
+* `claration/cis <https://github.com/claration/cis>`_
 * `cloudflare/nimbus <https://github.com/cloudflare/nimbus>`_
 * `coreyd303/Navigable-SwiftUI <https://github.com/coreyd303/Navigable-SwiftUI>`_
 * `daeuniverse/honk <https://github.com/daeuniverse/honk>`_

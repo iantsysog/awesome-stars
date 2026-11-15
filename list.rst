@@ -819,6 +819,7 @@ PLAT: macOS
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
 * `chocoford/SwiftyDMG <https://github.com/chocoford/SwiftyDMG>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
+* `claration/cis <https://github.com/claration/cis>`_
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `dortania/OpenCore-Legacy-Patcher <https://github.com/dortania/OpenCore-Legacy-Patcher>`_
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
