@@ -8,6 +8,7 @@ APP: Minecraft
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 
 APP: Miscellaneous
 ^^^^^^^^^^^^^^^^^^

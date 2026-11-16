@@ -4015,6 +4015,7 @@ hacktoberfest
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 
@@ -5927,6 +5928,7 @@ metal
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `nullmoth/nvidia-macos-driver <https://github.com/nullmoth/nvidia-macos-driver>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 
 metamodule
 ^^^^^^^^^^
@@ -5988,6 +5990,7 @@ minecraft
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `louis-e/arnis <https://github.com/louis-e/arnis>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 
 minecraft-api
 ^^^^^^^^^^^^^
@@ -6651,6 +6654,7 @@ open-source
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keytyapp/Keyty <https://github.com/keytyapp/Keyty>`_
 * `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 * `usememos/memos <https://github.com/usememos/memos>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
@@ -8837,6 +8841,7 @@ swift
 * `securevale/swift-confidential <https://github.com/securevale/swift-confidential>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `swiftwasm/WasmKit <https://github.com/swiftwasm/WasmKit>`_
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
@@ -9011,6 +9016,7 @@ swiftui
 * `ryanlintott/ShapeUp <https://github.com/ryanlintott/ShapeUp>`_
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `toprakdeviren/msf <https://github.com/toprakdeviren/msf>`_
 * `vanvoorden/TaskProperty <https://github.com/vanvoorden/TaskProperty>`_

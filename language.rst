@@ -687,6 +687,7 @@ Swift
 * `siteline/swiftui-introspect <https://github.com/siteline/swiftui-introspect>`_
 * `sozercan/kaset <https://github.com/sozercan/kaset>`_
 * `square/workflow-swift <https://github.com/square/workflow-swift>`_
+* `stackotter/delta-client <https://github.com/stackotter/delta-client>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 * `superhighfives/pika <https://github.com/superhighfives/pika>`_
 * `swift-server/async-http-client <https://github.com/swift-server/async-http-client>`_
