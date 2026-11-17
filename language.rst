@@ -503,7 +503,6 @@ Rust
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `tuist/tuist <https://github.com/tuist/tuist>`_
-* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 
@@ -778,6 +777,7 @@ TypeScript
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 * `unocss/unocss <https://github.com/unocss/unocss>`_
 * `useplunk/plunk <https://github.com/useplunk/plunk>`_
+* `voidzero-dev/vite-plus <https://github.com/voidzero-dev/vite-plus>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
 * `yunheshiguang/yunheshiguang-droid <https://github.com/yunheshiguang/yunheshiguang-droid>`_
 
