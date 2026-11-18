@@ -127,6 +127,7 @@ Go
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `mvdan/sh <https://github.com/mvdan/sh>`_
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -267,7 +268,6 @@ Kotlin
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `pengchujin/aerial-tv <https://github.com/pengchujin/aerial-tv>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
@@ -619,7 +619,7 @@ Swift
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
-* `huamidev/GestaltX <https://github.com/huamidev/GestaltX>`_
+* `huami-dev/GestaltX <https://github.com/huami-dev/GestaltX>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `iina/iina <https://github.com/iina/iina>`_

@@ -135,7 +135,7 @@ Others
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `google/guice <https://github.com/google/guice>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
-* `huamidev/GestaltX <https://github.com/huamidev/GestaltX>`_
+* `huami-dev/GestaltX <https://github.com/huami-dev/GestaltX>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
@@ -10095,11 +10095,6 @@ vm
 ^^
 
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
-
-vnc-viewer
-^^^^^^^^^^
-
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 volume
 ^^^^^^
