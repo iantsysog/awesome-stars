@@ -135,7 +135,7 @@ Others
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `google/guice <https://github.com/google/guice>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
-* `huami-dev/GestaltX <https://github.com/huami-dev/GestaltX>`_
+* `huami1314/GestaltX <https://github.com/huami1314/GestaltX>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `iamr0s/Dhizuku <https://github.com/iamr0s/Dhizuku>`_
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
@@ -352,6 +352,7 @@ agent-skills
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 
 agentic-ai
 ^^^^^^^^^^
@@ -368,6 +369,7 @@ ai
 
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
 * `x-cmd/x-cmd <https://github.com/x-cmd/x-cmd>`_
 
@@ -712,6 +714,11 @@ anti-rollback
 ^^^^^^^^^^^^^
 
 * `Bartixxx32/OnePlus-antirollchecker <https://github.com/Bartixxx32/OnePlus-antirollchecker>`_
+
+anti-slop
+^^^^^^^^^
+
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 
 antidetect
 ^^^^^^^^^^
@@ -1832,6 +1839,7 @@ cloud-sync
 cloudflare
 ^^^^^^^^^^
 
+* `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `whoisyurii/checkmygit <https://github.com/whoisyurii/checkmygit>`_
 
@@ -1844,6 +1852,7 @@ cloudflare-workers
 ^^^^^^^^^^^^^^^^^^
 
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
+* `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 
 cloudkit
@@ -2694,6 +2703,7 @@ design
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 * `robb/Redline <https://github.com/robb/Redline>`_
 
 design-engineering
@@ -3186,6 +3196,7 @@ elixir
 email
 ^^^^^
 
+* `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `thunderbird/thunderbird-android <https://github.com/thunderbird/thunderbird-android>`_
 
 emboss
@@ -3314,6 +3325,11 @@ fast
 ^^^^
 
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
+
+fastboot
+^^^^^^^^
+
+* `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
 
 fcitx
 ^^^^^
@@ -3903,6 +3919,7 @@ gplv2
 ^^^^^
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 
 gpu
 ^^^
@@ -6199,6 +6216,11 @@ multi-language
 
 * `bazelbuild/bazel <https://github.com/bazelbuild/bazel>`_
 
+multi-platform
+^^^^^^^^^^^^^^
+
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
+
 multiplatform
 ^^^^^^^^^^^^^
 
@@ -8373,6 +8395,11 @@ slides
 
 * `slidevjs/slidev <https://github.com/slidevjs/slidev>`_
 
+slop
+^^^^
+
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
+
 smart-home
 ^^^^^^^^^^
 
@@ -9997,6 +10024,11 @@ video-player
 
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `iina/iina <https://github.com/iina/iina>`_
+
+video-transcoding
+^^^^^^^^^^^^^^^^^
+
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 
 videoplayer
 ^^^^^^^^^^^

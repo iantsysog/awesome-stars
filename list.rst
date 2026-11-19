@@ -209,6 +209,7 @@ DOMAIN: VPS / VDS
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
+* `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `matrix-construct/tuwunel <https://github.com/matrix-construct/tuwunel>`_
 * `matrix-org/synapse-s3-storage-provider <https://github.com/matrix-org/synapse-s3-storage-provider>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
@@ -263,6 +264,7 @@ KNOWHOW: Agent
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 * `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
 * `zhaoxuya520/reverse-skill <https://github.com/zhaoxuya520/reverse-skill>`_
@@ -659,6 +661,7 @@ PLAT: Linux
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
@@ -723,6 +726,7 @@ PLAT: Windows
 * `Bibapcs/BibaYanji <https://github.com/Bibapcs/BibaYanji>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
@@ -764,7 +768,7 @@ PLAT: iOS
 * `claration/feather <https://github.com/claration/feather>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
-* `huami-dev/GestaltX <https://github.com/huami-dev/GestaltX>`_
+* `huami1314/GestaltX <https://github.com/huami1314/GestaltX>`_
 * `iDescriptor/iDescriptor <https://github.com/iDescriptor/iDescriptor>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
@@ -784,6 +788,7 @@ PLAT: macOS
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `DrWhax/unfairplay <https://github.com/DrWhax/unfairplay>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_

@@ -20,6 +20,7 @@ C
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `FareedKhan-dev/kimi-k3-in-c <https://github.com/FareedKhan-dev/kimi-k3-in-c>`_
+* `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `LuaJIT/LuaJIT <https://github.com/LuaJIT/LuaJIT>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
 * `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
@@ -90,6 +91,11 @@ EJS
 ^^^
 
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
+
+Elixir
+^^^^^^
+
+* `tuist/tuist <https://github.com/tuist/tuist>`_
 
 Go
 ^^
@@ -487,6 +493,7 @@ Rust
 * `ouch-org/ouch <https://github.com/ouch-org/ouch>`_
 * `oxc-project/oxc <https://github.com/oxc-project/oxc>`_
 * `oxipng/oxipng <https://github.com/oxipng/oxipng>`_
+* `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 * `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
@@ -502,7 +509,6 @@ Rust
 * `topgrade-rs/topgrade <https://github.com/topgrade-rs/topgrade>`_
 * `toss/es-git <https://github.com/toss/es-git>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
-* `tuist/tuist <https://github.com/tuist/tuist>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 * `zhang-accounting/zhang <https://github.com/zhang-accounting/zhang>`_
 
@@ -619,7 +625,7 @@ Swift
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
-* `huami-dev/GestaltX <https://github.com/huami-dev/GestaltX>`_
+* `huami1314/GestaltX <https://github.com/huami1314/GestaltX>`_
 * `iAmCorey/birth <https://github.com/iAmCorey/birth>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `iina/iina <https://github.com/iina/iina>`_
@@ -749,6 +755,7 @@ TypeScript
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
+* `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
 * `insel-null/lemmih <https://github.com/insel-null/lemmih>`_
 * `insel-null/uuid <https://github.com/insel-null/uuid>`_
