@@ -178,6 +178,7 @@ Others
 * `mjl-/mox <https://github.com/mjl-/mox>`_
 * `moeru-ai/std <https://github.com/moeru-ai/std>`_
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
+* `mwilliamson/python-mammoth <https://github.com/mwilliamson/python-mammoth>`_
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
 * `naan/FocusOnAppear <https://github.com/naan/FocusOnAppear>`_
 * `nfzerox/VirtualIntelMacOnAppleSilicon <https://github.com/nfzerox/VirtualIntelMacOnAppleSilicon>`_
@@ -198,6 +199,7 @@ Others
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `pvieito/PythonKit <https://github.com/pvieito/PythonKit>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
+* `python-openxml/python-docx <https://github.com/python-openxml/python-docx>`_
 * `qinglee/maoxuan <https://github.com/qinglee/maoxuan>`_
 * `quickjs-ng/quickjs <https://github.com/quickjs-ng/quickjs>`_
 * `qwq233/OhMyKeymint <https://github.com/qwq233/OhMyKeymint>`_
@@ -423,7 +425,7 @@ ai-generated
 ai-skill
 ^^^^^^^^
 
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 
 ai-vs-ai
 ^^^^^^^^
@@ -587,7 +589,7 @@ android
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
@@ -2720,7 +2722,7 @@ design-system
 ^^^^^^^^^^^^^
 
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 * `saadeghi/daisyui <https://github.com/saadeghi/daisyui>`_
 
@@ -4785,7 +4787,7 @@ jetpack-compose
 * `NEORUAA/Glasmio <https://github.com/NEORUAA/Glasmio>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 
 jit
 ^^^
@@ -5040,7 +5042,7 @@ kotlin
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
 * `ktlint/ktlint <https://github.com/ktlint/ktlint>`_
 * `lihenggui/blocker <https://github.com/lihenggui/blocker>`_
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
@@ -5469,6 +5471,11 @@ lz4
 
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 
+m3e
+^^^
+
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
+
 mac
 ^^^
 
@@ -5872,7 +5879,6 @@ md3e
 ^^^^
 
 * `Riteshp2001/mpvRx <https://github.com/Riteshp2001/mpvRx>`_
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
 
 media3
 ^^^^^^

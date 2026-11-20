@@ -260,7 +260,7 @@ KNOWHOW: Agent
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
 * `mexicat/pdoom-video <https://github.com/mexicat/pdoom-video>`_
-* `mfskys/md3e-skill <https://github.com/mfskys/md3e-skill>`_
+* `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
@@ -346,9 +346,11 @@ LANG: Python
 * `jawah/niquests <https://github.com/jawah/niquests>`_
 * `karpetrosyan/hishel <https://github.com/karpetrosyan/hishel>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
+* `mwilliamson/python-mammoth <https://github.com/mwilliamson/python-mammoth>`_
 * `profusion/sgqlc <https://github.com/profusion/sgqlc>`_
 * `pydantic/httpx2 <https://github.com/pydantic/httpx2>`_
 * `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
+* `python-openxml/python-docx <https://github.com/python-openxml/python-docx>`_
 * `yanyongyu/githubkit <https://github.com/yanyongyu/githubkit>`_
 
 LANG: Rust
