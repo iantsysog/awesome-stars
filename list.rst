@@ -418,6 +418,7 @@ LANG: Swift
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
+* `giginet/xcproj.pkl <https://github.com/giginet/xcproj.pkl>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_

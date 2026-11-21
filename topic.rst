@@ -131,6 +131,7 @@ Others
 * `fork-maintainers/iceraven-browser <https://github.com/fork-maintainers/iceraven-browser>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
+* `giginet/xcproj.pkl <https://github.com/giginet/xcproj.pkl>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `google/guice <https://github.com/google/guice>`_
@@ -5213,6 +5214,7 @@ libs-versions-toml
 libxposed
 ^^^^^^^^^
 
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 
 ligatures
@@ -5403,6 +5405,7 @@ lsposed
 * `ByteJuno/fcmfix-coloros <https://github.com/ByteJuno/fcmfix-coloros>`_
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
@@ -10562,6 +10565,7 @@ xposed
 
 * `Dr-TSNG/Hide-My-Applist <https://github.com/Dr-TSNG/Hide-My-Applist>`_
 * `JingMatrix/Vector <https://github.com/JingMatrix/Vector>`_
+* `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 * `Rove24/XposedSmsCode <https://github.com/Rove24/XposedSmsCode>`_
 * `Vstory/AppErrorNotify <https://github.com/Vstory/AppErrorNotify>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_

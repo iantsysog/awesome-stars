@@ -71,7 +71,6 @@ C++
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
-* `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
@@ -531,6 +530,7 @@ Shell
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
 * `mgth/mpv-omniphony <https://github.com/mgth/mpv-omniphony>`_
+* `osm0sis/PlayIntegrityFork <https://github.com/osm0sis/PlayIntegrityFork>`_
 * `sapireli/AirPrint_Bridge <https://github.com/sapireli/AirPrint_Bridge>`_
 * `tw93/Mole <https://github.com/tw93/Mole>`_
 
@@ -623,6 +623,7 @@ Swift
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `giginet/xcproj.pkl <https://github.com/giginet/xcproj.pkl>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `heoblitz/Loupe <https://github.com/heoblitz/Loupe>`_
