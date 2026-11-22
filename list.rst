@@ -112,6 +112,7 @@ DOMAIN: LANG
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
 * `LuaJIT/LuaJIT <https://github.com/LuaJIT/LuaJIT>`_
 * `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
+* `lxsmnsyc/narra <https://github.com/lxsmnsyc/narra>`_
 * `ruby-formatter/rufo <https://github.com/ruby-formatter/rufo>`_
 * `ucsd-progsys/liquidhaskell <https://github.com/ucsd-progsys/liquidhaskell>`_
 

@@ -92,7 +92,6 @@ Others
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
-* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
@@ -161,6 +160,7 @@ Others
 * `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
+* `lxsmnsyc/narra <https://github.com/lxsmnsyc/narra>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `madeye/subtitle_anywhere <https://github.com/madeye/subtitle_anywhere>`_
@@ -816,6 +816,11 @@ app-errors
 
 * `KitsunePie/AppErrorsTracking <https://github.com/KitsunePie/AppErrorsTracking>`_
 
+app-launcher
+^^^^^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
+
 app-store
 ^^^^^^^^^
 
@@ -841,6 +846,7 @@ appkit
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
@@ -5564,6 +5570,7 @@ macos
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `cardisoft/cardinal <https://github.com/cardisoft/cardinal>`_
@@ -7334,6 +7341,11 @@ product-analytics
 * `rybbit-io/rybbit <https://github.com/rybbit-io/rybbit>`_
 * `umami-software/umami <https://github.com/umami-software/umami>`_
 
+productivity
+^^^^^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
+
 profiler
 ^^^^^^^^
 
@@ -8823,6 +8835,7 @@ swift
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
 * `VergeGroup/swift-state-graph <https://github.com/VergeGroup/swift-state-graph>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
