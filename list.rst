@@ -264,6 +264,7 @@ KNOWHOW: Agent
 * `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 * `mizorewww/laya-coreml <https://github.com/mizorewww/laya-coreml>`_
 * `mizorewww/laya-mlx <https://github.com/mizorewww/laya-mlx>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 * `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 * `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
@@ -764,7 +765,6 @@ PLAT: Windows
 PLAT: iOS
 ^^^^^^^^^
 
-* `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `LiveContainer/LiveContainer <https://github.com/LiveContainer/LiveContainer>`_
 * `SideStore/SideStore <https://github.com/SideStore/SideStore>`_
@@ -778,6 +778,7 @@ PLAT: iOS
 * `mysk-research/loupe <https://github.com/mysk-research/loupe>`_
 * `nikopueringer/CorridorKey <https://github.com/nikopueringer/CorridorKey>`_
 * `opa334/TrollStore <https://github.com/opa334/TrollStore>`_
+* `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
 * `pixelspark/sushitrain <https://github.com/pixelspark/sushitrain>`_
 

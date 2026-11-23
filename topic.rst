@@ -263,6 +263,7 @@ accessibility
 
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `mui/base-ui <https://github.com/mui/base-ui>`_
 
 accessible
@@ -391,6 +392,7 @@ ai-agents
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `smol-machines/smolvm <https://github.com/smol-machines/smolvm>`_
 
 ai-arena
@@ -592,6 +594,7 @@ android
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `slackhq/circuit <https://github.com/slackhq/circuit>`_
 * `square/workflow-kotlin <https://github.com/square/workflow-kotlin>`_
@@ -821,15 +824,32 @@ app-launcher
 
 * `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 
+app-review-guidelines
+^^^^^^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
 app-store
 ^^^^^^^^^
 
 * `komi-store/komi-store <https://github.com/komi-store/komi-store>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 
 app-store-connect
 ^^^^^^^^^^^^^^^^^
 
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
+
+app-store-rejection
+^^^^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
+app-store-review
+^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 
 appcleaner
 ^^^^^^^^^^
@@ -1039,7 +1059,7 @@ audio-processing
 audio-recorder
 ^^^^^^^^^^^^^^
 
-* `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
+* `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
 
 audio-utility
 ^^^^^^^^^^^^^
@@ -1747,6 +1767,7 @@ claude-code
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 claude-plugin
@@ -1812,6 +1833,11 @@ clickhouse
 ^^^^^^^^^^
 
 * `TableProApp/TablePro <https://github.com/TableProApp/TablePro>`_
+
+clipboard-manager
+^^^^^^^^^^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 
 clippy
 ^^^^^^
@@ -2278,6 +2304,11 @@ conversational-awareness
 
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 
+coppa
+^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
 cordis
 ^^^^^^
 
@@ -2534,6 +2565,11 @@ data
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
+
+data-safety
+^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 
 data-visualization
 ^^^^^^^^^^^^^^^^^^
@@ -3290,6 +3326,11 @@ esp32
 
 * `PeronGH/esp32-universal-control <https://github.com/PeronGH/esp32-universal-control>`_
 
+eu-ai-act
+^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
 everything
 ^^^^^^^^^^
 
@@ -3717,6 +3758,11 @@ gbt-7714-2015
 
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
 
+gdpr
+^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
 gemini-cli
 ^^^^^^^^^^
 
@@ -3913,6 +3959,16 @@ google-drive
 ^^^^^^^^^^^^
 
 * `devld/go-drive <https://github.com/devld/go-drive>`_
+
+google-play
+^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
+google-play-policy
+^^^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 
 gpgpu
 ^^^^^
@@ -4533,7 +4589,6 @@ ios
 * `EmergeTools/Pow <https://github.com/EmergeTools/Pow>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
 * `Lessica/Reveil <https://github.com/Lessica/Reveil>`_
-* `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
 * `Leviidev/Husk <https://github.com/Leviidev/Husk>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
@@ -4557,10 +4612,12 @@ ios
 * `majd/ipatool <https://github.com/majd/ipatool>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
 * `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
+* `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `robb/visualizeTouches <https://github.com/robb/visualizeTouches>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -4718,7 +4775,7 @@ itunes
 jailbreak
 ^^^^^^^^^
 
-* `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
+* `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
 
 jailbreak-detection
@@ -5147,6 +5204,11 @@ latex3-development
 ^^^^^^^^^^^^^^^^^^
 
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
+
+launcher
+^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 
 law
 ^^^
@@ -5657,6 +5719,11 @@ macos-apps
 
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 
+macos-launcher
+^^^^^^^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
+
 macos-scripts
 ^^^^^^^^^^^^^
 
@@ -5939,6 +6006,7 @@ menubar
 menubar-app
 ^^^^^^^^^^^
 
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
@@ -6104,6 +6172,11 @@ mobile-automation
 ^^^^^^^^^^^^^^^^^
 
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
+
+mobile-compliance
+^^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 
 mocha
 ^^^^^
@@ -6306,6 +6379,11 @@ native-aot
 ^^^^^^^^^^
 
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
+
+native-macos
+^^^^^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 
 ncp
 ^^^
@@ -7165,6 +7243,11 @@ plaintextaccounting
 
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
+play-console
+^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
 player
 ^^^^^^
 
@@ -7269,6 +7352,11 @@ pre-commit
 
 * `j178/prek <https://github.com/j178/prek>`_
 
+pre-submission-checklist
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
+
 preact
 ^^^^^^
 
@@ -7313,6 +7401,11 @@ privacy
 * `omlahore/RemoveMacAI <https://github.com/omlahore/RemoveMacAI>`_
 * `razvandimescu/numa <https://github.com/razvandimescu/numa>`_
 * `zedeus/nitter <https://github.com/zedeus/nitter>`_
+
+privacy-manifest
+^^^^^^^^^^^^^^^^
+
+* `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 
 privacy-protection
 ^^^^^^^^^^^^^^^^^^
@@ -9040,6 +9133,7 @@ swiftui
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
@@ -9525,7 +9619,7 @@ trickystore
 trollstore
 ^^^^^^^^^^
 
-* `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
+* `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
 
 tsdb
 ^^^^
@@ -9567,7 +9661,7 @@ tvos
 tweak
 ^^^^^
 
-* `Lessica/TrollRecorder <https://github.com/Lessica/TrollRecorder>`_
+* `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
 
 twisted
@@ -10437,6 +10531,11 @@ windicss
 ^^^^^^^^
 
 * `unocss/unocss <https://github.com/unocss/unocss>`_
+
+window-manager
+^^^^^^^^^^^^^^
+
+* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 
 windows
 ^^^^^^^
