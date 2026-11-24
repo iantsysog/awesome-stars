@@ -128,6 +128,7 @@ DOMAIN: Network
 
 * `DNSControl/dnscontrol <https://github.com/DNSControl/dnscontrol>`_
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
+* `RTLPlayground/firmware <https://github.com/RTLPlayground/firmware>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 * `Turtlecute33/adblocktest <https://github.com/Turtlecute33/adblocktest>`_
@@ -139,10 +140,8 @@ DOMAIN: Network
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `jiang-zhexin/typebox <https://github.com/jiang-zhexin/typebox>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
-* `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `mitchellh/vouch <https://github.com/mitchellh/vouch>`_
 * `mitmproxy/mitmproxy <https://github.com/mitmproxy/mitmproxy>`_
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `orris-inc/orris <https://github.com/orris-inc/orris>`_
 
 DOMAIN: Security
@@ -172,6 +171,7 @@ DOMAIN: Shell
 DOMAIN: Typography
 ^^^^^^^^^^^^^^^^^^
 
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
@@ -243,7 +243,7 @@ KNOWHOW: Agent
 * `OpenBMB/MiniCPM <https://github.com/OpenBMB/MiniCPM>`_
 * `YD-233/kimi-break <https://github.com/YD-233/kimi-break>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `deepseek-ai/chat-demo <https://github.com/deepseek-ai/chat-demo>`_
@@ -606,8 +606,6 @@ PLAT: Android
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
-* `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `chenxiaolong/BCR <https://github.com/chenxiaolong/BCR>`_
 * `chenxiaolong/BasicSync <https://github.com/chenxiaolong/BasicSync>`_
@@ -668,6 +666,7 @@ PLAT: Linux
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `LadybirdBrowser/ladybird <https://github.com/LadybirdBrowser/ladybird>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
@@ -733,6 +732,7 @@ PLAT: Windows
 * `Diolinux/PhotoGIMP <https://github.com/Diolinux/PhotoGIMP>`_
 * `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
+* `LadybirdBrowser/ladybird <https://github.com/LadybirdBrowser/ladybird>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
 * `NeverDecaf/chromium-web-store <https://github.com/NeverDecaf/chromium-web-store>`_
@@ -797,6 +797,7 @@ PLAT: macOS
 * `Intentify-app/Intentify <https://github.com/Intentify-app/Intentify>`_
 * `JetBrains/intellij-community <https://github.com/JetBrains/intellij-community>`_
 * `Kyle-Ye/SwiftyDownloadManager <https://github.com/Kyle-Ye/SwiftyDownloadManager>`_
+* `LadybirdBrowser/ladybird <https://github.com/LadybirdBrowser/ladybird>`_
 * `Lakr233/Asspp <https://github.com/Lakr233/Asspp>`_
 * `Lakr233/BBackupp <https://github.com/Lakr233/BBackupp>`_
 * `Lakr233/ComputerUse <https://github.com/Lakr233/ComputerUse>`_
@@ -836,6 +837,7 @@ PLAT: macOS
 * `dsully/macos-defaults <https://github.com/dsully/macos-defaults>`_
 * `f/textream <https://github.com/f/textream>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `ghostty-org/ghostty <https://github.com/ghostty-org/ghostty>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_

@@ -23,6 +23,7 @@ C
 * `HandBrake/HandBrake <https://github.com/HandBrake/HandBrake>`_
 * `LuaJIT/LuaJIT <https://github.com/LuaJIT/LuaJIT>`_
 * `NLnetLabs/unbound <https://github.com/NLnetLabs/unbound>`_
+* `RTLPlayground/firmware <https://github.com/RTLPlayground/firmware>`_
 * `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
@@ -33,7 +34,6 @@ C
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 * `jsoftware/jsource <https://github.com/jsoftware/jsource>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
-* `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `lxsmnsyc/narra <https://github.com/lxsmnsyc/narra>`_
 * `macos-fuse-t/libfuse <https://github.com/macos-fuse-t/libfuse>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
@@ -62,6 +62,7 @@ C#
 C++
 ^^^
 
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
 * `JingMatrix/NeoZygisk <https://github.com/JingMatrix/NeoZygisk>`_
 * `JingMatrix/TEESimulator <https://github.com/JingMatrix/TEESimulator>`_
 * `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
@@ -199,7 +200,7 @@ JavaScript
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
+* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
@@ -304,11 +305,6 @@ Makefile
 ^^^^^^^^
 
 * `zigcc/awesome-zig <https://github.com/zigcc/awesome-zig>`_
-
-Markdown
-^^^^^^^^
-
-* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
 Nim
 ^^^
@@ -446,6 +442,7 @@ Rust
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `JohnnyMorganz/StyLua <https://github.com/JohnnyMorganz/StyLua>`_
 * `Kampfkarren/selene <https://github.com/Kampfkarren/selene>`_
+* `LadybirdBrowser/ladybird <https://github.com/LadybirdBrowser/ladybird>`_
 * `LalitMaganti/buildprof <https://github.com/LalitMaganti/buildprof>`_
 * `Libera-Chat/sable <https://github.com/Libera-Chat/sable>`_
 * `Losses/rune <https://github.com/Losses/rune>`_
@@ -526,7 +523,6 @@ Shell
 * `JetBrains/JetBrainsMono <https://github.com/JetBrains/JetBrainsMono>`_
 * `anyproto/any-sync-dockercompose <https://github.com/anyproto/any-sync-dockercompose>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
-* `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bohanwood/debi <https://github.com/bohanwood/debi>`_
 * `docker-easyconnect/docker-easyconnect <https://github.com/docker-easyconnect/docker-easyconnect>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
@@ -625,6 +621,7 @@ Swift
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `giginet/xcproj.pkl <https://github.com/giginet/xcproj.pkl>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
@@ -741,7 +738,7 @@ TypeScript
 * `TimeleapLabs/sia <https://github.com/TimeleapLabs/sia>`_
 * `UNIkeEN/SJMCL <https://github.com/UNIkeEN/SJMCL>`_
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `angular/angular <https://github.com/angular/angular>`_
 * `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_

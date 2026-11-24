@@ -70,6 +70,7 @@ Others
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
 * `PKUFlyingPig/cs-self-learning <https://github.com/PKUFlyingPig/cs-self-learning>`_
 * `Paidax01/math-curve-loaders <https://github.com/Paidax01/math-curve-loaders>`_
+* `RTLPlayground/firmware <https://github.com/RTLPlayground/firmware>`_
 * `SagerNet/sing-box <https://github.com/SagerNet/sing-box>`_
 * `SchildiChat/schildichat-android-next <https://github.com/SchildiChat/schildichat-android-next>`_
 * `SlimeNull/OppoCustomSideButtonFunctions <https://github.com/SlimeNull/OppoCustomSideButtonFunctions>`_
@@ -102,7 +103,6 @@ Others
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
 * `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
-* `backslashxx/ksu_toolkit <https://github.com/backslashxx/ksu_toolkit>`_
 * `baidu/Unlimited-OCR <https://github.com/baidu/Unlimited-OCR>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `bytedance/DanceUI <https://github.com/bytedance/DanceUI>`_
@@ -157,7 +157,6 @@ Others
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lilialla/request-right-skill-reference <https://github.com/lilialla/request-right-skill-reference>`_
 * `lingqiqi5211/CrashCatcher <https://github.com/lingqiqi5211/CrashCatcher>`_
-* `logicog/RTLPlayground <https://github.com/logicog/RTLPlayground>`_
 * `lukeed/empathic <https://github.com/lukeed/empathic>`_
 * `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
 * `lxsmnsyc/narra <https://github.com/lxsmnsyc/narra>`_
@@ -371,7 +370,7 @@ agents-md
 ai
 ^^
 
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `microsoft/SwiftStreamingMarkdown <https://github.com/microsoft/SwiftStreamingMarkdown>`_
 * `pbakaus/impeccable <https://github.com/pbakaus/impeccable>`_
 * `shadcn-ui/ui <https://github.com/shadcn-ui/ui>`_
@@ -388,7 +387,7 @@ ai-agents
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
 * `JetBrains/go-modern-guidelines <https://github.com/JetBrains/go-modern-guidelines>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `deepseek-ai/deepseek-harness <https://github.com/deepseek-ai/deepseek-harness>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `lycorp-jp/sim-use <https://github.com/lycorp-jp/sim-use>`_
@@ -762,7 +761,6 @@ apatch
 
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 
 apatch-module
@@ -866,7 +864,6 @@ appkit
 
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
-* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
@@ -925,6 +922,11 @@ apple-silicon-mac
 ^^^^^^^^^^^^^^^^^
 
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
+
+apple-vnc
+^^^^^^^^^
+
+* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 application-manager
 ^^^^^^^^^^^^^^^^^^^
@@ -1163,6 +1165,11 @@ bank
 ^^^^
 
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
+
+bartender-alternative
+^^^^^^^^^^^^^^^^^^^^^
+
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 
 base-ui
 ^^^^^^^
@@ -1405,6 +1412,7 @@ browser
 ^^^^^^^
 
 * `JingMatrix/ChromeXt <https://github.com/JingMatrix/ChromeXt>`_
+* `LadybirdBrowser/ladybird <https://github.com/LadybirdBrowser/ladybird>`_
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
 * `withastro/astro <https://github.com/withastro/astro>`_
@@ -1414,6 +1422,11 @@ browser-automation
 
 * `h4ckf0r0day/obscura <https://github.com/h4ckf0r0day/obscura>`_
 * `lightpanda-io/browser <https://github.com/lightpanda-io/browser>`_
+
+browser-engine
+^^^^^^^^^^^^^^
+
+* `LadybirdBrowser/ladybird <https://github.com/LadybirdBrowser/ladybird>`_
 
 btop
 ^^^^
@@ -1651,9 +1664,15 @@ chat
 chinese
 ^^^^^^^
 
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
 * `CTeX-org/ctex-kit <https://github.com/CTeX-org/ctex-kit>`_
 * `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
 * `zotero-chinese/styles <https://github.com/zotero-chinese/styles>`_
+
+chinese-conversion
+^^^^^^^^^^^^^^^^^^
+
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
 
 chinese-simplified
 ^^^^^^^^^^^^^^^^^^
@@ -1664,6 +1683,11 @@ chinese-traditional
 ^^^^^^^^^^^^^^^^^^^
 
 * `TakWolf/ark-pixel-font <https://github.com/TakWolf/ark-pixel-font>`_
+
+chinese-translation
+^^^^^^^^^^^^^^^^^^^
+
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
 
 chrome
 ^^^^^^
@@ -1764,7 +1788,7 @@ claude-code
 ^^^^^^^^^^^
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 * `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
@@ -1984,7 +2008,7 @@ codex
 ^^^^^
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `lcandy2/sim-agentation <https://github.com/lcandy2/sim-agentation>`_
 * `linhay/harmony-next.skills <https://github.com/linhay/harmony-next.skills>`_
 
@@ -2523,7 +2547,7 @@ cups
 cursor
 ^^^^^^
 
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `morganlinton/BeautifulRust <https://github.com/morganlinton/BeautifulRust>`_
 
 cyclonedx
@@ -4366,6 +4390,11 @@ i18n
 * `Vexu/i18n-experiment <https://github.com/Vexu/i18n-experiment>`_
 * `WeblateOrg/weblate <https://github.com/WeblateOrg/weblate>`_
 
+ice-alternative
+^^^^^^^^^^^^^^^
+
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
+
 iced
 ^^^^
 
@@ -4988,7 +5017,6 @@ kernelsu
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 
 kernelsu-module
@@ -5204,11 +5232,6 @@ latex3-development
 ^^^^^^^^^^^^^^^^^^
 
 * `latex3/latex3 <https://github.com/latex3/latex3>`_
-
-launcher
-^^^^^^^^
-
-* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
 
 law
 ^^^
@@ -5645,6 +5668,7 @@ macos
 * `fatbobman/PersistentHistoryTrackingKit <https://github.com/fatbobman/PersistentHistoryTrackingKit>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `ganeshrvel/openmtp <https://github.com/ganeshrvel/openmtp>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `iina/iina <https://github.com/iina/iina>`_
@@ -5703,6 +5727,7 @@ macos-app
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `f/textream <https://github.com/f/textream>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
@@ -5761,7 +5786,6 @@ magisk
 * `Dr-TSNG/ZygiskNext <https://github.com/Dr-TSNG/ZygiskNext>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
-* `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 
 magisk-detection
@@ -5990,14 +6014,21 @@ mental-omega
 menu-bar
 ^^^^^^^^
 
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
+
+menu-bar-manager
+^^^^^^^^^^^^^^^^
+
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 
 menubar
 ^^^^^^^
 
 * `LunarBar-app/LunarBar <https://github.com/LunarBar-app/LunarBar>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `orchetect/MenuBarExtraAccess <https://github.com/orchetect/MenuBarExtraAccess>`_
@@ -6007,6 +6038,7 @@ menubar-app
 ^^^^^^^^^^^
 
 * `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `nickustinov/itsyhome-macos <https://github.com/nickustinov/itsyhome-macos>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
@@ -6035,7 +6067,6 @@ metamodule
 ^^^^^^^^^^
 
 * `Tools-cx-app/meta-magic_mount-rs <https://github.com/Tools-cx-app/meta-magic_mount-rs>`_
-* `backslashxx/mountify <https://github.com/backslashxx/mountify>`_
 * `maxsteeel/nomount <https://github.com/maxsteeel/nomount>`_
 
 metaprogramming
@@ -6788,7 +6819,7 @@ opencode
 ^^^^^^^^
 
 * `Alice39s/agent-stash <https://github.com/Alice39s/agent-stash>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 
 opencore
 ^^^^^^^^
@@ -8466,6 +8497,11 @@ simple
 
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
 
+simplified-chinese
+^^^^^^^^^^^^^^^^^^
+
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
+
 sing-box
 ^^^^^^^^
 
@@ -8494,7 +8530,7 @@ sjtu
 skills
 ^^^^^^
 
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `android/skills <https://github.com/android/skills>`_
 * `enesozturk/dimensional-drawing <https://github.com/enesozturk/dimensional-drawing>`_
 * `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
@@ -8761,6 +8797,7 @@ status
 status-bar
 ^^^^^^^^^^
 
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 status-page
@@ -8771,6 +8808,7 @@ status-page
 statusbar
 ^^^^^^^^^
 
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 
 statusitem
@@ -8947,6 +8985,7 @@ swift
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
@@ -9133,12 +9172,12 @@ swiftui
 * `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 * `SwiftedMind/Tessera <https://github.com/SwiftedMind/Tessera>`_
 * `XcodesOrg/XcodesApp <https://github.com/XcodesOrg/XcodesApp>`_
-* `abue-ammar/tinycast <https://github.com/abue-ammar/tinycast>`_
-* `ameyalambat128/swiftui-skills <https://github.com/ameyalambat128/swiftui-skills>`_
+* `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
 * `fatbobman/TinyDependency <https://github.com/fatbobman/TinyDependency>`_
 * `fatbobman/iCloudSyncStatusKit <https://github.com/fatbobman/iCloudSyncStatusKit>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `gonzalezreal/textual <https://github.com/gonzalezreal/textual>`_
 * `hmlongco/Factory <https://github.com/hmlongco/Factory>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
@@ -9564,6 +9603,11 @@ touchid
 ^^^^^^^
 
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
+
+traditional-chinese
+^^^^^^^^^^^^^^^^^^^
+
+* `BYVoid/OpenCC <https://github.com/BYVoid/OpenCC>`_
 
 traffic-monitor
 ^^^^^^^^^^^^^^^
@@ -10009,6 +10053,7 @@ userscripts
 utility
 ^^^^^^^
 
+* `fif7y/dimble <https://github.com/fif7y/dimble>`_
 * `lingyired/status-trio <https://github.com/lingyired/status-trio>`_
 * `ronitsingh10/FineTune <https://github.com/ronitsingh10/FineTune>`_
 
