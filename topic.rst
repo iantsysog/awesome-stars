@@ -671,6 +671,7 @@ android-on-mac
 android-root
 ^^^^^^^^^^^^
 
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 * `VeryBaaad/ZNNext <https://github.com/VeryBaaad/ZNNext>`_
 * `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 
@@ -879,7 +880,6 @@ apple
 * `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `majd/ipatool <https://github.com/majd/ipatool>`_
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `niklasr22/BrightIntosh <https://github.com/niklasr22/BrightIntosh>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
 * `rorkai/App-Store-Connect-CLI <https://github.com/rorkai/App-Store-Connect-CLI>`_
@@ -910,6 +910,7 @@ apple-pay
 apple-silicon
 ^^^^^^^^^^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `drumih/turbo-fieldfare <https://github.com/drumih/turbo-fieldfare>`_
 * `featherview/featherview <https://github.com/featherview/featherview>`_
@@ -922,11 +923,6 @@ apple-silicon-mac
 ^^^^^^^^^^^^^^^^^
 
 * `kksimp/Mac.apk <https://github.com/kksimp/Mac.apk>`_
-
-apple-vnc
-^^^^^^^^^
-
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 application-manager
 ^^^^^^^^^^^^^^^^^^^
@@ -1160,6 +1156,11 @@ backup
 ^^^^^^
 
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+
+bakasu
+^^^^^^
+
+* `Baka-SU/BakaSU <https://github.com/Baka-SU/BakaSU>`_
 
 bank
 ^^^^
@@ -1431,6 +1432,7 @@ browser-engine
 btop
 ^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 
 bugtracker
@@ -1510,6 +1512,7 @@ c
 
 * `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `Vexu/arocc <https://github.com/Vexu/arocc>`_
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `neovim/neovim <https://github.com/neovim/neovim>`_
 * `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 
@@ -1784,6 +1787,11 @@ clamav
 
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_
 
+clang
+^^^^^
+
+* `clice-io/clice <https://github.com/clice-io/clice>`_
+
 claude-code
 ^^^^^^^^^^^
 
@@ -1834,6 +1842,7 @@ cleanmymac
 cli
 ^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `aliveranme/BBDown <https://github.com/aliveranme/BBDown>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
@@ -2375,8 +2384,14 @@ cpp
 
 * `87owo/PYAS <https://github.com/87owo/PYAS>`_
 * `Torteous44/radioform <https://github.com/Torteous44/radioform>`_
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
+
+cpp-modules
+^^^^^^^^^^^
+
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 
 cpp-programming
 ^^^^^^^^^^^^^^^
@@ -2401,6 +2416,7 @@ cpp17
 cpp20
 ^^^^^
 
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 
 cpp23
@@ -2538,6 +2554,11 @@ cua
 ^^^
 
 * `trycua/cua <https://github.com/trycua/cua>`_
+
+cuda
+^^^^
+
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 
 cups
 ^^^^
@@ -4283,6 +4304,7 @@ hridayan
 htop
 ^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 
 http
@@ -4643,7 +4665,6 @@ ios
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `mjmirza/app-store-compliance <https://github.com/mjmirza/app-store-compliance>`_
 * `nab138/iloader <https://github.com/nab138/iloader>`_
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `nenadvulic/solid-like-a-rock <https://github.com/nenadvulic/solid-like-a-rock>`_
 * `orlandos-nl/DNSClient <https://github.com/orlandos-nl/DNSClient>`_
 * `owngoal-dev/TrollRecorder <https://github.com/owngoal-dev/TrollRecorder>`_
@@ -5206,6 +5227,7 @@ language
 language-server
 ^^^^^^^^^^^^^^^
 
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 language-server-protocol
@@ -5426,6 +5448,7 @@ llvm
 ^^^^
 
 * `PerryTS/perry <https://github.com/PerryTS/perry>`_
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 
 lm-studio
 ^^^^^^^^^
@@ -5488,6 +5511,7 @@ logicola
 lsp
 ^^^
 
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 lsposed
@@ -5565,10 +5589,25 @@ lz4
 
 * `inikep/lzbench <https://github.com/inikep/lzbench>`_
 
+m1
+^^
+
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
+
 m3e
 ^^^
 
 * `mfskys/M3E-Skills <https://github.com/mfskys/M3E-Skills>`_
+
+m4
+^^
+
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
+
+m5
+^^
+
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 
 mac
 ^^^
@@ -5641,6 +5680,7 @@ macho
 macos
 ^^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `HMAKT99/UnTouchID <https://github.com/HMAKT99/UnTouchID>`_
@@ -6254,6 +6294,7 @@ monitor
 monitoring
 ^^^^^^^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `TwiN/gatus <https://github.com/TwiN/gatus>`_
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 * `grafana/grafana <https://github.com/grafana/grafana>`_
@@ -6429,6 +6470,7 @@ neoforge
 neovim
 ^^^^^^
 
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `neovim/neovim <https://github.com/neovim/neovim>`_
 
 nerdctl
@@ -6657,6 +6699,7 @@ objective-c
 
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `mhdhejazi/Dynamic <https://github.com/mhdhejazi/Dynamic>`_
@@ -7718,6 +7761,11 @@ randomness
 
 * `mhayes853/swift-uuidv7 <https://github.com/mhayes853/swift-uuidv7>`_
 
+ratatui
+^^^^^^^
+
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
+
 rawspan
 ^^^^^^^
 
@@ -7727,11 +7775,6 @@ raycast-extension
 ^^^^^^^^^^^^^^^^^
 
 * `sunnyyoung/WeChatTweak <https://github.com/sunnyyoung/WeChatTweak>`_
-
-rdp
-^^^
-
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 react
 ^^^^^
@@ -8087,6 +8130,7 @@ runtime-validation
 rust
 ^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
 * `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
@@ -8256,11 +8300,6 @@ scrcpy
 ^^^^^^
 
 * `DP-Hridayan/aShellYou <https://github.com/DP-Hridayan/aShellYou>`_
-
-screen-sharing
-^^^^^^^^^^^^^^
-
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 
 screenrecording
 ^^^^^^^^^^^^^^^
@@ -9284,6 +9323,7 @@ system-information
 system-monitor
 ^^^^^^^^^^^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
 * `Ray-lea/Argus <https://github.com/Ray-lea/Argus>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
@@ -9422,6 +9462,7 @@ templates
 terminal
 ^^^^^^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `artginzburg/sudo-touchid <https://github.com/artginzburg/sudo-touchid>`_
 * `fish-shell/fish-shell <https://github.com/fish-shell/fish-shell>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
@@ -9678,6 +9719,7 @@ tsforge
 tui
 ^^^
 
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `hledgerorg/hledger <https://github.com/hledgerorg/hledger>`_
 
 tun
@@ -10319,6 +10361,7 @@ vscode
 vscode-extension
 ^^^^^^^^^^^^^^^^
 
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `pyrefly-org/pyrefly <https://github.com/pyrefly-org/pyrefly>`_
 
 vue
@@ -10808,6 +10851,7 @@ yurisrevenge
 zed
 ^^^
 
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `zed-industries/zed <https://github.com/zed-industries/zed>`_
 
 zero-allocation

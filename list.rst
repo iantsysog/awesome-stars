@@ -285,6 +285,7 @@ LANG: C / C++ / C#
 
 * `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `belav/csharpier <https://github.com/belav/csharpier>`_
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
@@ -787,6 +788,7 @@ PLAT: macOS
 
 * `1amageek/MusicPlayground <https://github.com/1amageek/MusicPlayground>`_
 * `AstraFoundry/Arion <https://github.com/AstraFoundry/Arion>`_
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `Caldis/Mos <https://github.com/Caldis/Mos>`_
 * `CircuitProApp/CircuitPro <https://github.com/CircuitProApp/CircuitPro>`_
 * `Cisco-Talos/clamav <https://github.com/Cisco-Talos/clamav>`_

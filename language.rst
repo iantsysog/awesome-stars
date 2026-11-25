@@ -69,6 +69,7 @@ C++
 * `TelegramMessenger/twidget <https://github.com/TelegramMessenger/twidget>`_
 * `XiaoTong6666/FuseHide <https://github.com/XiaoTong6666/FuseHide>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
+* `clice-io/clice <https://github.com/clice-io/clice>`_
 * `facebookincubator/cinderx <https://github.com/facebookincubator/cinderx>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
@@ -128,6 +129,7 @@ Go
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `majd/ipatool <https://github.com/majd/ipatool>`_
@@ -274,7 +276,6 @@ Kotlin
 * `magisk317/MiPushFramework <https://github.com/magisk317/MiPushFramework>`_
 * `magisk317/XposedSmsCode <https://github.com/magisk317/XposedSmsCode>`_
 * `mikepenz/AboutLibraries <https://github.com/mikepenz/AboutLibraries>`_
-* `nekohasekai/open-screen-sharing <https://github.com/nekohasekai/open-screen-sharing>`_
 * `pengchujin/aerial-tv <https://github.com/pengchujin/aerial-tv>`_
 * `reveny/Android-Native-Root-Detector <https://github.com/reveny/Android-Native-Root-Detector>`_
 * `roro2239/Stellar <https://github.com/roro2239/Stellar>`_
@@ -435,6 +436,7 @@ Rust
 ^^^^
 
 * `1vivy/gbl-chainload <https://github.com/1vivy/gbl-chainload>`_
+* `CLoaKY233/siltop <https://github.com/CLoaKY233/siltop>`_
 * `DioxusLabs/taffy <https://github.com/DioxusLabs/taffy>`_
 * `Dr-TSNG/altdb <https://github.com/Dr-TSNG/altdb>`_
 * `Dr-TSNG/fancyboot <https://github.com/Dr-TSNG/fancyboot>`_
@@ -755,7 +757,6 @@ TypeScript
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
-* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_
