@@ -141,6 +141,7 @@ Others
 * `iamr0s/Dhizuku-API-Xposed <https://github.com/iamr0s/Dhizuku-API-Xposed>`_
 * `idawnlight/ShichiZip <https://github.com/idawnlight/ShichiZip>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `ivg-design/SidebarFavorites <https://github.com/ivg-design/SidebarFavorites>`_
 * `jdx/mise <https://github.com/jdx/mise>`_
 * `jiacai2050/zig-maker <https://github.com/jiacai2050/zig-maker>`_
 * `jj-vcs/jj <https://github.com/jj-vcs/jj>`_
@@ -340,6 +341,7 @@ agent
 ^^^^^
 
 * `MG1937/ASC <https://github.com/MG1937/ASC>`_
+* `ac0d3r/machbox <https://github.com/ac0d3r/machbox>`_
 * `justinwetch/HIGAgentSkills <https://github.com/justinwetch/HIGAgentSkills>`_
 * `laosb/agentc <https://github.com/laosb/agentc>`_
 * `trycua/cua <https://github.com/trycua/cua>`_
@@ -3404,6 +3406,7 @@ expressive
 extension
 ^^^^^^^^^
 
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
 
 fabric
@@ -5900,6 +5903,11 @@ markdown-editor
 * `MarkEdit-app/MarkEdit <https://github.com/MarkEdit-app/MarkEdit>`_
 * `pinchen147/PageFlow <https://github.com/pinchen147/PageFlow>`_
 
+marketplace
+^^^^^^^^^^^
+
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
+
 markup-language
 ^^^^^^^^^^^^^^^
 
@@ -7897,6 +7905,11 @@ regexp
 
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 
+registry
+^^^^^^^^
+
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
+
 relay
 ^^^^^
 
@@ -9555,6 +9568,11 @@ thanos
 
 * `VictoriaMetrics/VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>`_
 
+theia
+^^^^^
+
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
+
 theme
 ^^^^^
 
@@ -10357,6 +10375,7 @@ vscode
 ^^^^^^
 
 * `HenryXiaoYang/realtime-tex <https://github.com/HenryXiaoYang/realtime-tex>`_
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
 
 vscode-extension
 ^^^^^^^^^^^^^^^^

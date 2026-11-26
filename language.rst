@@ -129,7 +129,6 @@ Go
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
-* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `majd/ipatool <https://github.com/majd/ipatool>`_
@@ -186,6 +185,7 @@ Java
 * `cryptomator/cryptomator <https://github.com/cryptomator/cryptomator>`_
 * `deltazefiro/Amarok-Hider <https://github.com/deltazefiro/Amarok-Hider>`_
 * `diffplug/spotless <https://github.com/diffplug/spotless>`_
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
 * `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
 * `emanuele-f/PCAPdroid-mitm <https://github.com/emanuele-f/PCAPdroid-mitm>`_
 * `google/google-java-format <https://github.com/google/google-java-format>`_
@@ -635,6 +635,7 @@ Swift
 * `iina/iina <https://github.com/iina/iina>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `ivg-design/SidebarFavorites <https://github.com/ivg-design/SidebarFavorites>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `johnrbent/Rearrange <https://github.com/johnrbent/Rearrange>`_
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
@@ -757,6 +758,7 @@ TypeScript
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_

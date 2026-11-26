@@ -32,6 +32,7 @@ APP: Miscellaneous
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `cordiverse/cordis <https://github.com/cordiverse/cordis>`_
+* `eclipse-openvsx/openvsx <https://github.com/eclipse-openvsx/openvsx>`_
 * `emexlab/Nyxian <https://github.com/emexlab/Nyxian>`_
 * `eweOS/packages <https://github.com/eweOS/packages>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
@@ -850,6 +851,7 @@ PLAT: macOS
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
 * `insidegui/AssetCatalogTinkerer <https://github.com/insidegui/AssetCatalogTinkerer>`_
 * `insidegui/VirtualBuddy <https://github.com/insidegui/VirtualBuddy>`_
+* `ivg-design/SidebarFavorites <https://github.com/ivg-design/SidebarFavorites>`_
 * `jithin-sabu/purge-app <https://github.com/jithin-sabu/purge-app>`_
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `kennss/SiliconScope <https://github.com/kennss/SiliconScope>`_
