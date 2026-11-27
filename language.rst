@@ -58,6 +58,7 @@ C#
 * `libxzr/FastbootEnhance <https://github.com/libxzr/FastbootEnhance>`_
 * `lostindark/DriverStoreExplorer <https://github.com/lostindark/DriverStoreExplorer>`_
 * `mili-tan/ArashiDNS.C <https://github.com/mili-tan/ArashiDNS.C>`_
+* `netchx/netch <https://github.com/netchx/netch>`_
 
 C++
 ^^^
@@ -129,6 +130,7 @@ Go
 * `go-acme/lego <https://github.com/go-acme/lego>`_
 * `go-gost/x <https://github.com/go-gost/x>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `henrygd/beszel <https://github.com/henrygd/beszel>`_
 * `lyricat/inua <https://github.com/lyricat/inua>`_
 * `majd/ipatool <https://github.com/majd/ipatool>`_
@@ -202,7 +204,6 @@ JavaScript
 * `PrismarineJS/mineflayer <https://github.com/PrismarineJS/mineflayer>`_
 * `SukkaW/dnscontrol-gitops-template <https://github.com/SukkaW/dnscontrol-gitops-template>`_
 * `SwiftOldDriver/iOS-Weekly <https://github.com/SwiftOldDriver/iOS-Weekly>`_
-* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `bindhosts/bindhosts <https://github.com/bindhosts/bindhosts>`_
 * `cinnyapp/cinny-desktop <https://github.com/cinnyapp/cinny-desktop>`_
 * `eamonxg/luci-theme-aurora <https://github.com/eamonxg/luci-theme-aurora>`_
@@ -329,6 +330,7 @@ Objective-C
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
 * `claration/cis <https://github.com/claration/cis>`_
 * `figma/dynamic-universal-app <https://github.com/figma/dynamic-universal-app>`_
+* `kstenerud/KSCrash <https://github.com/kstenerud/KSCrash>`_
 * `microsoft/plcrashreporter <https://github.com/microsoft/plcrashreporter>`_
 * `missuo/FlareDNS <https://github.com/missuo/FlareDNS>`_
 * `objective-see/BlockBlock <https://github.com/objective-see/BlockBlock>`_
@@ -354,6 +356,7 @@ Others
 * `awesome-selfhosted/awesome-selfhosted <https://github.com/awesome-selfhosted/awesome-selfhosted>`_
 * `gistya/swift-concurrency-reference <https://github.com/gistya/swift-concurrency-reference>`_
 * `imputnet/ublock-origin-crx <https://github.com/imputnet/ublock-origin-crx>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `no2ac/Cardentify <https://github.com/no2ac/Cardentify>`_
 * `nyas1/Material-You-app-list <https://github.com/nyas1/Material-You-app-list>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
@@ -579,6 +582,8 @@ Swift
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `Moya/Moya <https://github.com/Moya/Moya>`_
+* `MxIris-Reverse-Engineering/MachOKitExtensions <https://github.com/MxIris-Reverse-Engineering/MachOKitExtensions>`_
+* `MxIris-Reverse-Engineering/MachOSwiftSection <https://github.com/MxIris-Reverse-Engineering/MachOSwiftSection>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `Nongfsq/ftop <https://github.com/Nongfsq/ftop>`_
@@ -677,6 +682,7 @@ Swift
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 * `p-x9/ObfuscateMacro <https://github.com/p-x9/ObfuscateMacro>`_
 * `p-x9/swift-asm-macro <https://github.com/p-x9/swift-asm-macro>`_
+* `p-x9/swift-dwarf <https://github.com/p-x9/swift-dwarf>`_
 * `p-x9/swift-fishhook <https://github.com/p-x9/swift-fishhook>`_
 * `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `pencilresearch/OpenScanner <https://github.com/pencilresearch/OpenScanner>`_
@@ -743,6 +749,7 @@ TypeScript
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 * `ameyalambat/swiftui-skills <https://github.com/ameyalambat/swiftui-skills>`_
 * `angular/angular <https://github.com/angular/angular>`_
+* `awesome-android-root/awesome-android-root <https://github.com/awesome-android-root/awesome-android-root>`_
 * `ax-design/ax-design.github.io <https://github.com/ax-design/ax-design.github.io>`_
 * `barvian/number-flow <https://github.com/barvian/number-flow>`_
 * `biggerstar/wedecode <https://github.com/biggerstar/wedecode>`_
@@ -758,7 +765,6 @@ TypeScript
 * `freshframework/fresh <https://github.com/freshframework/fresh>`_
 * `frostming/ai-guard <https://github.com/frostming/ai-guard>`_
 * `getsentry/MobileBuildMCP <https://github.com/getsentry/MobileBuildMCP>`_
-* `grafana/grafana <https://github.com/grafana/grafana>`_
 * `guillermolg00/morphicons <https://github.com/guillermolg00/morphicons>`_
 * `hieunc229/mailflare <https://github.com/hieunc229/mailflare>`_
 * `honojs/hono <https://github.com/honojs/hono>`_

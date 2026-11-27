@@ -289,6 +289,7 @@ LANG: C / C++ / C#
 * `clice-io/clice <https://github.com/clice-io/clice>`_
 * `dotnet/roslynator <https://github.com/dotnet/roslynator>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `libffi/libffi <https://github.com/libffi/libffi>`_
 * `pizlonator/fil-c <https://github.com/pizlonator/fil-c>`_
 * `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
@@ -308,6 +309,7 @@ LANG: Go
 * `coregx/coregex <https://github.com/coregx/coregex>`_
 * `dkorunic/betteralign <https://github.com/dkorunic/betteralign>`_
 * `go-task/task <https://github.com/go-task/task>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `mvdan/gofumpt <https://github.com/mvdan/gofumpt>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 * `shoenig/test <https://github.com/shoenig/test>`_
@@ -364,6 +366,7 @@ LANG: Rust
 * `bytecodealliance/wasmtime <https://github.com/bytecodealliance/wasmtime>`_
 * `erweixin/RaTeX <https://github.com/erweixin/RaTeX>`_
 * `killercup/cargo-edit <https://github.com/killercup/cargo-edit>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `madsmtm/objc2 <https://github.com/madsmtm/objc2>`_
 * `mozilla/cbindgen <https://github.com/mozilla/cbindgen>`_
 * `mozilla/uniffi-rs <https://github.com/mozilla/uniffi-rs>`_
@@ -391,6 +394,8 @@ LANG: Swift
 * `MacPass/KeePassKit <https://github.com/MacPass/KeePassKit>`_
 * `Mijick/Camera <https://github.com/Mijick/Camera>`_
 * `Moya/Moya <https://github.com/Moya/Moya>`_
+* `MxIris-Reverse-Engineering/MachOKitExtensions <https://github.com/MxIris-Reverse-Engineering/MachOKitExtensions>`_
+* `MxIris-Reverse-Engineering/MachOSwiftSection <https://github.com/MxIris-Reverse-Engineering/MachOSwiftSection>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
 * `OpenSwiftUIProject/OpenObservation <https://github.com/OpenSwiftUIProject/OpenObservation>`_
 * `OpenSwiftUIProject/OpenSwiftUI <https://github.com/OpenSwiftUIProject/OpenSwiftUI>`_
@@ -431,6 +436,8 @@ LANG: Swift
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
 * `krzysztofzablocki/Sourcery <https://github.com/krzysztofzablocki/Sourcery>`_
 * `krzyzanowskim/STTextView <https://github.com/krzyzanowskim/STTextView>`_
+* `kstenerud/KSCrash <https://github.com/kstenerud/KSCrash>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
 * `manuelCarlos/Easing <https://github.com/manuelCarlos/Easing>`_
@@ -454,6 +461,7 @@ LANG: Swift
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 * `p-x9/ObfuscateMacro <https://github.com/p-x9/ObfuscateMacro>`_
 * `p-x9/swift-asm-macro <https://github.com/p-x9/swift-asm-macro>`_
+* `p-x9/swift-dwarf <https://github.com/p-x9/swift-dwarf>`_
 * `p-x9/swift-fishhook <https://github.com/p-x9/swift-fishhook>`_
 * `patch-release/patch-swift <https://github.com/patch-release/patch-swift>`_
 * `peripheryapp/periphery <https://github.com/peripheryapp/periphery>`_
@@ -756,6 +764,7 @@ PLAT: Windows
 * `microsoft/coreutils <https://github.com/microsoft/coreutils>`_
 * `microsoft/edit <https://github.com/microsoft/edit>`_
 * `neovim/neovim <https://github.com/neovim/neovim>`_
+* `netchx/netch <https://github.com/netchx/netch>`_
 * `nullmoth/1401 <https://github.com/nullmoth/1401>`_
 * `storytold/pdfcraft <https://github.com/storytold/pdfcraft>`_
 * `storytold/vectorcraft <https://github.com/storytold/vectorcraft>`_

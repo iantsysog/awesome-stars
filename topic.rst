@@ -62,6 +62,8 @@ Others
 * `Mcrich-LLC/DocB <https://github.com/Mcrich-LLC/DocB>`_
 * `MobAI-App/simslim <https://github.com/MobAI-App/simslim>`_
 * `MrRare2/MDPC <https://github.com/MrRare2/MDPC>`_
+* `MxIris-Reverse-Engineering/MachOKitExtensions <https://github.com/MxIris-Reverse-Engineering/MachOKitExtensions>`_
+* `MxIris-Reverse-Engineering/MachOSwiftSection <https://github.com/MxIris-Reverse-Engineering/MachOSwiftSection>`_
 * `NEURAX-FX/Widevine-deviceUniqueId <https://github.com/NEURAX-FX/Widevine-deviceUniqueId>`_
 * `NSAntoine/Samra <https://github.com/NSAntoine/Samra>`_
 * `Nephelium/PhoneticToolbox <https://github.com/Nephelium/PhoneticToolbox>`_
@@ -151,6 +153,7 @@ Others
 * `kateinoigakukun/swift-tar <https://github.com/kateinoigakukun/swift-tar>`_
 * `kiriashi/BioPay <https://github.com/kiriashi/BioPay>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
+* `kstenerud/KSCrash <https://github.com/kstenerud/KSCrash>`_
 * `kylebrowning/BLESwift <https://github.com/kylebrowning/BLESwift>`_
 * `kylebshr/slots <https://github.com/kylebshr/slots>`_
 * `ldomaradzki/xcsift <https://github.com/ldomaradzki/xcsift>`_
@@ -1286,6 +1289,7 @@ binary
 ^^^^^^
 
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
 
 binaural
@@ -3176,6 +3180,11 @@ durable-objects
 
 * `akazwz/hostc <https://github.com/akazwz/hostc>`_
 
+dwarf
+^^^^^
+
+* `p-x9/swift-dwarf <https://github.com/p-x9/swift-dwarf>`_
+
 dyld
 ^^^^
 
@@ -3704,6 +3713,11 @@ frugal
 ^^^^^^
 
 * `syncthing/syncthing-macos <https://github.com/syncthing/syncthing-macos>`_
+
+fullcone
+^^^^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
 
 functional
 ^^^^^^^^^^
@@ -4942,6 +4956,7 @@ json
 * `apple/pkl <https://github.com/apple/pkl>`_
 * `biomejs/biome <https://github.com/biomejs/biome>`_
 * `buger/jsonparser <https://github.com/buger/jsonparser>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `omissis/go-jsonschema <https://github.com/omissis/go-jsonschema>`_
 
 json-parser
@@ -4990,6 +5005,11 @@ k8s
 ^^^
 
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
+
+kadr
+^^^^
+
+* `SteliyanH/kadr <https://github.com/SteliyanH/kadr>`_
 
 katex
 ^^^^^
@@ -5668,6 +5688,7 @@ mach-o
 ^^^^^^
 
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
+* `p-x9/swift-dwarf <https://github.com/p-x9/swift-dwarf>`_
 
 machine-learning
 ^^^^^^^^^^^^^^^^
@@ -6485,6 +6506,16 @@ nerdctl
 ^^^^^^^
 
 * `abiosoft/colima <https://github.com/abiosoft/colima>`_
+
+netch
+^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
+
+netfiltersdk
+^^^^^^^^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
 
 netlify
 ^^^^^^^
@@ -7970,6 +8001,7 @@ reverse-engineering
 * `librepods-org/librepods <https://github.com/librepods-org/librepods>`_
 * `majd/ipatool <https://github.com/majd/ipatool>`_
 * `p-x9/MachOKit <https://github.com/p-x9/MachOKit>`_
+* `p-x9/swift-dwarf <https://github.com/p-x9/swift-dwarf>`_
 
 reverse-proxy
 ^^^^^^^^^^^^^
@@ -8411,6 +8443,7 @@ serialization
 ^^^^^^^^^^^^^
 
 * `christophhagen/BinaryCodable <https://github.com/christophhagen/BinaryCodable>`_
+* `kstenerud/bonjson <https://github.com/kstenerud/bonjson>`_
 * `marshmallow-code/marshmallow <https://github.com/marshmallow-code/marshmallow>`_
 
 serialnumber
@@ -8448,6 +8481,16 @@ shaders
 
 * `DavidHDev/canvas-ui <https://github.com/DavidHDev/canvas-ui>`_
 * `NSStudent/TearKit <https://github.com/NSStudent/TearKit>`_
+
+shadowsocks
+^^^^^^^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
+
+shadowsocksr
+^^^^^^^^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
 
 shapes
 ^^^^^^
@@ -8657,6 +8700,11 @@ sniffing
 ^^^^^^^^
 
 * `emanuele-f/PCAPdroid <https://github.com/emanuele-f/PCAPdroid>`_
+
+socks
+^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
 
 socks5
 ^^^^^^
@@ -9745,6 +9793,11 @@ tun
 
 * `HyNetworks/hysteria <https://github.com/HyNetworks/hysteria>`_
 
+tun2socks
+^^^^^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
+
 tunnel
 ^^^^^^
 
@@ -10344,10 +10397,20 @@ vlc
 
 * `harflabs/SwiftVLC <https://github.com/harflabs/SwiftVLC>`_
 
+vless
+^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
+
 vm
 ^^
 
 * `utmapp/UTM <https://github.com/utmapp/UTM>`_
+
+vmess
+^^^^^
+
+* `netchx/netch <https://github.com/netchx/netch>`_
 
 volume
 ^^^^^^
