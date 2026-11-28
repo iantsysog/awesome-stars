@@ -27,6 +27,7 @@ C
 * `Snaipe/Criterion <https://github.com/Snaipe/Criterion>`_
 * `Stapxs/pinentry-modern <https://github.com/Stapxs/pinentry-modern>`_
 * `SuperTurtleDev/gbl_root_canoe <https://github.com/SuperTurtleDev/gbl_root_canoe>`_
+* `aerath-stuff/fgetpriority <https://github.com/aerath-stuff/fgetpriority>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `clerkma/ptex-ng <https://github.com/clerkma/ptex-ng>`_
 * `edgcpp/compiler <https://github.com/edgcpp/compiler>`_
@@ -75,6 +76,7 @@ C++
 * `keepassxreboot/keepassxc <https://github.com/keepassxreboot/keepassxc>`_
 * `klzgrad/naiveproxy <https://github.com/klzgrad/naiveproxy>`_
 * `lwtw123456/one_byte_patchN <https://github.com/lwtw123456/one_byte_patchN>`_
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
 * `sainnhe/caj2pdf-qt <https://github.com/sainnhe/caj2pdf-qt>`_
 * `sheredom/utest.h <https://github.com/sheredom/utest.h>`_
 * `uazo/cromite <https://github.com/uazo/cromite>`_
@@ -605,6 +607,7 @@ Swift
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `andrew-waters/orchard <https://github.com/andrew-waters/orchard>`_
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
+* `apple/swift-protobuf <https://github.com/apple/swift-protobuf>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_

@@ -95,12 +95,14 @@ Others
 * `Yyilin001/TurboList <https://github.com/Yyilin001/TurboList>`_
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `ZzzLc0405/photo-abstract-editorial <https://github.com/ZzzLc0405/photo-abstract-editorial>`_
+* `aerath-stuff/fgetpriority <https://github.com/aerath-stuff/fgetpriority>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `alexey-lysiuk/macos-sdk <https://github.com/alexey-lysiuk/macos-sdk>`_
 * `amll-dev/amll-ttml-db <https://github.com/amll-dev/amll-ttml-db>`_
 * `anomalyco/rift <https://github.com/anomalyco/rift>`_
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
 * `anytls/anytls-go <https://github.com/anytls/anytls-go>`_
+* `apple/swift-protobuf <https://github.com/apple/swift-protobuf>`_
 * `astral-sh/ty <https://github.com/astral-sh/ty>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
 * `aviraxp/ZN-hostsredirect <https://github.com/aviraxp/ZN-hostsredirect>`_
@@ -4517,6 +4519,7 @@ ime
 ^^^
 
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
 
 imk
@@ -5246,6 +5249,11 @@ language
 ^^^^^^^^
 
 * `apple/pkl <https://github.com/apple/pkl>`_
+
+language-model
+^^^^^^^^^^^^^^
+
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
 
 language-server
 ^^^^^^^^^^^^^^^
@@ -7326,6 +7334,11 @@ ping
 
 * `TeddyHuang-00/sshping <https://github.com/TeddyHuang-00/sshping>`_
 
+pinyin
+^^^^^^
+
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
+
 pixel
 ^^^^^
 
@@ -7778,6 +7791,11 @@ quizapp
 
 * `malikpiara/logicola <https://github.com/malikpiara/logicola>`_
 
+qwen
+^^^^
+
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
+
 ra2
 ^^^
 
@@ -8044,6 +8062,7 @@ rime
 
 * `fcitx-contrib/fcitx5-ios <https://github.com/fcitx-contrib/fcitx5-ios>`_
 * `iDvel/rime-ice <https://github.com/iDvel/rime-ice>`_
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
 
 rime-config
 ^^^^^^^^^^^

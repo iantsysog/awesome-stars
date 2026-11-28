@@ -102,6 +102,7 @@ DOMAIN: IME
 * `fcitx5-android/fcitx5-android <https://github.com/fcitx5-android/fcitx5-android>`_
 * `fishjar/kiss-translator <https://github.com/fishjar/kiss-translator>`_
 * `iDvel/rime-ice <https://github.com/iDvel/rime-ice>`_
+* `mizorewww/rime-qwen-freq <https://github.com/mizorewww/rime-qwen-freq>`_
 * `rime/squirrel <https://github.com/rime/squirrel>`_
 * `vChewing/IMKSwift <https://github.com/vChewing/IMKSwift>`_
 * `vChewing/vChewing-macOS <https://github.com/vChewing/vChewing-macOS>`_
@@ -410,6 +411,7 @@ LANG: Swift
 * `Zollerboy1/SwiftCommand <https://github.com/Zollerboy1/SwiftCommand>`_
 * `afterxleep/ConnectionKit <https://github.com/afterxleep/ConnectionKit>`_
 * `anthony1810/ScreenStateKit <https://github.com/anthony1810/ScreenStateKit>`_
+* `apple/swift-protobuf <https://github.com/apple/swift-protobuf>`_
 * `asymbas/datastorekit <https://github.com/asymbas/datastorekit>`_
 * `async-plus/async-plus <https://github.com/async-plus/async-plus>`_
 * `auramagi/swift-scoped-state <https://github.com/auramagi/swift-scoped-state>`_
@@ -611,6 +613,7 @@ PLAT: Android
 * `XiaoTong6666/Sui <https://github.com/XiaoTong6666/Sui>`_
 * `YuKongA/payload_extract_gui <https://github.com/YuKongA/payload_extract_gui>`_
 * `YuKongA/scripta <https://github.com/YuKongA/scripta>`_
+* `aerath-stuff/fgetpriority <https://github.com/aerath-stuff/fgetpriority>`_
 * `aistra0528/Hail <https://github.com/aistra0528/Hail>`_
 * `anilbeesetti/nextplayer <https://github.com/anilbeesetti/nextplayer>`_
 * `aviraxp/ZN-AuditPatch <https://github.com/aviraxp/ZN-AuditPatch>`_
